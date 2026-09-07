@@ -1,18 +1,19 @@
 import numpy as np
 from poke_env.battle import DoubleBattle
 
-from vocab import *
-from helpers import normalize
+from encode.vocab import *
+from encode.helpers import normalize
 
 ENVIRONMENT_FEATURES_CONT = 81
+BROUGHT_SIZE = 4
 
 def encode_battle(battle: DoubleBattle):
 
     turn = battle.turn
 
     turn_norm = normalize(turn, 100)
-    pokemon_remaining = normalize(sum(1 for p in battle.team.values() if not p.fainted), 4)
-    pokemon_remaining_opp = normalize(battle.team_size - sum(1 for p in battle.opponent_team.values() if p.fainted), 4)
+    pokemon_remaining = normalize(BROUGHT_SIZE - sum(1 for p in battle.team.values() if p.fainted), BROUGHT_SIZE)
+    pokemon_remaining_opp = normalize(BROUGHT_SIZE - sum(1 for p in battle.opponent_team.values() if p.fainted), BROUGHT_SIZE)
 
     # weather
     weather = [float(w in battle.weather) for w in WEATHER_DURATION_CAPS.keys()]
@@ -132,4 +133,4 @@ Adamant Nature
     battle._team_size = {"p1": 4, "p2": 4}     # <-- add this line
     battle._turn = 12
 
-    print(len(encode_battle(battle)["cont"]))
+    print(encode_battle(battle)["cont"])

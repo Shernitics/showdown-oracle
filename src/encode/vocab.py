@@ -1,4 +1,4 @@
-from poke_env.battle import PokemonGender, Status
+from poke_env.battle import PokemonGender
 from poke_env.battle.effect import Effect
 from poke_env.battle.weather import Weather
 from poke_env.battle.field import Field
@@ -8,7 +8,7 @@ from poke_env.battle.target import Target
 from poke_env.data import GenData, to_id_str
 
 
-VERSION = 1
+FEATURE_VERSION = 1
 GEN_DATA = GenData.from_gen(9)
 
 ITEMS = (
@@ -42,7 +42,7 @@ ITEM_NUM = {k: i + 1 for i, k in enumerate(ITEMS)}
 BASE_STAT_CAP = 255
 REAL_STAT_CAP = {"hp": 714, "atk": 660, "def": 660, "spa":660, "spd": 660, "spe": 660}
 BOOST_KEYS = ("accuracy", "atk", "def", "evasion", "spa", "spd", "spe")
-TYPES = ("Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy")
+TYPES = ("Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy", "Stellar")
 GENDERS = (PokemonGender.MALE, PokemonGender.FEMALE, PokemonGender.NEUTRAL)
 STATUS_DURATION_CAPS = {
     "NONE": None,
@@ -70,6 +70,11 @@ EFFECT_DURATION_CAPS = {
     Effect.PARTIALLY_TRAPPED: None,
     Effect.TRAPPED: None,
     Effect.FLINCH: None,
+    Effect.FOLLOW_ME: None,
+    Effect.RAGE_POWDER: None,
+    Effect.HELPING_HAND: None,
+    Effect.COMMANDER: None,
+    Effect.DRAGON_CHEER: None
 }
 PERISH_EFFECTS = (Effect.PERISH3, Effect.PERISH2, Effect.PERISH1, Effect.PERISH0)
 PROTECT_COUNTER_CAP = 3.0
@@ -120,21 +125,21 @@ SIDE_CONDITION_DURATION_CAPS = {
 MOVE_CATEGORIES = (MoveCategory.PHYSICAL, MoveCategory.SPECIAL, MoveCategory.STATUS)
 MOVE_TARGETS = tuple(Target)
 MOVE_FLAGS = (
-    "contact",      # Rocky Helmet, Static, Rough Skin, Flame Body
-    "protect",      # blockable by Protect — huge in doubles
-    "reflectable",  # Magic Bounce
-    "bypasssub",    # hits through Substitute
-    "sound",        # Soundproof, also bypasses sub
-    "punch",        # Iron Fist
-    "slicing",      # Sharpness
-    "bullet",       # Bulletproof
-    "bite",         # Strong Jaw
-    "pulse",        # Mega Launcher
-    "wind",         # Wind Rider / Wind Power
-    "powder",       # Grass immunity, Safety Goggles
-    "heal",         # blocked by Heal Block
-    "charge",       # two-turn (Solar Beam)
-    "recharge",     # Hyper Beam lock
-    "dance",        # Dancer
-    "distance",     # doubles: can hit non-adjacent
+    "contact",
+    "protect",
+    "reflectable",
+    "bypasssub",
+    "sound",
+    "punch",
+    "slicing",
+    "bullet",
+    "bite",
+    "pulse",
+    "wind",
+    "powder",
+    "heal",
+    "charge",
+    "recharge",
+    "dance",
+    "distance",
 )

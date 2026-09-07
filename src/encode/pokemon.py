@@ -1,15 +1,15 @@
 import numpy as np
-from poke_env.battle import Pokemon, pokemon
+from poke_env.battle import Pokemon
 
-from vocab import *
-from helpers import normalize
+from encode.vocab import *
+from encode.helpers import normalize
 
 # cont - continuous features (float32); cat - categorical features (int64)
-POKEMON_FEATURES_CONT = 100
+POKEMON_FEATURES_CONT = 110
 POKEMON_FEATURES_CAT = 3
 
 
-def encode_pokemon(pokemon: Pokemon | None):
+def encode_pokemon(pokemon: Pokemon | None, position: int | None):
     if pokemon is None:
         return {
             "cont": np.zeros(POKEMON_FEATURES_CONT, dtype=np.float32),
@@ -26,12 +26,15 @@ def encode_pokemon(pokemon: Pokemon | None):
         "ability": np.asarray([ABILITY_NUM.get(pokemon.ability, 0)], dtype=np.int64),
     }
 
+    # position: left, right, unknown
+    active = [float(position == 0), float(position == 1), float(position is None)]
+
     # pokemon characteristics (universal for this species)
     base_stats = [normalize(s, BASE_STAT_CAP) for s in pokemon.base_stats.values()]
     type = [float(type_name in {t.name.capitalize() for t in pokemon.types}) for type_name in TYPES]
 
     # stats
-    current_hp_fraction = pokemon.current_hp_fraction
+    current_hp_fraction = pokemon.current_hp_fraction if pokemon.revealed else 1.0
     stats_known = 1.0 if pokemon.stats.get("atk") is not None else 0.0
     stats = [normalize(v, REAL_STAT_CAP.get(s)) if stats_known else 0.0 for s, v in pokemon.stats.items()]
     boosts = [normalize(pokemon.boosts[k] + 6, 12) for k in BOOST_KEYS]
@@ -39,10 +42,10 @@ def encode_pokemon(pokemon: Pokemon | None):
     # pokemon oriented
     level = normalize(pokemon.level, 100)
     gender = [1.0 if pokemon.gender is g else 0.0 for g in GENDERS]
-    active = 1.0 if pokemon.active else 0.0
     must_recharge = float(pokemon.must_recharge)
     first_turn = float(pokemon.first_turn)
     revealed = float(pokemon.revealed)
+    brought = float(pokemon.selected_in_teampreview or pokemon.revealed)
 
     # terastallization
     tera = pokemon.tera_type
@@ -64,7 +67,7 @@ def encode_pokemon(pokemon: Pokemon | None):
 
     cont = np.asarray(
         [
-            1.0,
+            1.0, *active,
 
             # pokemon characteristics (universal for this species)
             *base_stats, *type,
@@ -75,7 +78,7 @@ def encode_pokemon(pokemon: Pokemon | None):
             current_hp_fraction, stats_known, *stats, *boosts,
 
             # pokemon oriented
-            level, *gender, active, must_recharge, first_turn, revealed,
+            level, *gender, must_recharge, first_turn, revealed, brought,
 
             # terastallization
             *tera_type, is_terastallized,

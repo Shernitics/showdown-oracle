@@ -1,10 +1,10 @@
 import numpy as np
 from poke_env.battle import Move
 
-from vocab import *
-from helpers import normalize
+from encode.vocab import *
+from encode.helpers import normalize
 
-MOVE_FEATURES_CONT = 91
+MOVE_FEATURES_CONT = 92
 MOVE_FEATURES_CAT = 1
 
 def encode_move(move: Move):
