@@ -1,14 +1,12 @@
 import numpy as np
-from poke_env.battle import Pokemon
+from poke_env.battle import Pokemon, pokemon
 
 from vocab import *
+from helpers import normalize
 
 # cont - continuous features (float32); cat - categorical features (int64)
-POKEMON_FEATURES_CONT = 1
-POKEMON_FEATURES_CAT = 1
-
-def normalize(value:int | float, cap: int | float) -> int | float:
-    return min(max(float(value), 0.0), cap) / cap
+POKEMON_FEATURES_CONT = 100
+POKEMON_FEATURES_CAT = 3
 
 
 def encode_pokemon(pokemon: Pokemon | None):
@@ -22,39 +20,47 @@ def encode_pokemon(pokemon: Pokemon | None):
             }
         }
 
-    pokemon_ref = pokedex.get(pokemon.species)
-
-    # "bulbasaur":{"num":1,"name":"Bulbasaur","types":["Grass","Poison"],"genderRatio":{"M":0.875,"F":0.125},"baseStats":{"hp":45,"atk":49,"def":49,"spa":65,"spd":65,"spe":45},"abilities":{"0":"Overgrow","H":"Chlorophyll"},"heightm":0.7,"weightkg":6.9,"color":"Green","evos":["Ivysaur"],"eggGroups":["Monster","Grass"],"tier":"LC"}
-
     cat = {
-        "species": np.asarray(pokedex.get(pokemon.species, {}).get("num", 0), dtype=np.int64),
-        "items": np.asarray(items.get(pokemon.item, {}).get("num", 0), dtype=np.int64),
-        "ability": np.asarray(abilities.get(pokemon.ability, {}).get("num", 0), dtype=np.int64),
+        "species": np.asarray([SPECIES_NUM.get(pokemon.species, 0)], dtype=np.int64),
+        "items": np.asarray([ITEM_NUM.get(pokemon.item, 0)], dtype=np.int64),
+        "ability": np.asarray([ABILITY_NUM.get(pokemon.ability, 0)], dtype=np.int64),
     }
 
-    base_stats = [normalize(stat, 255) for stat in pokemon_ref.get("baseStats").values()]
+    # pokemon characteristics (universal for this species)
+    base_stats = [normalize(s, BASE_STAT_CAP) for s in pokemon.base_stats.values()]
     type = [float(type_name in {t.name.capitalize() for t in pokemon.types}) for type_name in TYPES]
 
+    # stats
     current_hp_fraction = pokemon.current_hp_fraction
-    stats_known = pokemon.stats.get("atk") is not None
-    stats = [normalize(stat, 255) if stats_known else 0.0 for stat in pokemon.stats.values()]
-    boosts = [normalize(stat + 6, 12) for stat in pokemon.boosts.values()]
+    stats_known = 1.0 if pokemon.stats.get("atk") is not None else 0.0
+    stats = [normalize(v, REAL_STAT_CAP.get(s)) if stats_known else 0.0 for s, v in pokemon.stats.items()]
+    boosts = [normalize(pokemon.boosts[k] + 6, 12) for k in BOOST_KEYS]
 
+    # pokemon oriented
     level = normalize(pokemon.level, 100)
     gender = [1.0 if pokemon.gender is g else 0.0 for g in GENDERS]
-    active = pokemon.active
+    active = 1.0 if pokemon.active else 0.0
     must_recharge = float(pokemon.must_recharge)
     first_turn = float(pokemon.first_turn)
     revealed = float(pokemon.revealed)
 
+    # terastallization
     tera = pokemon.tera_type
-    tera_type = [float(tera is not None and type_name == tera.name.capitalize()) for type_name in TYPES]
+    tera_type = [float(tera is not None and t == tera.name.capitalize()) for t in TYPES]
     is_terastallized = float(pokemon.is_terastallized)
 
-    current = pokemon.status.name if pokemon.status else "NONE"
-    status_name = [float(name == current) for name in STATUS_DURATION_CAPS]
-    status_duration_max = STATUS_DURATION_CAPS.get(current)
+    # status / effects
+    current_status = pokemon.status.name if pokemon.status else "NONE"
+    status_name = [float(n == current_status) for n in STATUS_DURATION_CAPS]
+    status_duration_max = STATUS_DURATION_CAPS.get(current_status)
     status_duration = normalize(pokemon.status_counter, status_duration_max) if status_duration_max else 0.0
+
+    pokemon_effects = pokemon.effects
+    current_effects = [float(e in pokemon_effects) for e in EFFECT_DURATION_CAPS]
+    effects_duration = [normalize(pokemon_effects.get(e, 0), c) for e, c in EFFECT_DURATION_CAPS.items() if c is not None]
+    perish_effects = [(p in pokemon_effects) for p in PERISH_EFFECTS]
+    protect_counter = normalize(pokemon.protect_counter, PROTECT_COUNTER_CAP)
+
 
     cont = np.asarray(
         [
@@ -75,36 +81,12 @@ def encode_pokemon(pokemon: Pokemon | None):
             *tera_type, is_terastallized,
 
             # status / volatile
-            *status_name, status_duration
+            *status_name, status_duration, *current_effects, *effects_duration, *perish_effects, protect_counter
 
         ]
-    )
+    , dtype=np.float32)
 
     return {
         "cont": cont,
         "cat": cat
     }
-
-
-
-# -----------------------------------------------------------------
-if __name__ == "__main__":
-    from poke_env.battle import Pokemon
-    from poke_env.teambuilder.teambuilder_pokemon import TeambuilderPokemon
-
-    # A real competitive set, in Showdown export format
-    paste = """Great Tusk (M) @ Booster Energy
-Ability: Protosynthesis
-Level: 39
-Tera Type: Steel
-EVs: 4 HP / 252 Atk / 252 Spe
-Jolly Nature
-- Headlong Rush
-- Close Combat
-- Ice Spinner
-- Rapid Spin"""
-
-    tb = TeambuilderPokemon.from_showdown(paste)
-    example = Pokemon(gen=9, teambuilder=tb)
-
-    print(encode_pokemon(example))
