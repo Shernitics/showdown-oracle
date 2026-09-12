@@ -67,7 +67,7 @@ ITEM_NUM = {
 
 
 BASE_STAT_CAP = 255
-REAL_STAT_CAP = {"hp": 714, "atk": 660, "def": 660, "spa":660, "spd": 660, "spe": 660}
+REAL_STAT_CAP = {"hp": 362, "atk": 277, "def": 277, "spa":277, "spd": 277, "spe": 277}
 BOOST_KEYS = ("accuracy", "atk", "def", "evasion", "spa", "spd", "spe")
 TYPES = ("Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy", "Stellar")
 GENDERS = (PokemonGender.MALE, PokemonGender.FEMALE, PokemonGender.NEUTRAL)

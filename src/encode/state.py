@@ -4,7 +4,7 @@ from poke_env.battle import DoubleBattle
 from encode.pokemon import encode_pokemon
 from encode.moves import encode_move
 from encode.battle import encode_battle
-
+from encode.vocab import FEATURE_VERSION
 
 TEAM_SIZE = 6
 MOVE_SLOTS = 4
@@ -45,6 +45,7 @@ def encode_state(battle: DoubleBattle):
     battle_enc = encode_battle(battle)
 
     return {
+        "feature_version": FEATURE_VERSION,
         "pokemon_cont": np.stack([p["cont"] for p in pokemon_enc]),
         "pokemon_cat": {k: np.stack([p["cat"][k] for p in pokemon_enc]) for k in ("species", "items", "ability")},
         "moves_cont": np.stack([np.stack([m["cont"] for m in row]) for row in moves_enc]),
