@@ -12,31 +12,58 @@ FEATURE_VERSION = 1
 GEN_DATA = GenData.from_gen(9)
 
 ITEMS = (
-    "choiceband", "choicespecs", "choicescarf", "lifeorb", "expertbelt", "assaultvest",
-    "rockyhelmet", "eviolite", "leftovers", "shellbell", "safetygoggles", "covertcloak",
-    "clearamulet", "focussash", "focusband", "airballoon", "boosterenergy", "loadeddice",
-    "punchingglove", "abilityshield", "mirrorherb", "mentalherb", "powerherb", "whiteherb",
-    "weaknesspolicy", "throatspray", "blunderpolicy", "roomservice", "ejectbutton",
-    "ejectpack", "redcard", "stickybarb", "blacksludge", "toxicorb", "flameorb", "metronome",
-    "kingsrock", "quickclaw", "brightpowder", "scopelens", "razorclaw", "widelens", "zoomlens",
-    "lightclay", "terrainextender", "heatrock", "damprock", "smoothrock", "icyrock",
-    "electricseed", "grassyseed", "mistyseed", "psychicseed",
-    "sitrusberry", "lumberry", "chestoberry", "oranberry", "figyberry", "wikiberry",
-    "magoberry", "aguavberry", "iapapaberry", "salacberry", "liechiberry", "starfberry",
-    "micleberry", "custapberry", "occaberry", "passhoberry", "wacanberry", "rindoberry",
-    "yacheberry", "chopleberry", "kebiaberry", "shucaberry", "cobaberry", "payapaberry",
-    "tangaberry", "chartiberry", "kasibberry", "habanberry", "colburberry", "babiriberry",
-    "chilanberry", "roseliberry",
-    "wellspringmask", "hearthflamemask", "cornerstonemask", "rustedsword", "rustedshield",
-    "adamantcrystal", "lustrousglobe", "griseouscore", "leek", "thickclub", "lightball",
-    "luckypunch", "metalpowder", "souldew", "deepseatooth", "deepseascale", "berryjuice",
-    "normalgem", "utilityumbrella", "protectivepads", "bigroot", "bindingband", "gripclaw",
-    "ironball", "laggingtail", "machobrace", "poweranklet", "ringtarget", "shedshell",
-    "absorbbulb", "cellbattery", "luminousmoss", "snowball",
+    "abilityshield", "absorbbulb", "adamantcrystal", "adamantorb", "adrenalineorb",
+    "aguavberry", "airballoon", "apicotberry", "aspearberry", "assaultvest", "auspiciousarmor",
+    "babiriberry", "beastball", "berrysweet", "bignugget", "bigroot", "bindingband",
+    "blackbelt", "blackglasses", "blacksludge", "blunderpolicy", "boosterenergy", "bottlecap",
+    "brightpowder", "cellbattery", "charcoal", "chartiberry", "cheriberry", "chestoberry",
+    "chilanberry", "chippedpot", "choiceband", "choicescarf", "choicespecs", "chopleberry",
+    "clearamulet", "cloversweet", "cobaberry", "colburberry", "cornerstonemask", "covertcloak",
+    "crackedpot", "custapberry", "damprock", "dawnstone", "destinyknot", "diveball",
+    "dracoplate", "dragonfang", "dragonscale", "dreadplate", "dreamball", "dubiousdisc",
+    "duskball", "duskstone", "earthplate", "ejectbutton", "ejectpack", "electirizer",
+    "electricseed", "enigmaberry", "eviolite", "expertbelt", "fairyfeather", "fastball",
+    "figyberry", "firestone", "fistplate", "flameorb", "flameplate", "floatstone",
+    "flowersweet", "focusband", "focussash", "friendball", "galaricacuff", "galaricawreath",
+    "ganlonberry", "goldbottlecap", "grassyseed", "greatball", "grepaberry", "gripclaw",
+    "griseouscore", "griseousorb", "habanberry", "hardstone", "healball", "hearthflamemask",
+    "heatrock", "heavyball", "heavydutyboots", "hondewberry", "iapapaberry", "icestone",
+    "icicleplate", "icyrock", "insectplate", "ironball", "ironplate", "jabocaberry",
+    "kasibberry", "kebiaberry", "keeberry", "kelpsyberry", "kingsrock", "laggingtail",
+    "lansatberry", "leafstone", "leftovers", "leppaberry", "levelball", "liechiberry",
+    "lifeorb", "lightball", "lightclay", "loadeddice", "loveball", "lovesweet", "lumberry",
+    "luminousmoss", "lureball", "lustrousglobe", "lustrousorb", "luxuryball", "magmarizer",
+    "magnet", "magoberry", "maliciousarmor", "marangaberry", "masterball", "masterpieceteacup",
+    "meadowplate", "mentalherb", "metalalloy", "metalcoat", "metronome", "micleberry",
+    "mindplate", "miracleseed", "mirrorherb", "mistyseed", "moonball", "moonstone",
+    "muscleband", "mysticwater", "nestball", "netball", "nevermeltice", "normalgem",
+    "occaberry", "oranberry", "ovalstone", "passhoberry", "payapaberry", "pechaberry",
+    "persimberry", "petayaberry", "pixieplate", "poisonbarb", "pokeball", "pomegberry",
+    "poweranklet", "powerband", "powerbelt", "powerbracer", "powerherb", "powerlens",
+    "powerweight", "premierball", "prettyfeather", "prismscale", "protectivepads", "protector",
+    "psychicseed", "punchingglove", "qualotberry", "quickball", "quickclaw", "rarebone",
+    "rawstberry", "razorclaw", "razorfang", "reapercloth", "redcard", "repeatball",
+    "ribbonsweet", "rindoberry", "ringtarget", "rockyhelmet", "roomservice", "roseliberry",
+    "rowapberry", "rustedshield", "rustedsword", "safariball", "safetygoggles", "salacberry",
+    "scopelens", "sharpbeak", "shedshell", "shellbell", "shinystone", "shucaberry", "silkscarf",
+    "silverpowder", "sitrusberry", "skyplate", "smoothrock", "snowball", "softsand", "souldew",
+    "spelltag", "splashplate", "spookyplate", "sportball", "starfberry", "starsweet",
+    "stickybarb", "stoneplate", "strawberrysweet", "sunstone", "sweetapple", "syrupyapple",
+    "tamatoberry", "tangaberry", "tartapple", "terrainextender", "throatspray", "thunderstone",
+    "timerball", "toxicorb", "toxicplate", "twistedspoon", "ultraball", "unremarkableteacup",
+    "upgrade", "utilityumbrella", "wacanberry", "waterstone", "weaknesspolicy",
+    "wellspringmask", "whiteherb", "widelens", "wikiberry", "wiseglasses", "yacheberry",
+    "zapplate", "zoomlens",
 )
-SPECIES_NUM = {k: v["num"] for k, v in GEN_DATA.pokedex.items()}
+
+ITEM_UNKNOWN, ITEM_NONE = 1, 2
+SPECIES_NUM = {k: i + 1 for i, k in enumerate(sorted(GEN_DATA.pokedex))}
 ABILITY_NUM = {a: i + 1 for i, a in enumerate(sorted({to_id_str(a) for e in GEN_DATA.pokedex.values() for a in e.get("abilities", {}).values()} - {""}))}
-ITEM_NUM = {k: i + 1 for i, k in enumerate(ITEMS)}
+ITEM_NUM = {
+    GEN_DATA.UNKNOWN_ITEM: ITEM_UNKNOWN,
+    None: ITEM_NONE,
+    **{k: i + 3 for i, k in enumerate(ITEMS)},
+}
 
 
 BASE_STAT_CAP = 255

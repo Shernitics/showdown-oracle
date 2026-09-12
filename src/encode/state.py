@@ -11,6 +11,7 @@ MOVE_SLOTS = 4
 
 def encode_state(battle: DoubleBattle):
 
+    # checks for pokemon if live, if not then use the base species
     live = {p.base_species: p for p in battle.opponent_team.values()}
     preview = battle.teampreview_opponent_team
 
