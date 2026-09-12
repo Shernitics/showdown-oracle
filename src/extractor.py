@@ -6,10 +6,9 @@ from encode.battle import ENVIRONMENT_FEATURES_CONT
 from encode.moves import MOVE_FEATURES_CONT
 from encode.pokemon import POKEMON_FEATURES_CONT
 from encode.state import MOVE_SLOTS, TEAM_SIZE
-from encode.vocab import ABILITY_NUM, ITEM_NUM, SPECIES_NUM
+from encode.vocab import ABILITY_NUM, ITEM_NUM, MOVE_NUM, SPECIES_NUM
 
 SLOTS = TEAM_SIZE * 2
-MAX_MOVE_NUM = 1000
 EMB_DIM = 16
 MON_DIM = 128
 
@@ -24,7 +23,7 @@ class VGCExtractor(BaseFeaturesExtractor):
         self.species = nn.Embedding(len(SPECIES_NUM) + 1, EMB_DIM)
         self.item = nn.Embedding(len(ITEM_NUM) + 1, EMB_DIM)
         self.ability = nn.Embedding(len(ABILITY_NUM) + 1, EMB_DIM)
-        self.move = nn.Embedding(MAX_MOVE_NUM + 1, EMB_DIM)
+        self.move = nn.Embedding(len(MOVE_NUM) + 1, EMB_DIM)
 
         mon_inputs = (
             POKEMON_FEATURES_CONT
@@ -36,7 +35,7 @@ class VGCExtractor(BaseFeaturesExtractor):
     def forward(self, obs):
         batch = obs["pokemon_cont"].shape[0]
 
-        move_ids = obs["moves_cat"].long().squeeze(-1).clamp(0, MAX_MOVE_NUM)
+        move_ids = obs["moves_cat"].long().squeeze(-1)
         moves = torch.cat([obs["moves_cont"], self.move(move_ids)], dim=-1)
         moves = moves.reshape(batch, SLOTS, -1)
 

@@ -64,6 +64,7 @@ ITEM_NUM = {
     None: ITEM_NONE,
     **{k: i + 3 for i, k in enumerate(ITEMS)},
 }
+MOVE_NUM = {k: i + 1 for i, k in enumerate(sorted(GEN_DATA.moves))}
 
 
 BASE_STAT_CAP = 255

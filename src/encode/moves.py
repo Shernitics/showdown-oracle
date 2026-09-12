@@ -18,7 +18,7 @@ def encode_move(move: Move):
         }
 
     cat = {
-        "name": np.asarray([move.entry.get("num", 0)], dtype=np.int64),
+        "name": np.asarray([MOVE_NUM.get(move.id, 0)], dtype=np.int64),
     }
 
 
