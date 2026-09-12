@@ -14,7 +14,6 @@ from stable_baselines3.common.callbacks import BaseCallback
 from encode.vocab import FEATURE_VERSION
 from env import VGCEnv
 from extractor import VGCExtractor
-from evaluate.results import add_run, connect
 from teams import FORMAT, TEAM, TEAM_ID
 from wrapper import MaskedSingleAgent
 
@@ -26,11 +25,12 @@ MODEL_PATH = MODEL_DIR / "vgc"
 
 class Checkpoint(BaseCallback):
 
-    def __init__(self, save_freq: int, save_dir: Path, run_id: str):
+    def __init__(self, save_freq: int, save_dir: Path, run_meta: dict):
         super().__init__()
         self.save_freq = save_freq
         self.save_dir = save_dir
-        self.run_id = run_id
+        self.run_meta = run_meta
+        self.run_id = run_meta["run_id"]
         self.episodes = 0
         self.start = time.perf_counter()
 
@@ -48,7 +48,8 @@ class Checkpoint(BaseCallback):
         stem.with_suffix(".json").write_text(
             json.dumps(
                 {
-                    "run_id": self.run_id,
+                    **self.run_meta,
+                    "device": str(self.model.device),
                     "train_steps": self.num_timesteps,
                     "train_episodes": self.episodes,
                     "wall_clock_s": round(time.perf_counter() - self.start, 1),
@@ -97,29 +98,20 @@ def main(seed: int = 0, total_steps: int = TOTAL_STEPS, checkpoint_freq: int = C
         **hyperparams,
     )
 
-    checkpoint = Checkpoint(checkpoint_freq, MODEL_DIR, run_id)
-    start = time.perf_counter()
+    run_meta = {
+        "run_id": run_id,
+        "seed": seed,
+        "commit_sha": commit_sha(),
+        "feature_version": FEATURE_VERSION,
+        "battle_format": FORMAT,
+        "team_id": TEAM_ID,
+        "hyperparams": hyperparams,
+    }
+
+    checkpoint = Checkpoint(checkpoint_freq, MODEL_DIR, run_meta)
     model.learn(total_timesteps=total_steps, callback=checkpoint)
-    wall_clock = round(time.perf_counter() - start, 1)
     checkpoint.save()
     model.save(MODEL_PATH)
-
-    con = connect()
-    add_run(
-        con,
-        (
-            run_id,
-            seed,
-            commit_sha(),
-            FEATURE_VERSION,
-            FORMAT,
-            TEAM_ID,
-            json.dumps(hyperparams),
-            str(model.device),
-            wall_clock,
-        ),
-    )
-    con.close()
 
     print(f"run {run_id}  seed {seed}  steps {env.n_steps}  repairs {env.n_repairs}  rate {env.repair_rate:.3f}")
 

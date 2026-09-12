@@ -11,7 +11,7 @@ from sb3_contrib import MaskablePPO
 from sb3_contrib.common.maskable.utils import get_action_masks
 
 from env import VGCEnv
-from evaluate.results import add_battles, connect, done_cells
+from evaluate.results import add_battles, add_run, connect, done_cells
 from teams import FORMAT, TEAM
 from wrapper import MaskedSingleAgent
 
@@ -96,6 +96,28 @@ def main(battles: int, final_battles: int, eval_seed: int, modes: list):
     if not found:
         print(f"no checkpoints in {MODEL_DIR}")
         return
+
+    # training only writes .zip/.json to disk, so the runs table gets filled in
+    # here from the checkpoint sidecars. found is sorted by train_steps, so the
+    # last checkpoint of a run wins and its wall clock is the total.
+    for _, meta in found:
+        if "seed" not in meta:
+            print(f"no run metadata for {meta['run_id']}, checkpoint predates it")
+            continue
+        add_run(
+            con,
+            (
+                meta["run_id"],
+                meta["seed"],
+                meta["commit_sha"],
+                meta["feature_version"],
+                meta["battle_format"],
+                meta["team_id"],
+                json.dumps(meta["hyperparams"]),
+                meta["device"],
+                meta["wall_clock_s"],
+            ),
+        )
 
     last_steps = found[-1][1]["train_steps"]
     for opponent in OPPONENTS:
