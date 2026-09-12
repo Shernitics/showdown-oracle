@@ -31,29 +31,36 @@ def encode_pokemon(pokemon: Pokemon | None, position: int | None):
 
     # pokemon characteristics (universal for this species)
     base_stats = [normalize(s, BASE_STAT_CAP) for s in pokemon.base_stats.values()]
-    type = [float(type_name in {t.name.capitalize() for t in pokemon.types}) for type_name in TYPES]
+    pokemon_types = {t.name.capitalize() for t in pokemon.types}
+    type = [float(type_name in pokemon_types) for type_name in TYPES]
 
     # stats
-    current_hp_fraction = pokemon.current_hp_fraction if pokemon.revealed else 1.0
-    stats_known = 1.0 if pokemon.stats.get("atk") is not None else 0.0
-    stats = [normalize(v, REAL_STAT_CAP.get(s)) if stats_known else 0.0 for s, v in pokemon.stats.items()]
-    boosts = [normalize(pokemon.boosts[k] + 6, 12) for k in BOOST_KEYS]
+    is_revealed = pokemon.revealed
+    pokemon_stats = pokemon.stats
+    pokemon_boosts = pokemon.boosts
+    current_hp_fraction = pokemon.current_hp_fraction if is_revealed else 1.0
+    stats_known = 1.0 if pokemon_stats.get("atk") is not None else 0.0
+    stats = [normalize(v, REAL_STAT_CAP.get(s)) if stats_known else 0.0 for s, v in pokemon_stats.items()]
+    boosts = [normalize(pokemon_boosts[k] + 6, 12) for k in BOOST_KEYS]
 
     # pokemon oriented
+    pokemon_gender = pokemon.gender
     level = normalize(pokemon.level, 100)
-    gender = [1.0 if pokemon.gender is g else 0.0 for g in GENDERS]
+    gender = [1.0 if pokemon_gender is g else 0.0 for g in GENDERS]
     must_recharge = float(pokemon.must_recharge)
     first_turn = float(pokemon.first_turn)
-    revealed = float(pokemon.revealed)
-    brought = float(pokemon.selected_in_teampreview or pokemon.revealed)
+    revealed = float(is_revealed)
+    brought = float(pokemon.selected_in_teampreview or is_revealed)
 
     # terastallization
     tera = pokemon.tera_type
-    tera_type = [float(tera is not None and t == tera.name.capitalize()) for t in TYPES]
+    tera_name = tera.name.capitalize() if tera is not None else None
+    tera_type = [float(t == tera_name) for t in TYPES]
     is_terastallized = float(pokemon.is_terastallized)
 
     # status / effects
-    current_status = pokemon.status.name if pokemon.status else "NONE"
+    pokemon_status = pokemon.status
+    current_status = pokemon_status.name if pokemon_status else "NONE"
     status_name = [float(n == current_status) for n in STATUS_DURATION_CAPS]
     status_duration_max = STATUS_DURATION_CAPS.get(current_status)
     status_duration = normalize(pokemon.status_counter, status_duration_max) if status_duration_max else 0.0

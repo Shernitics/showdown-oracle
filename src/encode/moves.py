@@ -26,19 +26,30 @@ def encode_move(move: Move):
     base_power = normalize(move.base_power, 250)
     accuracy = move.accuracy
     priority = normalize(move.priority + 7, 12)
-    pp = normalize(move.current_pp, move.max_pp) if move.max_pp else 0.0
+    max_pp = move.max_pp
+    pp = normalize(move.current_pp, max_pp) if max_pp else 0.0
 
-    category = [float(move.category is c) for c in MOVE_CATEGORIES]
-    type = [float(t == move.type.name.capitalize()) for t in TYPES]
-    target = [float(move.target is t) for t in MOVE_TARGETS]
-    flags = [float(f in move.flags) for f in MOVE_FLAGS]
+    # poke-env rebuilds these on every access, so read them once
+    move_category = move.category
+    type_name = move.type.name.capitalize()
+    move_target = move.target
+    move_flags = move.flags
+
+    category = [float(move_category is c) for c in MOVE_CATEGORIES]
+    type = [float(t == type_name) for t in TYPES]
+    target = [float(move_target is t) for t in MOVE_TARGETS]
+    flags = [float(f in move_flags) for f in MOVE_FLAGS]
 
     # stat changes
-    boosts = [normalize((move.boosts or {}).get(k, 0) + 6, 12) for k in BOOST_KEYS]
-    self_boost = [normalize((move.self_boost or {}).get(k, 0) + 6, 12) for k in BOOST_KEYS]
+    move_boosts = move.boosts or {}
+    move_self_boost = move.self_boost or {}
+    boosts = [normalize(move_boosts.get(k, 0) + 6, 12) for k in BOOST_KEYS]
+    self_boost = [normalize(move_self_boost.get(k, 0) + 6, 12) for k in BOOST_KEYS]
 
     # status
-    status = [float(move.status is not None and n == move.status.name) for n in STATUS_DURATION_CAPS]
+    move_status = move.status
+    current_status = move_status.name if move_status is not None else None
+    status = [float(n == current_status) for n in STATUS_DURATION_CAPS]
 
     # damage profile
     expected_hits = normalize(move.expected_hits, 5)
