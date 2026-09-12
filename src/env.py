@@ -20,9 +20,9 @@ class VGCEnv(DoublesEnv):
         observation = spaces.Dict(
             {
                 "pokemon_cont": spaces.Box(0.0, 1.0, (SLOTS, POKEMON_FEATURES_CONT), np.float32),
-                "species": spaces.Box(0, len(SPECIES_NUM) - 1, (SLOTS, 1), np.int64),
-                "items": spaces.Box(0, len(ITEM_NUM) - 1, (SLOTS, 1), np.int64),
-                "ability": spaces.Box(0, len(ABILITY_NUM) - 1, (SLOTS, 1), np.int64),
+                "species": spaces.Box(0, len(SPECIES_NUM), (SLOTS, 1), np.int64),
+                "item": spaces.Box(0, len(ITEM_NUM), (SLOTS, 1), np.int64),
+                "ability": spaces.Box(0, len(ABILITY_NUM), (SLOTS, 1), np.int64),
                 "moves_cont": spaces.Box(0.0, 1.0, (SLOTS, MOVE_SLOTS, MOVE_FEATURES_CONT), np.float32),
                 "moves_cat": spaces.Box(0, MAX_MOVE_NUM, (SLOTS, MOVE_SLOTS, 1), np.int64),
                 "battle_cont": spaces.Box(0.0, 1.0, (ENVIRONMENT_FEATURES_CONT,), np.float32),
@@ -36,7 +36,7 @@ class VGCEnv(DoublesEnv):
         return {
             "pokemon_cont": state["pokemon_cont"],
             "species": cat["species"],
-            "items": cat["items"],
+            "item": cat["items"],
             "ability": cat["ability"],
             "moves_cont": state["moves_cont"],
             "moves_cat": state["moves_cat"],
