@@ -1,4 +1,9 @@
 **/__pycache__/
-**/__init__.py
+
+.idea/
+.venv/
 
 model/
+*.zip
+
+.poke_env_stats_cache/
