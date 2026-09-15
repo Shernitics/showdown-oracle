@@ -1,0 +1,14 @@
+**/__pycache__/
+
+.idea/
+.venv/
+
+model/
+*.zip
+
+.poke_env_stats_cache/
+
+results/*.db
+results/*.db-wal
+results/*.db-shm
+results/*.csv
