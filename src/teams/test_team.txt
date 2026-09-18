@@ -1,0 +1,59 @@
+Volcarona @ Heavy-Duty Boots  
+Ability: Flame Body  
+Tera Type: Rock  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Tera Blast  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+Tera Type: Normal  
+EVs: 84 HP / 252 Atk / 152 Def / 20 Spe  
+Adamant Nature  
+- Roost  
+- Ice Spinner  
+- Earthquake  
+- Extreme Speed  
+
+Iron Treads @ Leftovers  
+Ability: Quark Drive  
+EVs: 252 HP / 4 Atk / 160 Def / 92 SpD  
+Impish Nature  
+- Rapid Spin  
+- Knock Off  
+- Volt Switch  
+- Stealth Rock  
+
+Amoonguss @ Assault Vest  
+Ability: Regenerator  
+Tera Type: Dark  
+EVs: 252 HP / 48 Def / 208 SpD  
+Calm Nature  
+- Giga Drain  
+- Sludge Bomb  
+- Clear Smog  
+- Foul Play  
+
+Great Tusk @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Ice  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Close Combat  
+- Ice Spinner  
+- Knock Off  
+
+Kingambit @ Leftovers  
+Ability: Supreme Overlord  
+Tera Type: Flying  
+EVs: 212 HP / 252 Atk / 44 Spe  
+Adamant Nature  
+- Kowtow Cleave  
+- Sucker Punch  
+- Iron Head  
+- Swords Dance  
