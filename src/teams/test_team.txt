@@ -48,7 +48,7 @@ Jolly Nature
 - Ice Spinner  
 - Knock Off  
 
-Kingambit @ Leftovers  
+Kingambit @ Black Glasses
 Ability: Supreme Overlord  
 Tera Type: Flying  
 EVs: 212 HP / 252 Atk / 44 Spe  

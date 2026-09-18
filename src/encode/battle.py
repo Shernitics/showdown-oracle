@@ -9,13 +9,14 @@ from poke_env.battle import DoubleBattle
 from encode.vocab import *
 from encode.helpers import normalize
 
-ENVIRONMENT_FEATURES_CONT = 81
+ENVIRONMENT_FEATURES_CONT = 82
 BROUGHT_SIZE = 4
 
 def encode_battle(battle: DoubleBattle):
 
     turn = battle.turn
 
+    team_preview = battle.teampreview
     turn_norm = normalize(turn, 100)
     pokemon_remaining = normalize(BROUGHT_SIZE - sum(1 for p in battle.team.values() if p.fainted), BROUGHT_SIZE)
     pokemon_remaining_opp = normalize(BROUGHT_SIZE - sum(1 for p in battle.opponent_team.values() if p.fainted), BROUGHT_SIZE)
@@ -51,7 +52,7 @@ def encode_battle(battle: DoubleBattle):
         [
 
             # battle
-            turn_norm, pokemon_remaining, pokemon_remaining_opp,
+            turn_norm, team_preview, pokemon_remaining, pokemon_remaining_opp,
 
             # weather
             *weather, weather_duration,

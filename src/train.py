@@ -20,7 +20,7 @@ def make_env():
         battle_format=FORMAT,
         team=TEAM,
         strict=False,
-        choose_on_teampreview=False,
+        choose_on_teampreview=True,
     )
     opponent = RandomPlayer(battle_format=FORMAT, team=TEAM)
     return DoubleAgentWrapper(SingleAgentWrapper(env, opponent))
