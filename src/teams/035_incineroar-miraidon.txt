@@ -1,0 +1,65 @@
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Grass
+EVs: 204 HP / 60 Def / 156 SpA / 60 SpD / 28 Spe
+Modest Nature
+- Roar
+- Helping Hand
+- Trick Room
+- Imprison
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 236 HP / 164 SpD / 108 Spe
+Timid Nature
+- Encore
+- Moonblast
+- Tailwind
+- Endeavor
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 188 Atk / 4 Def / 28 SpD / 156 Spe
+Adamant Nature
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- U-turn
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Discharge
+- Draco Meteor
+- Overheat
+- Volt Switch
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 20 Def / 236 SpD / 4 Spe
+Careful Nature
+- Fake Out
+- Will-O-Wisp
+- Parting Shot
+- Helping Hand
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Steel
+EVs: 252 HP / 20 Def / 124 SpA / 108 SpD / 4 Spe
+Modest Nature
+- Earth Power
+- Protect
+- Sludge Bomb
+- Sandsear Storm

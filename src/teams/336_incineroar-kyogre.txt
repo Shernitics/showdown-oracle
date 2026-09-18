@@ -1,0 +1,65 @@
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Water Spout
+- Hydro Pump
+- Origin Pulse
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 244 Atk / 124 SpD
+Brave Nature
+- Earthquake
+- Protect
+- Headlong Rush
+- Substitute
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Dark
+EVs: 212 HP / 20 Def / 100 SpA / 36 SpD / 140 Spe
+Timid Nature
+- Protect
+- Dazzling Gleam
+- Shadow Ball
+- Taunt
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 188 Def / 60 SpD / 4 Spe
+Impish Nature
+- U-turn
+- Knock Off
+- Parting Shot
+- Flare Blitz
+
+Cresselia @ Safety Goggles
+Ability: Levitate
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 156 Def / 100 SpD
+Bold Nature
+- Trick Room
+- Lunar Blessing
+- Expanding Force
+- Psychic
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Flare Blitz
+- Collision Course
+- Breaking Swipe

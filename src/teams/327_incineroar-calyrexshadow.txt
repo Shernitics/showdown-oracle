@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Choice Scarf
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Expanding Force
+- Protect
+- Astral Barrage
+- Encore
+
+Wo-Chien @ Leftovers
+Ability: Tablets of Ruin
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 28 Def / 4 SpA / 36 SpD / 188 Spe
+Calm Nature
+- Protect
+- Snarl
+- Ruination
+- Leech Seed
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 180 Def / 60 SpD / 12 Spe
+Adamant Nature
+- Parting Shot
+- Fake Out
+- Knock Off
+- Flare Blitz
+
+Amoonguss @ Eject Button
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 236 Def / 36 SpD
+Bold Nature
+- Rage Powder
+- Sludge Bomb
+- Pollen Puff
+- Clear Smog
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 164 Def / 108 SpD
+Relaxed Nature
+- Helping Hand
+- Trick Room
+- Psychic
+- Foul Play
+
+Tornadus @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 212 HP / 188 Def / 4 SpA / 12 SpD / 92 Spe
+Timid Nature
+- Rain Dance
+- Tailwind
+- Bleakwind Storm
+- Taunt

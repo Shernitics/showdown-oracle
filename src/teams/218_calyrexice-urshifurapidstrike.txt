@@ -1,0 +1,65 @@
+Calyrex-Ice @ Icicle Plate
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Trick Room
+- Protect
+- Glacial Lance
+- Swords Dance
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Rage Powder
+- Protect
+- Quiver Dance
+- Tailwind
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- U-turn
+- Surging Strikes
+- Detect
+- Close Combat
+
+Miraidon @ Life Orb
+Ability: Hadron Engine
+Level: 50
+Tera Type: Stellar
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Draco Meteor
+- Electro Drift
+- Snarl
+- Volt Switch
+
+Farigiraf @ Safety Goggles
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 108 Atk / 200 Def / 200 SpD
+Impish Nature
+- Psychic
+- Foul Play
+- Helping Hand
+- Shadow Ball
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Drain Punch
+- Ice Punch
+- Wild Charge
+- Fake Out

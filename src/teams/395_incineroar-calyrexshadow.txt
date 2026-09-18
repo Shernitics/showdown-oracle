@@ -1,0 +1,65 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 180 HP / 4 Atk / 60 Def / 12 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- Knock Off
+- U-turn
+- Parting Shot
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Stellar
+EVs: 20 HP / 252 Atk / 36 Def / 4 SpD / 196 Spe
+Adamant Nature
+- Aqua Jet
+- Surging Strikes
+- Close Combat
+- U-turn
+
+Volcarona @ Rocky Helmet
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Flamethrower
+- Quiver Dance
+- Protect
+- Tailwind
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 172 HP / 4 Def / 76 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Astral Barrage
+- Protect
+- Taunt
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 92 HP / 4 Def / 252 SpA / 4 SpD / 156 Spe
+Modest Nature
+- Volt Switch
+- Snarl
+- Draco Meteor
+- Dazzling Gleam
+
+Landorus @ Choice Scarf
+Ability: Sheer Force
+Level: 50
+Tera Type: Fairy
+EVs: 220 HP / 4 Def / 196 SpA / 60 SpD / 28 Spe
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Sandsear Storm
+- Calm Mind

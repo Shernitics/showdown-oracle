@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 148 Def / 68 SpD / 40 Spe
+Impish Nature
+- Body Press
+- Wide Guard
+- Heavy Slam
+- Iron Defense
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Follow Me
+- Imprison
+- Psychic
+- Trick Room
+
+Chien-Pao @ Covert Cloak
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Icy Wind
+- Sacred Sword
+- Ice Spinner
+
+Calyrex-Shadow @ Choice Scarf
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draining Kiss
+- Astral Barrage
+- Psychic
+- Protect
+
+Ting-Lu @ Assault Vest
+Ability: Vessel of Ruin
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 252 Def
+Relaxed Nature
+- Protect
+- Snarl
+- Ruination
+- Fissure
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 36 Atk / 4 Def / 204 SpD / 12 Spe
+Adamant Nature
+- Fake Out
+- U-turn
+- Taunt
+- Grassy Glide

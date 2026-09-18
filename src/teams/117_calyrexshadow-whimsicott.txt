@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Choice Scarf
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 6 HP / 252 SpA / 252 Spe
+Timid Nature
+- Taunt
+- Expanding Force
+- Astral Barrage
+- Pollen Puff
+
+Chi-Yu @ Choice Specs
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Fire
+EVs: 108 HP / 244 SpA / 156 Spe
+Modest Nature
+- Snarl
+- Dark Pulse
+- Overheat
+- Heat Wave
+
+Brute Bonnet @ Sitrus Berry
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 100 Def / 156 SpD
+Adamant Nature
+- Seed Bomb
+- Spore
+- Sucker Punch
+- Rage Powder
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Stellar
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Icy Wind
+- Shadow Ball
+- Moonblast
+- Protect
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Grass
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Solar Blade
+- Axe Kick
+- After You
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpD / 252 Spe
+Naive Nature
+- Light Screen
+- Helping Hand
+- Tailwind
+- Encore

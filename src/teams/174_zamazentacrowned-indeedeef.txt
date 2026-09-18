@@ -1,0 +1,65 @@
+Palkia @ Lustrous Orb
+Ability: Pressure
+Level: 50
+Tera Type: Steel
+EVs: 116 HP / 124 Def / 136 SpA / 132 SpD
+Modest Nature
+- Trick Room
+- Hydro Pump
+- Spacial Rend
+- Protect
+
+Mimikyu @ Mental Herb
+Ability: Disguise
+Level: 50
+Tera Type: Water
+EVs: 124 HP / 140 Atk / 124 Def / 120 SpD
+Impish Nature
+- Taunt
+- Protect
+- Trick Room
+- Play Rough
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Trick Room
+- Helping Hand
+- Imprison
+- Psychic
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 102 HP / 252 Atk / 154 SpD
+Brave Nature
+- Facade
+- Earthquake
+- Protect
+- Shadow Claw
+
+Armarouge @ Focus Sash
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Armor Cannon
+- Endure
+- Wide Guard
+- Protect
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 172 HP / 4 Atk / 76 Def / 4 SpD / 252 Spe
+Impish Nature
+- Body Press
+- Protect
+- Iron Head
+- Iron Defense

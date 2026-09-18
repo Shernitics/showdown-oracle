@@ -1,0 +1,65 @@
+Ho-Oh @ Safety Goggles
+Ability: Regenerator
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 236 Atk / 4 Def / 4 SpD / 20 Spe
+Adamant Nature
+- Brave Bird
+- Sacred Fire
+- Tailwind
+- Protect
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 100 HP / 76 Def / 196 SpA / 36 SpD / 100 Spe
+Modest Nature
+- Snarl
+- Electro Drift
+- Volt Switch
+- Draco Meteor
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 200 Atk / 148 SpD / 156 Spe
+Impish Nature
+- Liquidation
+- Wave Crash
+- Body Press
+- Earthquake
+
+Tatsugiri @ Focus Sash
+Ability: Commander
+Level: 50
+Tera Type: Dragon
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Draco Meteor
+- Muddy Water
+- Hydro Pump
+
+Garganacl @ Sitrus Berry
+Ability: Purifying Salt
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Protect
+- Salt Cure
+- Wide Guard
+- Stealth Rock
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 196 Def / 60 SpD
+Impish Nature
+- Light Screen
+- Spirit Break
+- Foul Play
+- Reflect

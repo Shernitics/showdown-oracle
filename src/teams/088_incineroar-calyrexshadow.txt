@@ -1,0 +1,65 @@
+Incineroar @ Safety Goggles
+Ability: Blaze
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 36 Atk / 124 Def / 76 SpD / 28 Spe
+Adamant Nature
+- Flare Blitz
+- Fake Out
+- Knock Off
+- U-turn
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 196 HP / 244 Def / 68 Spe
+Impish Nature
+- Wide Guard
+- Protect
+- Heavy Slam
+- Iron Defense
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Surging Strikes
+- Aqua Jet
+- Close Combat
+- U-turn
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Protect
+- Earthquake
+- Crunch
+- Facade
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Grass
+EVs: 236 HP / 188 Def / 84 SpD
+Sassy Nature
+- Spore
+- Protect
+- Pollen Puff
+- Sludge Bomb
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Normal
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Nasty Plot
+- Astral Barrage
+- Tera Blast
+- Protect

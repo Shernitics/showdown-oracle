@@ -1,0 +1,65 @@
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Iron Head
+- Substitute
+- Tera Blast
+- Play Rough
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 Atk / 52 SpD / 200 Spe
+Jolly Nature
+- Fake Out
+- Grassy Glide
+- U-turn
+- Wood Hammer
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 52 Def / 204 Spe
+Adamant Nature
+- Surging Strikes
+- Protect
+- Close Combat
+- U-turn
+
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 6 Def / 252 SpA / 252 Spe
+Timid Nature
+- Thunder
+- Protect
+- Water Spout
+- Hydro Pump
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Bleakwind Storm
+- Icy Wind
+- Protect
+- Tailwind
+
+Raging Bolt @ Life Orb
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 92 HP / 252 SpA / 164 Spe
+Modest Nature
+- Dragon Pulse
+- Protect
+- Draco Meteor
+- Thunderclap

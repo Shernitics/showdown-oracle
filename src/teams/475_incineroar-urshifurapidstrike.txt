@@ -1,0 +1,65 @@
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 12 Def / 252 SpA
+Hardy Nature
+- Moongeist Beam
+- Meteor Beam
+- Moonblast
+- Calm Mind
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 188 Def / 60 SpD / 4 Spe
+Impish Nature
+- Taunt
+- Flare Blitz
+- Fake Out
+- Knock Off
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Protect
+- Flame Charge
+- Low Kick
+
+Urshifu-Rapid-Strike @ Mystic Water
+Ability: Unseen Fist
+Level: 50
+Tera Type: Stellar
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Substitute
+- Close Combat
+- Surging Strikes
+- U-turn
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 116 Def / 140 SpD
+Bold Nature
+- Follow Me
+- Imprison
+- Psychic
+- Helping Hand
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Protect
+- Facade
+- Earthquake
+- Headlong Rush

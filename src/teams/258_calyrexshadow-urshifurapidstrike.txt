@@ -1,0 +1,65 @@
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 132 HP / 252 Atk / 60 Def / 60 SpD / 4 Spe
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- U-turn
+- Drum Beating
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tera Blast
+- Astral Barrage
+- Encore
+- Expanding Force
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Surging Strikes
+- Aqua Jet
+- Detect
+- Ice Spinner
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 68 Atk / 228 Def / 4 SpD / 68 Spe
+Impish Nature
+- Heavy Slam
+- Wide Guard
+- Body Press
+- Protect
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Overheat
+- Heat Wave
+- Snarl
+- Flamethrower
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 76 Def / 132 SpD / 44 Spe
+Calm Nature
+- Taunt
+- Protect
+- Bleakwind Storm
+- Tailwind

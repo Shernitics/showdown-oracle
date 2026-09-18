@@ -1,0 +1,65 @@
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 36 Atk / 4 Def / 180 SpD / 36 Spe
+Adamant Nature
+- Protect
+- Trick Room
+- Psych Up
+- Swords Dance
+
+Miraidon @ Covert Cloak
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Snarl
+- Electro Drift
+- Dazzling Gleam
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Drain Punch
+- Low Kick
+- Fake Out
+- Heavy Slam
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Light Screen
+- Misty Terrain
+- Spirit Break
+- Taunt
+
+Iron Bundle @ Focus Sash
+Ability: Quark Drive
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Icy Wind
+- Encore
+- Protect
+- Hydro Pump
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+Tera Type: Electric
+EVs: 252 HP / 76 Def / 100 SpA / 76 SpD / 4 Spe
+Modest Nature
+- Foul Play
+- Roar
+- Dazzling Gleam
+- Helping Hand

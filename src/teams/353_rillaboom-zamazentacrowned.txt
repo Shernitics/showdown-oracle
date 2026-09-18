@@ -1,0 +1,65 @@
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 188 Atk / 4 Def / 28 SpD / 156 Spe
+Adamant Nature
+- Fake Out
+- High Horsepower
+- U-turn
+- Wood Hammer
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 132 HP / 172 Def / 180 SpA / 20 SpD / 4 Spe
+Modest Nature
+- Moonblast
+- Moongeist Beam
+- Trick Room
+- Meteor Beam
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Iron Head
+- Protect
+- Body Press
+- Wide Guard
+
+Raging Bolt @ Life Orb
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 228 HP / 4 Def / 212 SpA / 4 SpD / 60 Spe
+Modest Nature
+- Thunderbolt
+- Protect
+- Dragon Pulse
+- Thunderclap
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Stellar
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Icy Wind
+- Shadow Ball
+- Thunder Wave
+
+Tornadus @ Rocky Helmet
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 92 Def / 4 SpA / 4 SpD / 156 Spe
+Bold Nature
+- Sunny Day
+- Taunt
+- Bleakwind Storm
+- Tailwind

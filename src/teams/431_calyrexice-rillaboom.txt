@@ -1,0 +1,65 @@
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 12 Def / 252 SpA / 4 SpD / 236 Spe
+Modest Nature
+- Origin Pulse
+- Ice Beam
+- Water Spout
+- Thunder
+
+Amoonguss @ Mental Herb
+Ability: Regenerator
+Level: 50
+Tera Type: Steel
+EVs: 244 HP / 244 Def / 20 SpD
+Bold Nature
+- Rage Powder
+- Protect
+- Pollen Puff
+- Spore
+
+Pelipper @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Hurricane
+- Wide Guard
+- Protect
+- Tailwind
+
+Iron Jugulis @ Booster Energy
+Ability: Quark Drive
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 76 Def / 44 SpA / 4 SpD / 132 Spe
+Timid Nature
+- Hurricane
+- Tailwind
+- Protect
+- Earth Power
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 116 Atk / 4 Def / 100 SpD / 36 Spe
+Adamant Nature
+- Trick Room
+- Protect
+- High Horsepower
+- Glacial Lance
+
+Rillaboom @ Choice Scarf
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 244 HP / 36 Atk / 60 Def / 156 SpD / 12 Spe
+Adamant Nature
+- Fake Out
+- U-turn
+- Grassy Glide
+- Wood Hammer

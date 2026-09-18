@@ -1,0 +1,65 @@
+Urshifu-Rapid-Strike @ Splash Plate
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Coaching
+- Close Combat
+- Aqua Jet
+- Surging Strikes
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dark Pulse
+- Overheat
+- Heat Wave
+- Burning Jealousy
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Bleakwind Storm
+- Protect
+- Scary Face
+- Taunt
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Follow Me
+- Psychic
+- Trick Room
+- Imprison
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tera Blast
+- Nasty Plot
+- Protect
+- Haze
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 196 HP / 4 Atk / 204 Def / 12 SpD / 92 Spe
+Impish Nature
+- Iron Head
+- Imprison
+- Body Press
+- Protect

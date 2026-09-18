@@ -1,0 +1,65 @@
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 140 HP / 124 Atk / 244 Spe
+Adamant Nature
+- Protect
+- Close Combat
+- Collision Course
+- Low Kick
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 252 Atk / 12 Spe
+Adamant Nature
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Roar
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 SpD
+Bold Nature
+- Helping Hand
+- Alluring Voice
+- Follow Me
+- Psychic
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 116 Atk / 4 Def / 84 SpD / 52 Spe
+Adamant Nature
+- Trick Room
+- High Horsepower
+- Glacial Lance
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Protect
+- Earthquake
+- High Horsepower
+- Substitute
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Ghost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Protect
+- Calm Mind
+- Sandsear Storm
+- Sludge Bomb

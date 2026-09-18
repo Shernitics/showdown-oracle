@@ -1,0 +1,65 @@
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 228 HP / 116 Atk / 4 Def / 108 SpD / 52 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- U-turn
+
+Smeargle @ Focus Sash
+Ability: Own Tempo
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 84 Def / 172 Spe
+Timid Nature
+- Decorate
+- Fake Out
+- Follow Me
+- Spore
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 252 Atk / 20 Spe
+Adamant Nature
+- Trick Room
+- High Horsepower
+- Glacial Lance
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Earthquake
+- Protect
+- Facade
+- Headlong Rush
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Dazzling Gleam
+- Trick Room
+- Heal Pulse
+- Helping Hand
+
+Kyogre @ Life Orb
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 236 HP / 20 Def / 252 SpA
+Quiet Nature
+- Hydro Pump
+- Water Spout
+- Thunder
+- Ice Beam

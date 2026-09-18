@@ -1,0 +1,65 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 236 HP / 4 Atk / 124 Def / 140 SpD / 4 Spe
+Careful Nature
+- Fake Out
+- Taunt
+- Flare Blitz
+- Parting Shot
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 20 HP / 252 Atk / 36 Def / 4 SpD / 196 Spe
+Adamant Nature
+- Aqua Jet
+- U-turn
+- Surging Strikes
+- Close Combat
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 Atk / 68 Def / 52 SpD / 132 Spe
+Adamant Nature
+- Icy Wind
+- Protect
+- Throat Chop
+- Sucker Punch
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Wide Guard
+- Body Press
+- Protect
+- Heavy Slam
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Psychic
+- Protect
+- Pollen Puff
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dragon
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tailwind
+- Rain Dance
+- Bleakwind Storm
+- Taunt

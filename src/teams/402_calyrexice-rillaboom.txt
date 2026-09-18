@@ -1,0 +1,65 @@
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Shadow Ball
+- Moonblast
+- Icy Wind
+
+Groudon @ White Herb
+Ability: Drought
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 156 Atk / 4 Def / 76 SpD / 20 Spe
+Adamant Nature
+- Precipice Blades
+- Protect
+- Bulk Up
+- Heat Crash
+
+Smeargle @ Mental Herb
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+- Follow Me
+- Fake Out
+- Wide Guard
+- Spore
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 212 HP / 4 Atk / 132 Def / 156 SpD / 4 Spe
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- Taunt
+- U-turn
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 196 Atk / 60 SpD
+Brave Nature
+- Protect
+- Trick Room
+- Glacial Lance
+- High Horsepower
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Trick Room
+- Follow Me
+- Helping Hand
+- Imprison

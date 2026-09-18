@@ -1,0 +1,65 @@
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 188 Def / 76 SpD
+Impish Nature
+- U-turn
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Protect
+- Thunder Wave
+- Taunt
+
+Scream Tail @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Dark
+EVs: 228 HP / 92 Def / 188 Spe
+Jolly Nature
+- Fake Tears
+- Encore
+- Protect
+- Rock Tomb
+
+Lunala @ Leftovers
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 220 HP / 12 Def / 236 SpA / 12 SpD / 28 Spe
+Modest Nature
+- Moongeist Beam
+- Moonblast
+- Meteor Beam
+- Wide Guard
+
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 8 Atk / 140 Def / 4 SpA / 100 SpD / 4 Spe
+Impish Nature
+- Rage Powder
+- Spore
+- Seed Bomb
+- Sucker Punch
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out

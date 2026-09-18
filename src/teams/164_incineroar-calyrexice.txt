@@ -1,0 +1,65 @@
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 188 Def / 76 SpD
+Relaxed Nature
+- Knock Off
+- Fake Out
+- Flare Blitz
+- Will-O-Wisp
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Ground
+EVs: 108 HP / 252 SpA / 148 Spe
+Timid Nature
+- Calm Mind
+- Sludge Bomb
+- Protect
+- Extrasensory
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 164 Def / 36 SpA / 52 SpD / 4 Spe
+Modest Nature
+- Protect
+- Rage Powder
+- Giga Drain
+- Struggle Bug
+
+Pelipper @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Weather Ball
+- Hurricane
+- Protect
+- Tailwind
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Wide Guard
+- Fake Out
+- Helping Hand
+- Decorate
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 116 Atk / 140 SpD
+Brave Nature
+- Glacial Lance
+- Trick Room
+- Leech Seed
+- High Horsepower

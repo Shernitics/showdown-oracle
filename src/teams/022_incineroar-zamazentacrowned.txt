@@ -1,0 +1,65 @@
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 172 Def / 180 SpA / 12 SpD / 12 Spe
+Modest Nature
+- Moonblast
+- Moongeist Beam
+- Meteor Beam
+- Tailwind
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 164 HP / 4 Atk / 172 Def / 76 SpD / 92 Spe
+Impish Nature
+- Heavy Slam
+- Body Press
+- Imprison
+- Iron Defense
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 212 Def / 36 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Helping Hand
+- Follow Me
+- Imprison
+- Trick Room
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 52 Def / 164 SpD
+Adamant Nature
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 8 Atk / 188 Def / 60 SpD
+Impish Nature
+- Knock Off
+- Taunt
+- U-turn
+- Fake Out
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Tailwind
+- Moonblast
+- Light Screen
+- Taunt

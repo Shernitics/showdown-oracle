@@ -1,0 +1,65 @@
+Brute Bonnet @ Sitrus Berry
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Atk / 132 Def / 100 SpD / 20 Spe
+Impish Nature
+- Seed Bomb
+- Sucker Punch
+- Rage Powder
+- Spore
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 196 HP / 52 Def / 4 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sunny Day
+- Moonblast
+- Icy Wind
+- Protect
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- U-turn
+- Flame Charge
+- Bulk Up
+- Close Combat
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Overheat
+- Dark Pulse
+- Heat Wave
+- Snarl
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Expanding Force
+- Shadow Ball
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 252 Atk / 44 Def / 4 SpA / 68 SpD
+Brave Nature
+- Headlong Rush
+- Facade
+- Substitute
+- Earthquake

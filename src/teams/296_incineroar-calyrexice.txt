@@ -1,0 +1,65 @@
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Def / 236 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Protect
+- Origin Pulse
+- Thunder
+- Water Spout
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 188 Def / 76 SpD
+Careful Nature
+- Knock Off
+- Roar
+- Parting Shot
+- Fake Out
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Rage Powder
+- Heat Wave
+- Protect
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 244 HP / 116 Atk / 4 Def / 140 SpD / 4 Spe
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- U-turn
+- High Horsepower
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 44 Atk / 212 SpD
+Adamant Nature
+- High Horsepower
+- Trick Room
+- Glacial Lance
+- Leech Seed
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Water
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Sandsear Storm
+- Taunt
+- Protect
+- Sludge Bomb

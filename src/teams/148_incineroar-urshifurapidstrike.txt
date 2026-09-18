@@ -1,0 +1,65 @@
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Struggle Bug
+- Overheat
+- Quiver Dance
+- Fiery Dance
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Light Screen
+- Misty Terrain
+- Spirit Break
+- Reflect
+
+Araquanid @ Rocky Helmet
+Ability: Water Bubble
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Wide Guard
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 36 Atk / 124 Def / 76 SpD / 28 Spe
+Adamant Nature
+- Flare Blitz
+- Parting Shot
+- Snarl
+- Fake Out
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 28 HP / 20 Def / 252 SpA / 12 SpD / 196 Spe
+Modest Nature
+- Dazzling Gleam
+- Volt Switch
+- Draco Meteor
+- Discharge
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Aqua Jet
+- Detect
+- U-turn

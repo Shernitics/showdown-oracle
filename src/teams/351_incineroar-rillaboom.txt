@@ -1,0 +1,65 @@
+Terapagos @ Choice Specs
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 140 HP / 252 SpA / 116 Spe
+Modest Nature
+- Tera Starstorm
+- Protect
+- Hyper Beam
+- Earth Power
+
+Chi-Yu @ Life Orb
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Taunt
+- Heat Wave
+- Dark Pulse
+- Overheat
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 156 HP / 164 Atk / 4 Def / 4 SpD / 180 Spe
+Jolly Nature
+- Fake Out
+- High Horsepower
+- U-turn
+- Wood Hammer
+
+Sinistcha @ Focus Sash
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 108 Def / 148 SpA
+Modest Nature
+- Rage Powder
+- Life Dew
+- Strength Sap
+- Matcha Gotcha
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 4 Atk / 156 Def / 100 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- Flare Blitz
+- Fake Out
+- Parting Shot
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 84 HP / 4 Def / 252 SpA / 4 SpD / 164 Spe
+Modest Nature
+- Protect
+- Thunderclap
+- Thunderbolt
+- Dragon Pulse

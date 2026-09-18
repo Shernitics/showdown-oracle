@@ -1,0 +1,65 @@
+Oranguru @ Mental Herb
+Ability: Inner Focus
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Instruct
+- Foul Play
+- Trick Room
+- Taunt
+
+Indeedee-F @ Covert Cloak
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 6 SpD
+Bold Nature
+- Follow Me
+- Dazzling Gleam
+- Psychic
+- Helping Hand
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 236 HP / 236 Def / 36 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Knock Off
+- U-turn
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 36 Atk / 4 Def / 196 SpD / 20 Spe
+Adamant Nature
+- High Horsepower
+- Protect
+- Glacial Lance
+- Trick Room
+
+Necrozma-Dusk-Mane @ Weakness Policy
+Ability: Prism Armor
+Level: 50
+Tera Type: Fire
+EVs: 164 HP / 252 Atk / 4 SpD / 84 Spe
+Adamant Nature
+- Sunsteel Strike
+- Swords Dance
+- Trick Room
+- Earthquake
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Protect
+- U-turn
+- Coaching
+- Shadow Claw

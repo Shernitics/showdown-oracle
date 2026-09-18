@@ -1,0 +1,65 @@
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Def / 116 SpA / 124 SpD / 20 Spe
+Modest Nature
+- Sludge Bomb
+- Substitute
+- Sandsear Storm
+- Earth Power
+
+Smeargle @ Eject Pack
+Ability: Own Tempo
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Spe
+Timid Nature
+- Fake Out
+- Spore
+- Accelerock
+- Follow Me
+
+Calyrex-Ice @ Mental Herb
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Dragon
+EVs: 238 HP / 252 Atk / 20 Spe
+Adamant Nature
+- Protect
+- Glacial Lance
+- High Horsepower
+- Leech Seed
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 206 SpA / 52 Spe
+Modest Nature
+- Hurricane
+- Protect
+- Wide Guard
+- Weather Ball
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 236 Def / 36 SpD
+Relaxed Nature
+- Spore
+- Protect
+- Rage Powder
+- Sludge Bomb
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Tailwind
+- Rage Powder
+- Protect
+- Struggle Bug

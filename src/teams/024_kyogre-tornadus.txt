@@ -1,0 +1,65 @@
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Dragon
+EVs: 76 HP / 252 Atk / 4 Def / 4 SpD / 172 Spe
+Jolly Nature
+- Iron Head
+- Swords Dance
+- Protect
+- Play Rough
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 180 Def / 92 SpD
+Bold Nature
+- Pollen Puff
+- Rage Powder
+- Clear Smog
+- Protect
+
+Ludicolo @ Assault Vest
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+EVs: 28 HP / 4 Def / 252 SpA / 4 SpD / 220 Spe
+Modest Nature
+- Weather Ball
+- Icy Wind
+- Energy Ball
+- Fake Out
+
+Tornadus @ Safety Goggles
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 156 Def / 44 SpA / 44 SpD / 12 Spe
+Modest Nature
+- Dark Pulse
+- Taunt
+- Tailwind
+- Sunny Day
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 4 Def / 236 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Water Spout
+- Hydro Pump
+- Thunder
+- Protect
+
+Wo-Chien @ Leftovers
+Ability: Tablets of Ruin
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 76 Def / 180 Spe
+Bold Nature
+- Leech Seed
+- Foul Play
+- Protect
+- Snarl

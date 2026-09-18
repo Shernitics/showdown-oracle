@@ -1,0 +1,65 @@
+Raging Bolt @ Life Orb
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 228 HP / 4 Def / 212 SpA / 4 SpD / 60 Spe
+Modest Nature
+- Thunderclap
+- Electroweb
+- Thunderbolt
+- Draco Meteor
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 236 HP / 252 Atk / 20 SpD
+Adamant Nature
+- Aqua Jet
+- Outrage
+- Rock Slide
+- Protect
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Crunch
+- Sucker Punch
+- Ice Shard
+- Protect
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 20 HP / 252 Atk / 36 Def / 4 SpD / 196 Spe
+Adamant Nature
+- Close Combat
+- Detect
+- Aqua Jet
+- U-turn
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 140 HP / 68 Atk / 228 Def / 4 SpD / 68 Spe
+Impish Nature
+- Body Press
+- Iron Defense
+- Wide Guard
+- Heavy Slam
+
+Calyrex-Shadow @ Spell Tag
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Nasty Plot
+- Encore
+- Pollen Puff
+- Psychic

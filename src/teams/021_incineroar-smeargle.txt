@@ -1,0 +1,65 @@
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Sandsear Storm
+- Calm Mind
+- Protect
+- Sludge Bomb
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 36 Atk / 124 Def / 76 SpD / 28 Spe
+Adamant Nature
+- Flare Blitz
+- Knock Off
+- Helping Hand
+- Parting Shot
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Protect
+- Close Combat
+- Outrage
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 184 HP / 76 Def / 196 SpA / 24 SpD / 28 Spe
+Modest Nature
+- Moongeist Beam
+- Trick Room
+- Wide Guard
+- Moonblast
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 252 Atk / 44 Def / 4 SpA / 68 SpD
+Brave Nature
+- Headlong Rush
+- Earthquake
+- Protect
+- Facade
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 6 Def / 252 Spe
+Jolly Nature
+- Decorate
+- Wide Guard
+- Spore
+- Follow Me

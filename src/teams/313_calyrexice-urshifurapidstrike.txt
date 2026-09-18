@@ -1,0 +1,65 @@
+Smeargle @ Focus Sash
+Ability: Own Tempo
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Def / 252 Spe
+Jolly Nature
+- Follow Me
+- Spore
+- Fake Out
+- Spiky Shield
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 SpD
+Bold Nature
+- Helping Hand
+- Follow Me
+- Trick Room
+- Psychic
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Electric
+EVs: 252 HP / 4 Def / 252 SpA
+Quiet Nature
+- Origin Pulse
+- Thunder
+- Water Spout
+- Ice Beam
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 196 Def / 60 SpD
+Bold Nature
+- Struggle Bug
+- Fiery Dance
+- Tailwind
+- Flamethrower
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Grass
+EVs: 20 HP / 252 Atk / 36 Def / 4 SpD / 196 Spe
+Adamant Nature
+- Surging Strikes
+- Close Combat
+- Detect
+- Ice Spinner
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 12 Atk / 228 SpD
+Brave Nature
+- Glacial Lance
+- Leech Seed
+- High Horsepower
+- Protect

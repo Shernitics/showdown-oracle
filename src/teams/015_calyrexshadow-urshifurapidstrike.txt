@@ -1,0 +1,65 @@
+Illumise @ Eject Button
+Ability: Prankster
+Level: 50
+Tera Type: Water
+EVs: 252 Def / 4 SpA / 252 SpD
+Calm Nature
+- Trick
+- Bug Buzz
+- Encore
+- Endeavor
+
+Urshifu-Rapid-Strike @ Mystic Water
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 196 Atk / 4 Def / 92 SpD / 84 Spe
+Adamant Nature
+- Aqua Jet
+- Surging Strikes
+- Close Combat
+- U-turn
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tera Blast
+- Draining Kiss
+- Pollen Puff
+- Astral Barrage
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Sassy Nature
+- Clear Smog
+- Rage Powder
+- Spore
+- Protect
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 28 HP / 76 Atk / 148 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Spiky Shield
+- Horn Leech
+- Follow Me
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Origin Pulse
+- Hydro Pump
+- Water Spout
+- Protect

@@ -1,0 +1,65 @@
+Oranguru @ Mental Herb
+Ability: Inner Focus
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 100 Def / 156 SpD
+Calm Nature
+- Trick Room
+- Instruct
+- Light Screen
+- Taunt
+
+Brute Bonnet @ Rocky Helmet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 156 HP / 44 Atk / 172 Def / 136 SpD
+Impish Nature
+- Seed Bomb
+- Sucker Punch
+- Rage Powder
+- Spore
+
+Lunala @ Electric Seed
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 184 HP / 76 Def / 196 SpA / 24 SpD / 28 Spe
+Modest Nature
+- Meteor Beam
+- Moonblast
+- Wide Guard
+- Moongeist Beam
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 SpA / 4 SpD
+Quiet Nature
+- Helping Hand
+- Eruption
+- Weather Ball
+- Flamethrower
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Alluring Voice
+- Trick Room
+- Helping Hand
+- Follow Me
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind's Eye
+Level: 50
+Tera Type: Normal
+EVs: 212 HP / 44 Def / 248 SpA
+Quiet Nature
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Vacuum Wave

@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 92 HP / 4 Def / 244 SpA / 4 SpD / 164 Spe
+Timid Nature
+- Pollen Puff
+- Nasty Plot
+- Psychic
+- Protect
+
+Solgaleo @ Choice Scarf
+Ability: Full Metal Body
+Level: 50
+Tera Type: Fighting
+EVs: 76 HP / 84 Atk / 124 SpD / 220 Spe
+Adamant Nature
+- Psychic Fangs
+- Protect
+- Trick Room
+- Sunsteel Strike
+
+Flamigo @ Fist Plate
+Ability: Scrappy
+Level: 50
+Tera Type: Steel
+EVs: 140 HP / 116 Atk / 252 Spe
+Adamant Nature
+- Detect
+- Wide Guard
+- Close Combat
+- Feint
+
+Cresselia @ Safety Goggles
+Ability: Levitate
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 156 Def / 100 SpD
+Bold Nature
+- Psychic
+- Lunar Blessing
+- Trick Room
+- Gravity
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 140 HP / 68 Def / 180 SpA / 4 SpD / 116 Spe
+Modest Nature
+- Thunderclap
+- Draco Meteor
+- Protect
+- Dragon Pulse
+
+Smeargle @ Eject Pack
+Ability: Own Tempo
+Level: 50
+Tera Type: Grass
+EVs: 12 HP / 244 Def / 252 Spe
+Jolly Nature
+- Follow Me
+- Decorate
+- Spore
+- Fake Out

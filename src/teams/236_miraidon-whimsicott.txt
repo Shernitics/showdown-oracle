@@ -1,0 +1,65 @@
+Miraidon @ Magnet
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Draco Meteor
+- Electro Drift
+- Snarl
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 100 HP / 236 Atk / 4 Def / 108 SpD / 60 Spe
+Adamant Nature
+- Protect
+- Headlong Rush
+- Rock Slide
+- Earthquake
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Dark
+EVs: 132 HP / 172 Def / 180 SpA / 20 SpD / 4 Spe
+Modest Nature
+- Wide Guard
+- Moongeist Beam
+- Meteor Beam
+- Trick Room
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 164 Def / 108 SpD
+Bold Nature
+- Foul Play
+- Trick Room
+- Psychic
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Encore
+- Taunt
+- Sunny Day
+- Light Screen
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Bug
+EVs: 76 HP / 156 Atk / 12 Def / 140 SpD / 124 Spe
+Adamant Nature
+- Wild Charge
+- Heavy Slam
+- Low Kick
+- Drain Punch

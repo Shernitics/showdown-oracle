@@ -1,0 +1,65 @@
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 236 HP / 4 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Electro Drift
+- Parabolic Charge
+- Draco Meteor
+- Dazzling Gleam
+
+Tatsugiri @ Focus Sash
+Ability: Commander
+Level: 50
+Tera Type: Normal
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Protect
+- Helping Hand
+- Draco Meteor
+- Dragon Pulse
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+EVs: 156 HP / 156 Atk / 196 SpD
+Adamant Nature
+- Fissure
+- Protect
+- Substitute
+- Wave Crash
+
+Garganacl @ Rocky Helmet
+Ability: Purifying Salt
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Recover
+- Salt Cure
+- Wide Guard
+- Stealth Rock
+
+Sneasler @ Electric Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Dire Claw
+- Protect
+- Fake Out
+- Close Combat
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Breaking Swipe
+- Protect
+- Collision Course
+- U-turn

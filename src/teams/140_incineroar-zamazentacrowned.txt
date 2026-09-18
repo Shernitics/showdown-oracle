@@ -1,0 +1,65 @@
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 196 HP / 4 Def / 252 SpA / 36 SpD / 20 Spe
+Modest Nature
+- Draco Meteor
+- Thunderclap
+- Thunderbolt
+- Dragon Pulse
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Wide Guard
+- Iron Head
+- Body Press
+- Protect
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 148 Def / 108 SpA
+Relaxed Nature
+- Uproar
+- Trick Room
+- Psychic
+- Helping Hand
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Follow Me
+- Power Whip
+- Wood Hammer
+- Grassy Glide
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 36 Atk / 156 Def / 60 SpD / 4 Spe
+Adamant Nature
+- Fake Out
+- Knock Off
+- Flare Blitz
+- U-turn
+
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 164 SpA / 92 Spe
+Modest Nature
+- Bleakwind Storm
+- Tailwind
+- Icy Wind
+- Protect

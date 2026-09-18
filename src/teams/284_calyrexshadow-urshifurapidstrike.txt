@@ -1,0 +1,65 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 196 Def / 60 SpD
+Impish Nature
+- Reflect
+- Spirit Break
+- Light Screen
+- Fake Out
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 148 Def / 68 SpD / 40 Spe
+Impish Nature
+- Body Press
+- Heavy Slam
+- Wide Guard
+- Protect
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 196 HP / 4 Def / 252 SpA / 36 SpD / 20 Spe
+Modest Nature
+- Protect
+- Thunderclap
+- Dragon Pulse
+- Thunderbolt
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 124 HP / 196 Atk / 4 Def / 84 SpD / 100 Spe
+Adamant Nature
+- Close Combat
+- Surging Strikes
+- U-turn
+- Detect
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Taunt
+- Crunch
+- Icicle Crash
+- Ruination
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fighting
+EVs: 196 SpA / 60 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Protect
+- Astral Barrage
+- Psychic

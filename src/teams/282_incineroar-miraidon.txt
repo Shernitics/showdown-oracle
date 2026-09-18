@@ -1,0 +1,65 @@
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 188 Def / 76 SpD
+Impish Nature
+- Flare Blitz
+- Roar
+- Knock Off
+- Fake Out
+
+Charizard @ Choice Scarf
+Ability: Solar Power
+Level: 50
+Tera Type: Ground
+EVs: 20 HP / 252 SpA / 236 Spe
+Modest Nature
+- Solar Beam
+- Weather Ball
+- Air Slash
+- Heat Wave
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 6 HP / 252 SpA / 252 Spe
+Timid Nature
+- Dazzling Gleam
+- Draco Meteor
+- Electro Drift
+- Snarl
+
+Groudon @ Clear Amulet
+Ability: Drought
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 156 Atk / 100 SpD
+Adamant Nature
+- Thunder Punch
+- Stone Edge
+- Hammer Arm
+- Precipice Blades
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Fake Out
+- Reflect
+- Taunt
+- Spirit Break
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Poison
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Protect
+- Sucker Punch
+- Icy Wind
+- Ice Spinner

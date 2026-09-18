@@ -1,0 +1,65 @@
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 204 HP / 36 Atk / 4 Def / 12 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Flame Charge
+- Close Combat
+- Low Kick
+
+Brute Bonnet @ Sitrus Berry
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 164 Def / 92 SpD
+Impish Nature
+- Rage Powder
+- Sucker Punch
+- Spore
+- Taunt
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Snarl
+- Dark Pulse
+- Overheat
+- Hex
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Close Combat
+- Aqua Jet
+- U-turn
+- Taunt
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 248 HP / 212 SpD / 48 Spe
+Careful Nature
+- Knock Off
+- Parting Shot
+- Fake Out
+- U-turn
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Haze
+- Foul Play
+- Tailwind
+- Sunny Day

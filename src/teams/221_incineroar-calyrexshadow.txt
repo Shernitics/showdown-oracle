@@ -1,0 +1,62 @@
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 180 HP / 76 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Encore
+- Fake Tears
+
+Ditto @ Focus Sash
+Ability: Imposter
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 4 Atk / 4 Def / 4 SpD / 244 Spe
+Jolly Nature
+- Transform
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 4 Atk / 252 Def
+Jolly Nature
+- Heavy Slam
+- Wide Guard
+- Protect
+- Body Press
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Trick Room
+- Alluring Voice
+- Follow Me
+- Psychic
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 164 HP / 84 Def / 116 SpA / 4 SpD / 140 Spe
+Timid Nature
+- Protect
+- Shadow Ball
+- Psychic
+- Astral Barrage
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Knock Off
+- Flare Blitz
+- Darkest Lariat
+- Parting Shot

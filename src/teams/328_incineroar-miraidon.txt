@@ -1,0 +1,65 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 52 Def / 4 SpA / 196 SpD / 4 Spe
+Calm Nature
+- Fake Tears
+- Endeavor
+- Tailwind
+- Moonblast
+
+Dondozo @ Assault Vest
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+EVs: 140 HP / 116 Def / 252 SpD
+Impish Nature
+- Protect
+- Order Up
+- Tera Blast
+- Wave Crash
+
+Tatsugiri @ Choice Scarf
+Ability: Commander
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Muddy Water
+- Draco Meteor
+- Icy Wind
+- Protect
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Dazzling Gleam
+- Volt Switch
+- Electro Drift
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+Tera Type: Normal
+EVs: 236 HP / 164 Def / 108 SpD
+Relaxed Nature
+- Foul Play
+- Trick Room
+- Ally Switch
+- Helping Hand
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 172 Atk / 4 Def / 60 SpD / 20 Spe
+Adamant Nature
+- Parting Shot
+- Flare Blitz
+- Will-O-Wisp
+- Fake Out

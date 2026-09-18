@@ -1,0 +1,65 @@
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 132 Def / 4 SpA / 52 SpD / 68 Spe
+Timid Nature
+- Bleakwind Storm
+- Tailwind
+- Taunt
+- Protect
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Astral Barrage
+- Psychic
+- Protect
+- Expanding Force
+
+Rillaboom @ Choice Band
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 156 HP / 92 Atk / 108 Def / 92 SpD / 60 Spe
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- U-turn
+- Wood Hammer
+
+Clefairy @ Eviolite
+Ability: Friend Guard
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Protect
+- Helping Hand
+- Heal Pulse
+- Follow Me
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dark
+EVs: 236 HP / 4 Atk / 100 Def / 68 SpD / 100 Spe
+Impish Nature
+- Substitute
+- Wide Guard
+- Protect
+- Body Press
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 124 Def / 132 SpD
+Sassy Nature
+- Spore
+- Rage Powder
+- Clear Smog
+- Pollen Puff

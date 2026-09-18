@@ -1,0 +1,65 @@
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 172 Atk / 8 Def / 76 SpD
+Brave Nature
+- Wild Charge
+- Fake Out
+- Low Kick
+- Swords Dance
+
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 60 Atk / 196 SpD
+Careful Nature
+- Spiky Shield
+- Follow Me
+- Horn Leech
+- Grassy Glide
+
+Iron Bundle @ Focus Sash
+Ability: Quark Drive
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Icy Wind
+- Encore
+- Hydro Pump
+- Protect
+
+Meowstic @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Fake Out
+- Quick Guard
+- Light Screen
+- Trick
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 252 SpA / 12 Spe
+Modest Nature
+- Wide Guard
+- Moongeist Beam
+- Trick Room
+- Heat Wave
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 52 HP / 4 Def / 220 SpA / 84 SpD / 148 Spe
+Modest Nature
+- Calm Mind
+- Dazzling Gleam
+- Snarl
+- Draco Meteor

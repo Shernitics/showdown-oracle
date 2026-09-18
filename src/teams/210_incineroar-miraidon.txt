@@ -1,0 +1,65 @@
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 156 Def / 100 SpD / 4 Spe
+Impish Nature
+- Brick Break
+- Flare Blitz
+- Fake Out
+- Parting Shot
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 6 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Draco Meteor
+- Protect
+- Parabolic Charge
+- Electro Drift
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Dark
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Heat Wave
+- Dark Pulse
+- Snarl
+- Hex
+
+Iron Treads @ Life Orb
+Ability: Quark Drive
+Level: 50
+Tera Type: Stellar
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- High Horsepower
+- Wild Charge
+- Protect
+- Ice Spinner
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 164 HP / 252 Atk / 8 Def / 84 SpD
+Brave Nature
+- Headlong Rush
+- Protect
+- Earthquake
+- High Horsepower
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Dazzling Gleam
+- Encore

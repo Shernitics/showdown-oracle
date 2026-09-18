@@ -1,0 +1,65 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 196 HP / 4 Atk / 196 Def / 100 SpD / 12 Spe
+Impish Nature
+- Fake Out
+- Knock Off
+- Parting Shot
+- Flare Blitz
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 204 HP / 252 Atk / 52 SpD
+Brave Nature
+- Substitute
+- Protect
+- Facade
+- Earthquake
+
+Iron Moth @ Life Orb
+Ability: Quark Drive
+Level: 50
+Tera Type: Grass
+EVs: 196 HP / 252 SpA / 60 SpD
+Modest Nature
+- Energy Ball
+- Protect
+- Sludge Wave
+- Toxic
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Hardy Nature
+- Electro Drift
+- Draco Meteor
+- Volt Switch
+- Snarl
+
+Iron Bundle @ Focus Sash
+Ability: Quark Drive
+Level: 50
+Tera Type: Ice
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Ice Beam
+- Protect
+- Taunt
+- Icy Wind
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 228 HP / 68 Def / 180 SpA / 4 SpD / 28 Spe
+Modest Nature
+- Calm Mind
+- Meteor Beam
+- Wide Guard
+- Moongeist Beam

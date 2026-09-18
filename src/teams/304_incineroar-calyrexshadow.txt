@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Water
+EVs: 76 HP / 60 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Astral Barrage
+- Psychic
+- Nasty Plot
+
+Smeargle @ Focus Sash
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+- Follow Me
+- Spore
+- Ruination
+- Imprison
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 116 HP / 4 Atk / 156 Def / 108 SpD / 124 Spe
+Impish Nature
+- Wide Guard
+- Protect
+- Iron Head
+- Heavy Slam
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 4 Atk / 4 Def / 124 SpD / 188 Spe
+Jolly Nature
+- U-turn
+- Drum Beating
+- Fake Out
+- Wood Hammer
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Helping Hand
+- Follow Me
+- Imprison
+- Trick Room
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 228 HP / 188 Def / 92 Spe
+Impish Nature
+- Knock Off
+- U-turn
+- Fake Out
+- Flare Blitz

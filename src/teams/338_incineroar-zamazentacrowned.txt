@@ -1,0 +1,65 @@
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 228 HP / 20 Def / 252 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Dragon Pulse
+- Thunderbolt
+- Draco Meteor
+- Electroweb
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 124 Def / 132 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- Flare Blitz
+- Fake Out
+- Will-O-Wisp
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 184 HP / 76 Def / 196 SpA / 24 SpD / 28 Spe
+Modest Nature
+- Moongeist Beam
+- Trick Room
+- Moonblast
+- Meteor Beam
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Spore
+- Rage Powder
+- Protect
+- Pollen Puff
+
+Dragonite @ Choice Band
+Ability: Multiscale
+Level: 50
+Tera Type: Normal
+EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
+Adamant Nature
+- Low Kick
+- Outrage
+- Extreme Speed
+- Protect
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Fairy
+EVs: 196 HP / 4 Atk / 204 Def / 12 SpD / 92 Spe
+Impish Nature
+- Protect
+- Body Press
+- Heavy Slam
+- Wide Guard

@@ -1,0 +1,65 @@
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 236 HP / 20 Def / 252 SpD
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Knock Off
+- Parting Shot
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+Level: 50
+Tera Type: Ghost
+EVs: 164 HP / 4 Atk / 92 Def / 68 SpD / 180 Spe
+Jolly Nature
+- Wide Guard
+- Moonblast
+- Spirit Break
+- Icy Wind
+
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 108 HP / 252 Atk / 12 Def / 12 SpD / 124 Spe
+Adamant Nature
+- Wicked Blow
+- Close Combat
+- Sucker Punch
+- U-turn
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 100 Def / 8 SpA / 148 SpD
+Calm Nature
+- Sunny Day
+- Encore
+- Moonblast
+- Endeavor
+
+Volcarona @ Safety Goggles
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 164 Def / 44 SpA / 4 SpD / 44 Spe
+Modest Nature
+- Flamethrower
+- Quiver Dance
+- Fiery Dance
+- Heat Wave
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Draco Meteor
+- Dragon Pulse
+- Dazzling Gleam
+- Volt Switch

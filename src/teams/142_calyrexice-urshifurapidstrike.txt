@@ -1,0 +1,65 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 140 Def / 116 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Spirit Break
+- Fake Out
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 36 Atk / 28 Def / 180 SpD / 12 Spe
+Adamant Nature
+- Seed Bomb
+- Trick Room
+- Glacial Lance
+- Protect
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Stellar
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- U-turn
+- Surging Strikes
+- Taunt
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 92 HP / 4 Def / 252 SpA / 4 SpD / 156 Spe
+Modest Nature
+- Draco Meteor
+- Volt Switch
+- Dazzling Gleam
+- Electro Drift
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Sludge Bomb
+- Earth Power
+- Sandsear Storm
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Headlong Rush
+- Earthquake
+- Protect
+- Facade

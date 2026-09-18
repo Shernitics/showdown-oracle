@@ -1,0 +1,65 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Parting Shot
+- Knock Off
+- Fake Out
+- Flare Blitz
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 204 Def / 52 SpD
+Bold Nature
+- Protect
+- Rage Powder
+- Giga Drain
+- Heat Wave
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 36 Atk / 4 Def / 204 SpD / 12 Spe
+Adamant Nature
+- Seed Bomb
+- Trick Room
+- Glacial Lance
+- Leech Seed
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- U-turn
+- Aqua Jet
+- Surging Strikes
+- Protect
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 4 Def / 36 SpA / 76 SpD / 148 Spe
+Modest Nature
+- Protect
+- Sludge Bomb
+- Earth Power
+- Sandsear Storm
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 6 Def / 252 SpA / 252 Spe
+Timid Nature
+- Origin Pulse
+- Ice Beam
+- Thunder
+- Water Spout

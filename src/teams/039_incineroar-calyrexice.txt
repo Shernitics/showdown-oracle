@@ -1,0 +1,65 @@
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 220 HP / 148 Atk / 60 Def / 76 SpD / 4 Spe
+Adamant Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 172 Atk / 84 SpD
+Brave Nature
+- Trick Room
+- High Horsepower
+- Protect
+- Psych Up
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 124 Def / 132 SpD
+Impish Nature
+- Flare Blitz
+- Fake Out
+- Protect
+- Knock Off
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Poison
+EVs: 244 HP / 4 Def / 116 SpA / 124 SpD / 20 Spe
+Modest Nature
+- Protect
+- Extrasensory
+- Earth Power
+- Sludge Bomb
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Grass
+EVs: 252 Atk / 252 Def
+Brave Nature
+- Spore
+- Follow Me
+- Fake Out
+- Decorate
+
+Kyogre @ Power Lens
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 16 Def / 252 SpA / 236 Spe
+Timid Nature
+- Origin Pulse
+- Thunder
+- Hydro Pump
+- Protect

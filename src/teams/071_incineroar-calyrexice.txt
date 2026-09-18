@@ -1,0 +1,65 @@
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 244 HP / 156 Def / 4 SpA / 100 SpD / 4 Spe
+Bold Nature
+- Hurricane
+- Protect
+- Weather Ball
+- Wide Guard
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 116 Atk / 40 Def / 100 Spe
+Adamant Nature
+- Protect
+- Crunch
+- Glacial Lance
+- High Horsepower
+
+Incineroar @ Covert Cloak
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 36 Atk / 60 Def / 36 SpD / 124 Spe
+Careful Nature
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+Dusclops @ Eviolite
+Ability: Frisk
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Shadow Sneak
+- Hex
+- Trick Room
+- Night Shade
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Electro Drift
+- Draco Meteor
+- Volt Switch
+- Dazzling Gleam
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Ice Punch
+- Thunder Punch
+- Close Combat
+- Low Kick

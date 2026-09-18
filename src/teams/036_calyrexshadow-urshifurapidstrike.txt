@@ -1,0 +1,65 @@
+Dragonite @ Life Orb
+Ability: Multiscale
+Level: 50
+Tera Type: Normal
+EVs: 180 HP / 252 Atk / 4 Def / 4 SpD / 68 Spe
+Adamant Nature
+- Aqua Jet
+- Protect
+- Low Kick
+- Scale Shot
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 236 HP / 4 Atk / 156 Def / 100 SpD / 12 Spe
+Impish Nature
+- Heavy Slam
+- Body Press
+- Iron Head
+- Wide Guard
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 124 HP / 196 Atk / 4 Def / 84 SpD / 100 Spe
+Adamant Nature
+- Close Combat
+- U-turn
+- Surging Strikes
+- Detect
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Expanding Force
+- Astral Barrage
+- Psychic
+
+Chien-Pao @ Assault Vest
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Taunt
+- Sucker Punch
+- Icy Wind
+
+Amoonguss @ Mental Herb
+Ability: Regenerator
+Level: 50
+Tera Type: Steel
+EVs: 244 HP / 236 Def / 28 Spe
+Bold Nature
+- Rage Powder
+- Clear Smog
+- Pollen Puff
+- Spore

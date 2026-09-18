@@ -1,0 +1,65 @@
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 252 Atk / 116 SpD
+Brave Nature
+- Headlong Rush
+- Protect
+- Earthquake
+- Facade
+
+Sinistcha @ Focus Sash
+Ability: Heatproof
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 188 Def / 68 SpD
+Bold Nature
+- Trick Room
+- Rage Powder
+- Shadow Ball
+- Calm Mind
+
+Archaludon @ Assault Vest
+Ability: Stalwart
+Level: 50
+Tera Type: Flying
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Snarl
+- Electro Shot
+- Flash Cannon
+- Draco Meteor
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 108 Def / 148 SpD
+Impish Nature
+- Knock Off
+- Flare Blitz
+- Will-O-Wisp
+- Parting Shot
+
+Miraidon @ Life Orb
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 68 Spe
+Timid Nature
+- Electro Drift
+- Volt Switch
+- Dazzling Gleam
+- Draco Meteor
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Close Combat
+- U-turn
+- Aqua Jet
+- Surging Strikes

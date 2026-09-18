@@ -1,0 +1,65 @@
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Electro Drift
+- Protect
+- Draco Meteor
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 140 Def / 4 SpA / 124 SpD
+Calm Nature
+- Protect
+- Helping Hand
+- Psychic
+- Trick Room
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Surging Strikes
+- Close Combat
+- Detect
+- U-turn
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 124 HP / 76 Def / 252 SpA / 52 Spe
+Modest Nature
+- Protect
+- Roar
+- Earth Power
+- Tera Starstorm
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Fake Out
+- Will-O-Wisp
+- Flare Blitz
+- Knock Off
+
+Iron Treads @ Life Orb
+Ability: Quark Drive
+Level: 50
+Tera Type: Ghost
+EVs: 68 HP / 252 Atk / 188 Spe
+Jolly Nature
+- Protect
+- Steel Roller
+- Iron Head
+- Wild Charge

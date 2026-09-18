@@ -1,0 +1,65 @@
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Overheat
+- Snarl
+- Psychic
+- Heat Wave
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Stellar
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Protect
+- Icy Wind
+- Moonblast
+- Imprison
+
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 156 HP / 44 Atk / 172 Def / 136 SpD
+Impish Nature
+- Spore
+- Seed Bomb
+- Sucker Punch
+- Rage Powder
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Poison
+EVs: 140 HP / 252 Atk / 44 Def / 4 SpA / 68 SpD
+Brave Nature
+- High Horsepower
+- Earthquake
+- Headlong Rush
+- Facade
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Outrage
+- Dragon Claw
+- Close Combat
+- Flame Charge
+
+Incineroar @ Room Service
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 20 Def / 236 SpD / 4 Spe
+Careful Nature
+- Fake Out
+- Brick Break
+- Parting Shot
+- U-turn

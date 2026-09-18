@@ -1,0 +1,65 @@
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 4 Def / 196 SpA / 36 SpD / 36 Spe
+Modest Nature
+- Substitute
+- Protect
+- Sludge Bomb
+- Earth Power
+
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Water Spout
+- Protect
+- Ice Beam
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Aqua Jet
+- Detect
+- Surging Strikes
+- Close Combat
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Thunder Wave
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Fake Out
+- Follow Me
+- Wide Guard
+- Decorate
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Dragon
+EVs: 140 HP / 188 Def / 36 SpA / 4 SpD / 140 Spe
+Modest Nature
+- Struggle Bug
+- Heat Wave
+- Quiver Dance
+- Rage Powder

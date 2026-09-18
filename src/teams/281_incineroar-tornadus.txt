@@ -1,0 +1,65 @@
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Bleakwind Storm
+- Taunt
+- Tailwind
+- Tera Blast
+
+Brute Bonnet @ Rocky Helmet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 156 HP / 44 Atk / 172 Def / 136 SpD
+Impish Nature
+- Rage Powder
+- Sucker Punch
+- Spore
+- Seed Bomb
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Shadow Ball
+- Protect
+- Taunt
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Flare Blitz
+- Flame Charge
+- Close Combat
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 4 Atk / 188 Def / 68 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- U-turn
+- Flare Blitz
+- Fake Out
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 228 HP / 252 SpA / 28 Spe
+Modest Nature
+- Dragon Pulse
+- Protect
+- Thunderclap
+- Thunderbolt

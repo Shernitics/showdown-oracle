@@ -1,0 +1,65 @@
+Volcarona @ Safety Goggles
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Rage Powder
+- Quiver Dance
+- Protect
+- Heat Wave
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 108 HP / 20 Def / 212 SpA / 4 SpD / 164 Spe
+Timid Nature
+- Draco Meteor
+- Protect
+- Volt Switch
+- Electro Drift
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 132 HP / 172 Def / 180 SpA / 12 SpD / 12 Spe
+Modest Nature
+- Wide Guard
+- Trick Room
+- Meteor Beam
+- Moongeist Beam
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Grass
+EVs: 180 HP / 108 SpD / 220 Spe
+Timid Nature
+- Encore
+- Tailwind
+- Fake Tears
+- Moonblast
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 76 HP / 236 Atk / 4 Def / 4 SpD / 188 Spe
+Adamant Nature
+- Close Combat
+- U-turn
+- Surging Strikes
+- Aqua Jet
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 188 Def / 68 SpD
+Relaxed Nature
+- Fake Out
+- U-turn
+- Flare Blitz
+- Knock Off

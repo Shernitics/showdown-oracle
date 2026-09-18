@@ -1,0 +1,65 @@
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 140 HP / 156 Atk / 4 Def / 28 SpD / 180 Spe
+Jolly Nature
+- Knock Off
+- U-turn
+- Fake Out
+- Wood Hammer
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Collision Course
+- Close Combat
+- Flare Blitz
+- Protect
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Astral Barrage
+- Expanding Force
+- Psychic
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 52 HP / 4 Def / 252 SpA / 68 SpD / 132 Spe
+Modest Nature
+- Protect
+- Dragon Pulse
+- Thunderbolt
+- Volt Switch
+
+Flutter Mane @ Choice Specs
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 108 HP / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Timid Nature
+- Icy Wind
+- Shadow Ball
+- Protect
+- Taunt
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Fire
+EVs: 204 HP / 84 Atk / 4 Def / 172 SpD / 44 Spe
+Adamant Nature
+- Roar
+- Fake Out
+- Knock Off
+- Helping Hand

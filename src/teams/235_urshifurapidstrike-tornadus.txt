@@ -1,0 +1,65 @@
+Ludicolo @ Assault Vest
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+EVs: 28 HP / 4 Def / 252 SpA / 4 SpD / 220 Spe
+Modest Nature
+- Icy Wind
+- Weather Ball
+- Fake Out
+- Energy Ball
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 Atk / 4 Def / 68 SpD / 180 Spe
+Jolly Nature
+- Hyper Voice
+- Close Combat
+- Protect
+- Iron Head
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 188 Def / 84 SpD
+Sassy Nature
+- Spore
+- Protect
+- Pollen Puff
+- Rage Powder
+
+Tornadus @ Life Orb
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tailwind
+- Bleakwind Storm
+- Sunny Day
+- Protect
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 108 HP / 156 Atk / 4 Def / 180 SpD / 60 Spe
+Adamant Nature
+- U-turn
+- Detect
+- Close Combat
+- Surging Strikes
+
+Wo-Chien @ Safety Goggles
+Ability: Tablets of Ruin
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 76 Def / 180 Spe
+Bold Nature
+- Leech Seed
+- Ruination
+- Snarl
+- Pollen Puff

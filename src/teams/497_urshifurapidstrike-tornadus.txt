@@ -1,0 +1,65 @@
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 116 Def / 44 SpA / 92 SpD / 12 Spe
+Modest Nature
+- Protect
+- Bleakwind Storm
+- Taunt
+- Scary Face
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Fire
+EVs: 156 HP / 40 Def / 160 SpA / 4 SpD / 148 Spe
+Modest Nature
+- Snarl
+- Ruination
+- Heat Wave
+- Dark Pulse
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Aqua Jet
+- U-turn
+- Surging Strikes
+
+Chien-Pao @ Choice Band
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Sacred Sword
+- Ruination
+- Icicle Crash
+- Sucker Punch
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 132 HP / 252 Atk / 4 Def / 4 SpD / 116 Spe
+Adamant Nature
+- Protect
+- Flare Blitz
+- Flame Charge
+- Close Combat
+
+Clefairy @ Eviolite
+Ability: Friend Guard
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Follow Me
+- Helping Hand
+- Life Dew
+- After You

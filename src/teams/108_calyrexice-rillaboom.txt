@@ -1,0 +1,62 @@
+Sableye @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+- Encore
+- Substitute
+- Will-O-Wisp
+- Reflect
+
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Def / 236 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Thunder
+- Origin Pulse
+- Water Spout
+- Protect
+
+Ditto @ Choice Scarf
+Ability: Imposter
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+- Transform
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Protect
+- Glacial Lance
+- High Horsepower
+- Trick Room
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 6 Def / 252 Spe
+Jolly Nature
+- Fake Out
+- Follow Me
+- Spore
+- Wide Guard
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 188 HP / 4 Atk / 4 Def / 124 SpD / 188 Spe
+Jolly Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn

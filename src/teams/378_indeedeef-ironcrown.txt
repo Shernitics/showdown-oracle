@@ -1,0 +1,65 @@
+Yanmega @ Focus Sash
+Ability: Speed Boost
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tailwind
+- Detect
+- Bug Buzz
+- Hypnosis
+
+Iron Crown @ Choice Scarf
+Ability: Quark Drive
+Level: 50
+Tera Type: Psychic
+EVs: 100 HP / 252 SpA / 156 Spe
+Modest Nature
+- Volt Switch
+- Protect
+- Tachyon Cutter
+- Expanding Force
+
+Armarouge @ Weakness Policy
+Ability: Weak Armor
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Def / 252 SpD
+Relaxed Nature
+- Wide Guard
+- Heat Wave
+- Armor Cannon
+- Expanding Force
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Imprison
+- Follow Me
+- Psychic
+- Trick Room
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Dark
+EVs: 52 HP / 252 SpA / 204 Spe
+Timid Nature
+- Icy Wind
+- Protect
+- Ice Beam
+- Moonblast
+
+Kyurem-White @ Assault Vest
+Ability: Turboblaze
+Level: 50
+Tera Type: Ground
+EVs: 156 HP / 196 Def / 76 SpA / 4 SpD / 76 Spe
+Modest Nature
+- Blizzard
+- Draco Meteor
+- Freeze-Dry
+- Fusion Flare

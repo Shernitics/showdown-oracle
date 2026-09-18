@@ -1,0 +1,65 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 204 Def / 52 SpD
+Careful Nature
+- Reflect
+- Light Screen
+- Spirit Break
+- Thunder Wave
+
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Protect
+- Bulldoze
+- Endeavor
+- Stomping Tantrum
+
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Tailwind
+- Taunt
+- Dark Pulse
+- Sunny Day
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 236 Def / 36 SpD
+Relaxed Nature
+- Spore
+- Sludge Bomb
+- Protect
+- Rage Powder
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 6 Def / 252 SpA / 252 Spe
+Timid Nature
+- Water Spout
+- Ice Beam
+- Origin Pulse
+- Thunder
+
+Calyrex-Ice @ Choice Band
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 116 Atk / 140 SpD
+Brave Nature
+- Trick Room
+- Glacial Lance
+- Seed Bomb
+- Protect

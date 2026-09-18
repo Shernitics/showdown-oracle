@@ -1,0 +1,65 @@
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 84 Def / 4 SpA / 4 SpD / 164 Spe
+Timid Nature
+- Rage Powder
+- Protect
+- Tailwind
+- Flamethrower
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Normal
+EVs: 252 Atk / 252 Def
+Brave Nature
+- Decorate
+- Follow Me
+- Spore
+- Fake Out
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 156 Def / 100 SpD
+Bold Nature
+- Follow Me
+- Helping Hand
+- Light Screen
+- Trick Room
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 244 HP / 4 Atk / 108 Def / 148 SpD / 4 Spe
+Careful Nature
+- Glacial Lance
+- High Horsepower
+- Trick Room
+- Protect
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 228 HP / 132 Def / 4 SpA / 4 SpD / 140 Spe
+Timid Nature
+- Power Gem
+- Trick Room
+- Taunt
+- Moonblast
+
+Kyogre @ Iron Ball
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 6 Def / 252 SpA / 252 Spe
+Timid Nature
+- Thunder
+- Protect
+- Water Spout
+- Origin Pulse

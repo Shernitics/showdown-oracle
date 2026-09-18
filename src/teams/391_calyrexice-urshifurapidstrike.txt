@@ -1,0 +1,65 @@
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 116 Atk / 140 SpD
+Brave Nature
+- Protect
+- High Horsepower
+- Glacial Lance
+- Trick Room
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Stellar
+EVs: 12 HP / 156 Atk / 4 Def / 140 SpD / 196 Spe
+Adamant Nature
+- Ice Punch
+- Surging Strikes
+- Close Combat
+- Poison Jab
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Encore
+- Fake Tears
+- Moonblast
+- Taunt
+
+Farigiraf @ Safety Goggles
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 148 Def / 108 SpA
+Relaxed Nature
+- Psychic
+- Helping Hand
+- Foul Play
+- Trick Room
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Water
+EVs: 100 HP / 212 Atk / 44 Def / 148 SpD
+Brave Nature
+- Wild Charge
+- Drain Punch
+- Brick Break
+- Fake Out
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Dark Pulse
+- Heat Wave
+- Snarl
+- Overheat

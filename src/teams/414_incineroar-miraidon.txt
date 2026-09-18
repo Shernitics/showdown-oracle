@@ -1,0 +1,65 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+- Knock Off
+- Fake Out
+- Flare Blitz
+- Protect
+
+Miraidon @ Life Orb
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Volt Switch
+- Dazzling Gleam
+- Electro Drift
+- Draco Meteor
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 36 Def / 220 Spe
+Timid Nature
+- Light Screen
+- Moonblast
+- Tailwind
+- Encore
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 196 HP / 4 Atk / 172 Def / 116 SpD / 20 Spe
+Careful Nature
+- Parting Shot
+- Light Screen
+- Thunder Wave
+- Reflect
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 172 HP / 68 Atk / 52 Def / 4 SpD / 212 Spe
+Adamant Nature
+- Spiky Shield
+- Ivy Cudgel
+- Taunt
+- Power Whip
+
+Landorus @ Choice Scarf
+Ability: Sheer Force
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 44 Def / 156 SpA / 4 SpD / 52 Spe
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Protect
+- Sandsear Storm

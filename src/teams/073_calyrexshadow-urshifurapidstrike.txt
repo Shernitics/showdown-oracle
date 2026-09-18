@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 4 Atk / 156 Def / 100 SpD / 12 Spe
+Impish Nature
+- Body Press
+- Imprison
+- Wide Guard
+- Iron Defense
+
+Urshifu-Rapid-Strike @ Expert Belt
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Surging Strikes
+- Close Combat
+- Detect
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 36 HP / 100 Atk / 4 Def / 116 SpD / 252 Spe
+Jolly Nature
+- Ice Spinner
+- Protect
+- Sucker Punch
+- Throat Chop
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Taunt
+- Rain Dance
+- Bleakwind Storm
+- Protect
+
+Calyrex-Shadow @ Choice Scarf
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tera Blast
+- Astral Barrage
+- Protect
+- Nasty Plot

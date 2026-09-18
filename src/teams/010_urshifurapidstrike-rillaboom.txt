@@ -1,0 +1,65 @@
+Iron Jugulis @ Booster Energy
+Ability: Quark Drive
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 76 Def / 44 SpA / 4 SpD / 132 Spe
+Timid Nature
+- Tailwind
+- Snarl
+- Hurricane
+- Taunt
+
+Urshifu-Rapid-Strike @ Safety Goggles
+Ability: Unseen Fist
+Level: 50
+Tera Type: Stellar
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Taunt
+- U-turn
+- Detect
+- Surging Strikes
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Dragon
+EVs: 84 HP / 252 Atk / 4 Def / 4 SpD / 164 Spe
+Jolly Nature
+- Play Rough
+- Protect
+- Swords Dance
+- Iron Head
+
+Kyogre @ Iron Ball
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 44 Def / 204 SpA / 4 SpD / 44 Spe
+Modest Nature
+- Thunder
+- Water Spout
+- Protect
+- Ice Beam
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 228 HP / 116 Atk / 4 Def / 108 SpD / 52 Spe
+Adamant Nature
+- Fake Out
+- U-turn
+- Grassy Glide
+- Knock Off
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 116 Def / 36 SpA / 60 SpD / 44 Spe
+Modest Nature
+- Will-O-Wisp
+- Quiver Dance
+- Rage Powder
+- Giga Drain

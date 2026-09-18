@@ -1,0 +1,65 @@
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 66 Def / 188 SpD
+Careful Nature
+- Knock Off
+- U-turn
+- Fake Out
+- Flare Blitz
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 204 HP / 164 Atk / 4 Def / 4 SpD / 132 Spe
+Jolly Nature
+- Flare Blitz
+- Flame Charge
+- Protect
+- Collision Course
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Stellar
+EVs: 140 HP / 12 Def / 100 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Psychic
+- Pollen Puff
+- Protect
+- Shadow Ball
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 244 HP / 252 SpA / 12 SpD
+Modest Nature
+- Protect
+- Thunderclap
+- Weather Ball
+- Snarl
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 76 Def / 172 SpD / 4 Spe
+Impish Nature
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Spiky Shield
+- Follow Me
+- Wood Hammer
+- Ivy Cudgel

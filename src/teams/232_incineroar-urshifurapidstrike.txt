@@ -1,0 +1,65 @@
+Whimsicott @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 1 HP / 1 Atk / 1 Def / 252 SpA / 1 SpD / 252 Spe
+Timid Nature
+- Fake Tears
+- Encore
+- Light Screen
+- Endeavor
+
+Lunala @ Electric Seed
+Ability: Shadow Shield
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Moongeist Beam
+- Meteor Beam
+- Wide Guard
+- Trick Room
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Fire
+EVs: 228 HP / 188 Def / 92 SpD
+Relaxed Nature
+- Flare Blitz
+- Parting Shot
+- Knock Off
+- Fake Out
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 180 HP / 4 Def / 68 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Snarl
+- Volt Switch
+- Draco Meteor
+- Dazzling Gleam
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Focus Punch
+- Detect
+- U-turn
+- Surging Strikes
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Protect
+- Earthquake
+- Facade
+- Headlong Rush

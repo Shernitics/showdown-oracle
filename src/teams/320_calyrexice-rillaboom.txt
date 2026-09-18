@@ -1,0 +1,65 @@
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Protect
+- High Horsepower
+- Glacial Lance
+- Trick Room
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Earthquake
+- Protect
+- Headlong Rush
+- Facade
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 140 HP / 84 Atk / 4 Def / 28 SpD / 252 Spe
+Jolly Nature
+- Grassy Glide
+- Fake Out
+- Knock Off
+- U-turn
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 12 SpA / 252 Spe
+Timid Nature
+- Moonblast
+- Ice Beam
+- Freeze-Dry
+- Icy Wind
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Helping Hand
+- Follow Me
+- Psychic
+- Trick Room
+
+Necrozma-Dawn-Wings @ Mental Herb
+Ability: Prism Armor
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 76 Def / 196 SpA
+Quiet Nature
+- Trick Room
+- Expanding Force
+- Moongeist Beam
+- Protect

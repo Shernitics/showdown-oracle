@@ -1,0 +1,65 @@
+Kyogre @ Assault Vest
+Ability: Drizzle
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Origin Pulse
+- Water Spout
+- Thunder
+- Ice Beam
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 236 Def / 36 SpD
+Bold Nature
+- Rage Powder
+- Sludge Bomb
+- Protect
+- Pollen Puff
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 108 Atk / 140 Def / 4 SpD
+Brave Nature
+- Protect
+- Facade
+- Crunch
+- Earthquake
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Helping Hand
+- Psychic
+- Protect
+- Imprison
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 36 Atk / 20 Def / 196 SpD / 4 Spe
+Adamant Nature
+- Protect
+- Seed Bomb
+- High Horsepower
+- Glacial Lance
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 100 Def / 156 SpD
+Relaxed Nature
+- Protect
+- Flamethrower
+- Eruption
+- Clear Smog

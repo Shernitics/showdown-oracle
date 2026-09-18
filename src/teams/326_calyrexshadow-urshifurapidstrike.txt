@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Fighting
+EVs: 188 HP / 156 Def / 164 Spe
+Impish Nature
+- Heavy Slam
+- Body Press
+- Protect
+- Iron Head
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Wood Hammer
+- Follow Me
+- Spiky Shield
+- Power Whip
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 140 HP / 68 Def / 180 SpA / 4 SpD / 116 Spe
+Modest Nature
+- Calm Mind
+- Thunderbolt
+- Dragon Pulse
+- Thunderclap
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dragon
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Taunt
+- Bleakwind Storm
+- Rain Dance
+- Tailwind
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 164 HP / 84 Def / 116 SpA / 4 SpD / 140 Spe
+Timid Nature
+- Encore
+- Astral Barrage
+- Protect
+- Pollen Puff
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Surging Strikes
+- Coaching
+- Aqua Jet

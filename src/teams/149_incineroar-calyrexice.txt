@@ -1,0 +1,65 @@
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind's Eye
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 4 Def / 228 SpA / 164 SpD / 4 Spe
+Modest Nature
+- Vacuum Wave
+- Protect
+- Blood Moon
+- Hyper Voice
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 6 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Flare Blitz
+- U-turn
+- Flame Charge
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 116 Def / 140 SpD
+Relaxed Nature
+- Trick Room
+- Psychic
+- Helping Hand
+- Follow Me
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 60 Def / 192 SpD
+Sassy Nature
+- Knock Off
+- Taunt
+- Parting Shot
+- Flare Blitz
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Def / 252 Spe
+Jolly Nature
+- Spore
+- Follow Me
+- Helping Hand
+- Fake Out
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Trick Room
+- Glacial Lance
+- High Horsepower
+- Leech Seed

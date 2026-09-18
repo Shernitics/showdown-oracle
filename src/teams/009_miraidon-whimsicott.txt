@@ -1,0 +1,65 @@
+Lunala @ Leftovers
+Ability: Shadow Shield
+Level: 50
+Tera Type: Water
+EVs: 148 HP / 20 Def / 252 SpA / 20 SpD / 68 Spe
+Modest Nature
+- Moonblast
+- Trick Room
+- Meteor Beam
+- Moongeist Beam
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Facade
+- Earthquake
+- Headlong Rush
+- Protect
+
+Brute Bonnet @ Sitrus Berry
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 84 Def / 164 SpD / 4 Spe
+Careful Nature
+- Sucker Punch
+- Seed Bomb
+- Spore
+- Rage Powder
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 68 HP / 84 Def / 164 SpA / 4 SpD / 188 Spe
+Timid Nature
+- Tera Blast
+- Overheat
+- Heat Wave
+- Dark Pulse
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Taunt
+- Moonblast
+- Fake Tears
+- Sunny Day
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 132 HP / 4 Def / 116 SpA / 20 SpD / 236 Spe
+Modest Nature
+- Electro Drift
+- Parabolic Charge
+- Dazzling Gleam
+- Volt Switch

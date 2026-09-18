@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 172 HP / 4 Atk / 76 Def / 4 SpD / 252 Spe
+Impish Nature
+- Body Press
+- Wide Guard
+- Iron Head
+- Iron Defense
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 228 HP / 108 Def / 52 SpA / 116 SpD / 4 Spe
+Calm Nature
+- Trick Room
+- Helping Hand
+- Psychic
+- Hyper Voice
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Wide Guard
+- Spore
+- Fake Out
+- Follow Me
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 140 HP / 68 Def / 180 SpA / 4 SpD / 116 Spe
+Modest Nature
+- Dragon Pulse
+- Protect
+- Snarl
+- Thunderclap
+
+Calyrex-Shadow @ Spell Tag
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Protect
+- Shadow Ball
+- Will-O-Wisp
+
+Amoonguss @ Rocky Helmet
+Ability: Effect Spore
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 188 Def / 76 SpD
+Calm Nature
+- Clear Smog
+- Protect
+- Rage Powder
+- Pollen Puff

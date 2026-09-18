@@ -1,0 +1,65 @@
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 92 Atk / 12 Def / 68 SpD / 84 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- Follow Me
+- Spiky Shield
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Icy Wind
+- Sucker Punch
+- Ruination
+- Crunch
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Protect
+- Imprison
+- Encore
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Fairy
+EVs: 84 HP / 252 Atk / 4 Def / 4 SpD / 164 Spe
+Jolly Nature
+- Play Rough
+- Sacred Sword
+- Tera Blast
+- Iron Head
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Atk / 4 Def / 236 SpD / 12 Spe
+Careful Nature
+- U-turn
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 166 SpA / 92 Spe
+Modest Nature
+- Rain Dance
+- Taunt
+- Sunny Day
+- Bleakwind Storm

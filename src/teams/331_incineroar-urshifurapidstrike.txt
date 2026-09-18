@@ -1,0 +1,65 @@
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Aqua Jet
+- Surging Strikes
+- U-turn
+- Close Combat
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 164 Def / 92 SpD
+Bold Nature
+- Helping Hand
+- Hyper Voice
+- Skill Swap
+- Imprison
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 176 HP / 112 Def / 220 SpD
+Careful Nature
+- Flare Blitz
+- Parting Shot
+- Knock Off
+- Fake Out
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Fake Tears
+- Tailwind
+- Encore
+- Moonblast
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 28 HP / 20 Def / 204 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Discharge
+- Volt Switch
+- Electro Drift
+- Calm Mind
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Poison
+EVs: 140 HP / 252 Atk / 116 Def
+Brave Nature
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect

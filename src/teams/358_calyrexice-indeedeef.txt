@@ -1,0 +1,65 @@
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Grass
+EVs: 220 HP / 252 Atk / 36 SpD
+Brave Nature
+- Wicked Blow
+- Close Combat
+- Brick Break
+- Sucker Punch
+
+Annihilape @ Choice Scarf
+Ability: Vital Spirit
+Level: 50
+Tera Type: Fighting
+EVs: 172 HP / 84 Atk / 252 Spe
+Jolly Nature
+- Close Combat
+- Shadow Claw
+- Final Gambit
+- Coaching
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 6 SpD
+Bold Nature
+- Trick Room
+- Helping Hand
+- Follow Me
+- Protect
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 116 Atk / 36 Def / 76 SpD / 36 Spe
+Adamant Nature
+- Protect
+- Glacial Lance
+- Seed Bomb
+- Trick Room
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 116 Def / 252 SpD / 140 Spe
+Timid Nature
+- Encore
+- Tailwind
+- Endeavor
+- Helping Hand
+
+Smeargle @ Mental Herb
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 60 HP / 196 Def / 252 Spe
+Timid Nature
+- Spiky Shield
+- Spore
+- Fake Out
+- Trick Room

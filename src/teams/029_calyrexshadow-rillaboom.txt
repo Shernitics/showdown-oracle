@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 4 Atk / 156 Def / 44 SpD / 52 Spe
+Impish Nature
+- Protect
+- Iron Defense
+- Heavy Slam
+- Wide Guard
+
+Smeargle @ Focus Sash
+Ability: Own Tempo
+Level: 50
+Tera Type: Normal
+EVs: 60 HP / 196 Def / 252 Spe
+Timid Nature
+- Fake Out
+- Follow Me
+- Baneful Bunker
+- Spore
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 92 HP / 252 SpA / 164 Spe
+Modest Nature
+- Thunderbolt
+- Protect
+- Draco Meteor
+- Thunderclap
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Taunt
+- Weather Ball
+- Bleakwind Storm
+- Sunny Day
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 36 Atk / 4 Def / 68 SpD / 148 Spe
+Adamant Nature
+- U-turn
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Protect
+- Nasty Plot
+- Astral Barrage

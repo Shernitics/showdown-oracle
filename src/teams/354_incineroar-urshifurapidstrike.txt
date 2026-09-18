@@ -1,0 +1,65 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 196 Def / 76 SpD
+Calm Nature
+- Protect
+- Pollen Puff
+- Spore
+- Clear Smog
+
+Terapagos @ Power Herb
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 124 HP / 76 Def / 252 SpA / 52 Spe
+Modest Nature
+- Earth Power
+- Calm Mind
+- Tera Starstorm
+- Protect
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 12 HP / 252 Atk / 20 Def / 12 SpD / 212 Spe
+Jolly Nature
+- Detect
+- Ice Spinner
+- Close Combat
+- Aqua Jet
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 156 HP / 116 Atk / 4 Def / 222 SpD / 12 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Protect
+- Grassy Glide
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 108 Def / 148 SpD
+Impish Nature
+- Flare Blitz
+- U-turn
+- Fake Out
+- Knock Off
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Fighting
+EVs: 196 HP / 244 Def / 68 Spe
+Impish Nature
+- Body Press
+- Wide Guard
+- Heavy Slam
+- Iron Defense

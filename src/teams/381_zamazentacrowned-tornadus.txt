@@ -1,0 +1,65 @@
+Tornadus @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+EVs: 252 HP / 92 Def / 4 SpA / 156 SpD / 4 Spe
+Calm Nature
+- Rain Dance
+- Taunt
+- Bleakwind Storm
+- Knock Off
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 196 HP / 108 Def / 196 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Thunderclap
+- Dragon Pulse
+- Volt Switch
+- Draco Meteor
+
+Chien-Pao @ Covert Cloak
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 92 HP / 4 Atk / 4 Def / 156 SpD / 252 Spe
+Jolly Nature
+- Ice Spinner
+- Ruination
+- Protect
+- Icy Wind
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flame Charge
+- Collision Course
+- Close Combat
+- Protect
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 252 Def / 4 SpA / 252 SpD
+Quiet Nature
+- Sludge Bomb
+- Protect
+- Rage Powder
+- Spore
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Iron Defense
+- Wide Guard
+- Imprison
+- Protect

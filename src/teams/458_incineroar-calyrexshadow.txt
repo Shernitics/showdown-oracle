@@ -1,0 +1,65 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 188 Def / 84 SpD
+Sassy Nature
+- Spore
+- Clear Smog
+- Protect
+- Pollen Puff
+
+Ogerpon-Hearthflame @ Hearthflame Mask
+Ability: Mold Breaker
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 76 Atk / 52 Def / 4 SpD / 188 Spe
+Adamant Nature
+- Ivy Cudgel
+- Grassy Glide
+- Follow Me
+- Spiky Shield
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 36 Atk / 124 Def / 78 SpD / 28 Spe
+Adamant Nature
+- Flare Blitz
+- U-turn
+- Parting Shot
+- Fake Out
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 204 Atk / 4 Def / 44 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Surging Strikes
+- Aqua Jet
+- U-turn
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Tera Blast
+- Taunt
+- Leech Seed
+- Protect
+
+Rillaboom @ Covert Cloak
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out

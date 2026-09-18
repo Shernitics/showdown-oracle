@@ -1,0 +1,65 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+- Rage Powder
+- Protect
+- Pollen Puff
+- Spore
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 236 HP / 76 Atk / 196 SpD
+Brave Nature
+- Glacial Lance
+- Trick Room
+- High Horsepower
+- Leech Seed
+
+Raging Bolt @ Life Orb
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
+Modest Nature
+- Thunderclap
+- Protect
+- Thunderbolt
+- Volt Switch
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 100 HP / 228 Atk / 92 Def / 68 SpD / 20 Spe
+Adamant Nature
+- Wood Hammer
+- Drum Beating
+- U-turn
+- Fake Out
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 116 Def / 140 SpD
+Careful Nature
+- Flare Blitz
+- Fake Out
+- Knock Off
+- Will-O-Wisp
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Trick Room
+- Dazzling Gleam
+- Moonblast
+- Shadow Ball

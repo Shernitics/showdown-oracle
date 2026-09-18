@@ -1,0 +1,65 @@
+Conkeldurr @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Dark
+EVs: 84 HP / 252 Atk / 80 Def / 92 SpD
+Brave Nature
+- Knock Off
+- Low Kick
+- Coaching
+- Protect
+
+Farigiraf @ Mental Herb
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 92 Def / 4 SpA / 156 SpD / 4 Spe
+Calm Nature
+- Uproar
+- Hyper Voice
+- Protect
+- Foul Play
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Normal
+EVs: 236 HP / 4 Def / 196 SpA / 36 SpD / 36 Spe
+Modest Nature
+- Earth Power
+- Crunch
+- Sandsear Storm
+- Sludge Bomb
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Volt Switch
+- Protect
+- Electro Drift
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Atk / 6 Def
+Adamant Nature
+- Glacial Lance
+- Leech Seed
+- Trick Room
+- Crunch
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Rain Dance
+- Taunt
+- Tailwind
+- Bleakwind Storm

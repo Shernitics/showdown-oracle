@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Astral Barrage
+- Protect
+- Psych Up
+
+Indeedee @ Covert Cloak
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Fake Out
+- Trick Room
+- Dazzling Gleam
+- Expanding Force
+
+Arcanine-Hisui @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Normal
+EVs: 172 HP / 140 Atk / 76 Def / 116 SpD
+Impish Nature
+- Extreme Speed
+- Sunny Day
+- Head Smash
+- Flare Blitz
+
+Regieleki @ Choice Band
+Ability: Transistor
+Level: 50
+Tera Type: Ice
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Thunder Cage
+- Electroweb
+- Supercell Slam
+- Thunderbolt
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Ghost
+EVs: 164 HP / 4 Atk / 108 Def / 68 SpD / 164 Spe
+Careful Nature
+- Wide Guard
+- Protect
+- Body Press
+- Iron Defense
+
+Fezandipiti @ Bright Powder
+Ability: Toxic Chain
+Level: 50
+Tera Type: Steel
+EVs: 196 HP / 68 Atk / 244 Def
+Impish Nature
+- Light Screen
+- Play Rough
+- Gunk Shot
+- Tailwind

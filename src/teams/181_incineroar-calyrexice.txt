@@ -1,0 +1,65 @@
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 164 Def / 4 SpA / 84 SpD / 4 Spe
+Bold Nature
+- Roar
+- Trick Room
+- Hyper Voice
+- Psychic Noise
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Fire
+EVs: 100 HP / 100 Atk / 52 Def / 252 SpD
+Brave Nature
+- Low Kick
+- Drain Punch
+- Fake Out
+- Thunder Punch
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 230 HP / 116 Atk / 164 Spe
+Adamant Nature
+- Leech Seed
+- High Horsepower
+- Glacial Lance
+- Swords Dance
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Electro Drift
+- Snarl
+- Volt Switch
+- Dazzling Gleam
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 156 Def / 68 SpD / 28 Spe
+Careful Nature
+- Parting Shot
+- Knock Off
+- Fake Out
+- Flare Blitz
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Knock Off
+- Protect
+- Coaching
+- Close Combat

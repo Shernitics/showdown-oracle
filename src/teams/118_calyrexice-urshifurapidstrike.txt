@@ -1,0 +1,65 @@
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Surging Strikes
+- U-turn
+- Detect
+- Aqua Jet
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 100 Def / 76 SpA / 4 SpD / 76 Spe
+Modest Nature
+- Water Spout
+- Thunder
+- Protect
+- Hydro Pump
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 4 Def / 244 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Earth Power
+- Sludge Bomb
+- Sandsear Storm
+- Protect
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 132 HP / 4 Atk / 20 Def / 212 SpD / 140 Spe
+Impish Nature
+- Glacial Lance
+- High Horsepower
+- Trick Room
+- Leech Seed
+
+Tornadus @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Taunt
+- Bleakwind Storm
+- Tailwind
+- Rain Dance
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Steel
+EVs: 236 HP / 236 Def / 36 SpD
+Relaxed Nature
+- Clear Smog
+- Pollen Puff
+- Rage Powder
+- Protect

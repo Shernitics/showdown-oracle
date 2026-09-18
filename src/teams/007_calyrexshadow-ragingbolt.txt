@@ -1,0 +1,65 @@
+Solgaleo @ Eject Pack
+Ability: Full Metal Body
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Psychic Fangs
+- Trick Room
+- Sunsteel Strike
+- Close Combat
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 84 Def / 164 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Pollen Puff
+- Expanding Force
+- Protect
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Foul Play
+- Sunny Day
+- Taunt
+- Haze
+
+Arcanine-Hisui @ Choice Band
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 68 HP / 252 Atk / 4 Def / 4 SpD / 180 Spe
+Adamant Nature
+- Protect
+- Rock Slide
+- Flare Blitz
+- Tera Blast
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 12 HP / 4 Def / 252 SpA / 4 SpD / 236 Spe
+Timid Nature
+- Tera Blast
+- Snarl
+- Heat Wave
+- Dark Pulse
+
+Raging Bolt @ Rocky Helmet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
+Modest Nature
+- Thunderclap
+- Dragon Pulse
+- Thunderbolt
+- Protect

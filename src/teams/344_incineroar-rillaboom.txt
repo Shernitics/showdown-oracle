@@ -1,0 +1,65 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 132 Def / 124 SpD
+Impish Nature
+- Reflect
+- Light Screen
+- Thunder Wave
+- Sucker Punch
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 188 Def / 68 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- Fake Out
+- Flare Blitz
+- U-turn
+
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 100 HP / 236 Atk / 172 SpD
+Brave Nature
+- Close Combat
+- Sucker Punch
+- Wicked Blow
+- U-turn
+
+Ho-Oh @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 4 Atk / 236 Def / 4 SpD / 12 Spe
+Impish Nature
+- Recover
+- Sacred Fire
+- Brave Bird
+- Protect
+
+Eternatus @ Choice Specs
+Ability: Pressure
+Level: 50
+Tera Type: Bug
+EVs: 12 HP / 252 SpA / 244 Spe
+Modest Nature
+- Fire Spin
+- Sludge Bomb
+- Toxic Spikes
+- Cosmic Power
+
+Rillaboom @ Covert Cloak
+Ability: Grassy Surge
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 108 Atk / 64 Def / 124 SpD
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide

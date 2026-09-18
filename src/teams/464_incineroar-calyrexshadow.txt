@@ -1,0 +1,65 @@
+Weezing-Galar @ Rocky Helmet
+Ability: Neutralizing Gas
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 4 Atk / 4 Def / 236 SpD / 12 Spe
+Careful Nature
+- Taunt
+- Protect
+- Dazzling Gleam
+- Toxic Spikes
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 236 HP / 4 Atk / 156 Def / 108 SpD / 4 Spe
+Impish Nature
+- Flare Blitz
+- Will-O-Wisp
+- U-turn
+- Parting Shot
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 164 HP / 252 Def / 92 Spe
+Impish Nature
+- Wide Guard
+- Body Press
+- Protect
+- Iron Head
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 108 HP / 44 Def / 100 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Shadow Ball
+- Psychic
+- Protect
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Sunny Day
+- Foul Play
+- Haze
+- Tailwind
+
+Raging Bolt @ Leftovers
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 20 HP / 84 Def / 100 SpA / 164 SpD / 140 Spe
+Modest Nature
+- Thunderclap
+- Thunderbolt
+- Protect
+- Electroweb

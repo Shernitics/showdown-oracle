@@ -1,0 +1,65 @@
+Amoonguss @ Eject Button
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 236 Def / 36 SpD
+Relaxed Nature
+- Rage Powder
+- Sludge Bomb
+- Protect
+- Pollen Puff
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Stellar
+EVs: 36 HP / 100 Atk / 4 Def / 116 SpD / 252 Spe
+Jolly Nature
+- Ice Spinner
+- Icy Wind
+- Sucker Punch
+- Protect
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 148 HP / 252 Atk / 108 Spe
+Adamant Nature
+- Tailwind
+- Outrage
+- Protect
+- Rock Slide
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 124 Def / 132 SpD
+Calm Nature
+- Trick Room
+- Helping Hand
+- Psychic
+- Foul Play
+
+Raging Bolt @ Leftovers
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 196 HP / 4 Def / 252 SpA / 36 SpD / 20 Spe
+Modest Nature
+- Volt Switch
+- Protect
+- Snarl
+- Thunderclap
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 204 HP / 4 Atk / 180 Def / 28 SpD / 92 Spe
+Impish Nature
+- Protect
+- Heavy Slam
+- Wide Guard
+- Iron Head

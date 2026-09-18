@@ -1,0 +1,65 @@
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Def / 252 Spe
+Jolly Nature
+- Ruination
+- Fake Out
+- Acid Spray
+- Spore
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 116 Def / 4 SpA / 4 SpD / 132 Spe
+Timid Nature
+- Protect
+- Heat Wave
+- Rage Powder
+- Fiery Dance
+
+Pelipper @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 206 SpA / 52 Spe
+Modest Nature
+- Wide Guard
+- Protect
+- Hurricane
+- Helping Hand
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Leech Seed
+- Protect
+- Trick Room
+- Glacial Lance
+
+Kyogre @ Power Bracer
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 60 Def / 156 SpA / 36 Spe
+Modest Nature
+- Water Spout
+- Tera Blast
+- Ice Beam
+- Protect
+
+Whimsicott @ Ability Shield
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Light Screen
+- Encore
+- Moonblast
+- Tailwind

@@ -1,0 +1,65 @@
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Follow Me
+- Imprison
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 132 HP / 236 SpA / 140 Spe
+Modest Nature
+- Origin Pulse
+- Protect
+- Water Spout
+- Hydro Pump
+
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Flying
+EVs: 212 HP / 244 Def / 4 SpA / 20 SpD / 28 Spe
+Calm Nature
+- Bleakwind Storm
+- Rain Dance
+- Protect
+- Tailwind
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 108 Def / 116 SpD / 28 Spe
+Careful Nature
+- Fake Out
+- Knock Off
+- U-turn
+- Taunt
+
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Poison Jab
+- Detect
+- Close Combat
+- Sucker Punch
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 36 Atk / 76 Def / 124 SpD / 20 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide

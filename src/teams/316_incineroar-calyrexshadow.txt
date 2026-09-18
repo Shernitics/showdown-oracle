@@ -1,0 +1,65 @@
+Weezing-Galar @ Rocky Helmet
+Ability: Neutralizing Gas
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 4 SpA / 220 SpD / 30 Spe
+Bold Nature
+- Protect
+- Will-O-Wisp
+- Dazzling Gleam
+- Taunt
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- U-turn
+- Surging Strikes
+- Close Combat
+- Aqua Jet
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Encore
+- Protect
+- Psychic
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Tailwind
+- Foul Play
+- Taunt
+- Sunny Day
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 84 Def / 172 SpD
+Impish Nature
+- U-turn
+- Parting Shot
+- Roar
+- Knock Off
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Close Combat
+- Collision Course
+- Dragon Claw

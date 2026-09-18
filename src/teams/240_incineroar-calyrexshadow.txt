@@ -1,0 +1,65 @@
+Dondozo @ Sitrus Berry
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+EVs: 156 HP / 156 Atk / 196 SpD
+Adamant Nature
+- Order Up
+- Protect
+- Earthquake
+- Substitute
+
+Chien-Pao @ Focus Sash
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 4 Atk / 4 Def / 228 SpD / 132 Spe
+Jolly Nature
+- Sacred Sword
+- Taunt
+- Sucker Punch
+- Ice Spinner
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Rock Slide
+- Outrage
+- Extreme Speed
+- Aqua Jet
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Water
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Astral Barrage
+- Trick
+- Tera Blast
+- Encore
+
+Eternatus @ Covert Cloak
+Ability: Pressure
+Level: 50
+Tera Type: Fairy
+EVs: 108 HP / 76 Def / 84 SpA / 20 SpD / 220 Spe
+Timid Nature
+- Sludge Bomb
+- Cosmic Power
+- Recover
+- Flamethrower
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 28 Def / 220 SpD / 4 Spe
+Careful Nature
+- U-turn
+- Fake Out
+- Flare Blitz
+- Knock Off

@@ -1,0 +1,65 @@
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Def / 252 SpA
+Quiet Nature
+- Overheat
+- Eruption
+- Weather Ball
+- Earth Power
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 156 Def / 116 SpD
+Relaxed Nature
+- Protect
+- Rage Powder
+- Spore
+- Clear Smog
+
+Smeargle @ Focus Sash
+Ability: Own Tempo
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+- Decorate
+- Spore
+- Wide Guard
+- Fake Out
+
+Calyrex-Ice @ Lum Berry
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 180 HP / 116 Atk / 76 Def / 136 SpD
+Careful Nature
+- Glacial Lance
+- High Horsepower
+- Protect
+- Leech Seed
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Helping Hand
+- Trick Room
+- Imprison
+- Follow Me
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 12 Def / 220 SpD / 20 Spe
+Careful Nature
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Knock Off

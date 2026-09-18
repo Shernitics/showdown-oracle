@@ -1,0 +1,65 @@
+Necrozma-Dawn-Wings @ Power Herb
+Ability: Prism Armor
+Level: 50
+Tera Type: Water
+EVs: 188 HP / 180 SpA / 140 Spe
+Modest Nature
+- Expanding Force
+- Moongeist Beam
+- Meteor Beam
+- Trick Room
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 SpA / 4 SpD
+Quiet Nature
+- Eruption
+- Weather Ball
+- Heat Wave
+- Solar Beam
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Psychic
+- Helping Hand
+- Trick Room
+- Imprison
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Coaching
+- Ice Spinner
+- After You
+- Close Combat
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Facade
+- Headlong Rush
+- Protect
+- Earthquake
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 172 HP / 196 Atk / 4 Def / 4 SpD / 132 Spe
+Adamant Nature
+- Flame Charge
+- Flare Blitz
+- Close Combat
+- Protect

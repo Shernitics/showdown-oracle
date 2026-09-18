@@ -1,0 +1,65 @@
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 244 Def / 20 SpD
+Bold Nature
+- Follow Me
+- Fire Spin
+- Will-O-Wisp
+- Protect
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Stellar
+EVs: 212 HP / 20 Def / 100 SpA / 36 SpD / 140 Spe
+Timid Nature
+- Shadow Ball
+- Protect
+- Taunt
+- Thunder Wave
+
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 172 HP / 4 Atk / 140 Def / 172 SpD / 20 Spe
+Impish Nature
+- Crunch
+- Rage Powder
+- Sucker Punch
+- Seed Bomb
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Scale Shot
+- Collision Course
+- Protect
+
+Tornadus @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+- Rain Dance
+- Snowscape
+- Taunt
+- Sunny Day
+
+Kyogre @ Assault Vest
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Def / 236 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Ice Beam
+- Water Spout
+- Origin Pulse
+- Hydro Pump

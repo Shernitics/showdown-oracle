@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Protect
+- Tera Blast
+- Astral Barrage
+- Disable
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+EVs: 252 HP / 252 Def / 6 SpD
+Bold Nature
+- Imprison
+- Psychic
+- Trick Room
+- Helping Hand
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 188 HP / 36 Def / 180 SpA / 4 SpD / 100 Spe
+Modest Nature
+- Thunderclap
+- Protect
+- Dragon Pulse
+- Weather Ball
+
+Solgaleo @ Safety Goggles
+Ability: Full Metal Body
+Level: 50
+Tera Type: Dragon
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Psychic Fangs
+- Sunsteel Strike
+- Flare Blitz
+
+Tornadus @ Sharp Beak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 116 SpA / 148 Spe
+Serious Nature
+- Tailwind
+- Taunt
+- Bleakwind Storm
+- Protect
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Def / 252 Spe
+Jolly Nature
+- Acid Spray
+- Follow Me
+- Wide Guard
+- Fake Out

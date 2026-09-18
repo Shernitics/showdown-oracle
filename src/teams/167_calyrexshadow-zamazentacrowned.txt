@@ -1,0 +1,65 @@
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Normal
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Wicked Blow
+- Close Combat
+- Poison Jab
+- Protect
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 4 Atk / 108 Def / 60 SpD / 84 Spe
+Impish Nature
+- Iron Head
+- Wide Guard
+- Heavy Slam
+- Body Press
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Flamethrower
+- Heat Wave
+- Snarl
+- Overheat
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 6 SpD
+Bold Nature
+- Trick Room
+- Follow Me
+- Psychic
+- Helping Hand
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Encore
+- Nasty Plot
+- Draining Kiss
+
+Chien-Pao @ Assault Vest
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Stellar
+EVs: 92 HP / 4 Atk / 4 Def / 156 SpD / 252 Spe
+Jolly Nature
+- Sucker Punch
+- Ice Spinner
+- Icy Wind
+- Protect

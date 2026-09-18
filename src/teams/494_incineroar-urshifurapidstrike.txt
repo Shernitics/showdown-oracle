@@ -1,0 +1,65 @@
+Volcarona @ Clear Amulet
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Fiery Dance
+- Overheat
+- Protect
+- Tailwind
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Tailwind
+- Encore
+- Light Screen
+- Dazzling Gleam
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 4 Atk / 188 Def / 68 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- Fake Out
+- U-turn
+- Parting Shot
+
+Terapagos @ Choice Specs
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 164 HP / 76 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Protect
+- Tera Starstorm
+- Earth Power
+- Flamethrower
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 52 HP / 4 Def / 220 SpA / 84 SpD / 148 Spe
+Modest Nature
+- Dazzling Gleam
+- Draco Meteor
+- Electro Drift
+- Volt Switch
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 60 HP / 156 Atk / 4 Def / 124 SpD / 164 Spe
+Adamant Nature
+- Protect
+- Detect
+- Close Combat
+- Surging Strikes

@@ -1,0 +1,65 @@
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 12 Atk / 228 SpD
+Brave Nature
+- Protect
+- Glacial Lance
+- Seed Bomb
+- Trick Room
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Aqua Jet
+- Close Combat
+- U-turn
+- Surging Strikes
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 4 Atk / 156 Def / 84 SpD / 20 Spe
+Careful Nature
+- Fake Out
+- Will-O-Wisp
+- U-turn
+- Parting Shot
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Normal
+EVs: 252 Atk / 252 Def
+Brave Nature
+- Fake Out
+- Follow Me
+- Spore
+- Decorate
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 172 HP / 252 Atk / 4 Def / 12 SpD / 68 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- High Horsepower
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Stellar
+EVs: 116 HP / 124 Def / 12 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dazzling Gleam
+- Shadow Ball
+- Icy Wind
+- Perish Song

@@ -1,0 +1,65 @@
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 20 Def / 252 SpA / 92 SpD / 140 Spe
+Modest Nature
+- Volt Switch
+- Draco Meteor
+- Electro Drift
+- Snarl
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Fighting
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Ice Spinner
+- Detect
+- Surging Strikes
+
+Amoonguss @ Rocky Helmet
+Ability: Effect Spore
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 188 Def / 76 SpD
+Calm Nature
+- Spore
+- Pollen Puff
+- Clear Smog
+- Protect
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 36 Atk / 4 Def / 204 SpD / 12 Spe
+Adamant Nature
+- Imprison
+- Leech Seed
+- Protect
+- High Horsepower
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 156 Def / 100 SpD / 4 Spe
+Impish Nature
+- Parting Shot
+- Roar
+- Taunt
+- Fake Out
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 188 HP / 156 Atk / 164 Def
+Brave Nature
+- Earthquake
+- Substitute
+- Headlong Rush
+- Protect

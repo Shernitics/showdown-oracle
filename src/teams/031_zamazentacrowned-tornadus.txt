@@ -1,0 +1,65 @@
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 188 HP / 100 Def / 100 SpA / 116 SpD / 4 Spe
+Modest Nature
+- Dragon Pulse
+- Draco Meteor
+- Protect
+- Thunderbolt
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 236 HP / 20 Def / 252 Spe
+Jolly Nature
+- Wide Guard
+- Follow Me
+- Decorate
+- Spore
+
+Farigiraf @ Mental Herb
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 92 Def / 4 SpA / 156 SpD / 4 Spe
+Calm Nature
+- Hyper Voice
+- Trick Room
+- Foul Play
+- Protect
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 4 Atk / 180 Def / 28 SpD / 92 Spe
+Impish Nature
+- Wide Guard
+- Protect
+- Iron Defense
+- Heavy Slam
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dragon
+EVs: 236 HP / 108 Def / 116 SpA / 4 SpD / 44 Spe
+Modest Nature
+- Bleakwind Storm
+- Rain Dance
+- Tailwind
+- Taunt
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 236 Def / 36 SpD
+Bold Nature
+- Spore
+- Sludge Bomb
+- Rage Powder
+- Pollen Puff

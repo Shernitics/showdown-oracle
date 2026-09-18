@@ -1,0 +1,65 @@
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 116 Atk / 6 Def / 84 SpD / 52 Spe
+Adamant Nature
+- Glacial Lance
+- Leech Seed
+- Protect
+- Crunch
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Atk / 76 Def / 172 SpD / 4 Spe
+Impish Nature
+- Protect
+- Knock Off
+- Flare Blitz
+- Fake Out
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Surging Strikes
+- Detect
+- U-turn
+
+Kyogre @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 204 HP / 52 Def / 252 SpA
+Quiet Nature
+- Hydro Pump
+- Water Spout
+- Origin Pulse
+- Thunder
+
+Iron Jugulis @ Booster Energy
+Ability: Quark Drive
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Def / 4 SpA / 180 SpD / 68 Spe
+Timid Nature
+- Snarl
+- Tailwind
+- Protect
+- Taunt
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Earth Power
+- Crunch
+- U-turn
+- Protect

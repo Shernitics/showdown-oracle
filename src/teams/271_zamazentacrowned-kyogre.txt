@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Flying
+EVs: 196 HP / 244 Def / 68 Spe
+Impish Nature
+- Protect
+- Wide Guard
+- Iron Defense
+- Body Press
+
+Maushold @ Rocky Helmet
+Ability: Friend Guard
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 156 Def / 28 SpD / 68 Spe
+Impish Nature
+- Follow Me
+- Bite
+- Taunt
+- Helping Hand
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Dark
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Brave Bird
+- Tailwind
+- Taunt
+- Dual Wingbeat
+
+Ogerpon @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Grass
+EVs: 172 HP / 140 Atk / 4 Def / 4 SpD / 188 Spe
+Jolly Nature
+- Taunt
+- Spiky Shield
+- Ivy Cudgel
+- Follow Me
+
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 220 Def / 156 SpA
+Quiet Nature
+- Water Spout
+- Ice Beam
+- Thunder
+- Hydro Pump
+
+Basculegion @ Mystic Water
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Protect
+- Last Respects
+- Wave Crash
+- Flip Turn

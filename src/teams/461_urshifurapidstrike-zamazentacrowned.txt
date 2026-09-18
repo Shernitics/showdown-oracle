@@ -1,0 +1,65 @@
+Chien-Pao @ Assault Vest
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Poison
+EVs: 36 HP / 100 Atk / 4 Def / 116 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Sucker Punch
+- Ice Spinner
+- Swords Dance
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 206 Def / 52 SpD
+Bold Nature
+- Quiver Dance
+- Protect
+- Struggle Bug
+- Giga Drain
+
+Urshifu-Rapid-Strike @ Life Orb
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Rain Dance
+- Surging Strikes
+- Aqua Jet
+
+Terapagos @ Leftovers
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 52 HP / 124 Def / 252 SpA / 4 SpD / 76 Spe
+Modest Nature
+- Calm Mind
+- Protect
+- Earth Power
+- Tera Starstorm
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 188 HP / 156 Def / 164 Spe
+Impish Nature
+- Wide Guard
+- Protect
+- Body Press
+- Snarl
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 236 HP / 252 Atk / 20 SpD
+Adamant Nature
+- Rock Slide
+- Extreme Speed
+- Tailwind
+- Low Kick

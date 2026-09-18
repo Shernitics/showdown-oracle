@@ -1,0 +1,65 @@
+Weezing-Galar @ Covert Cloak
+Ability: Neutralizing Gas
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 60 Def / 156 SpD / 36 Spe
+Calm Nature
+- Taunt
+- Strange Steam
+- Protect
+- Toxic Spikes
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Stellar
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Psychic
+- Nasty Plot
+- Shadow Ball
+
+Maushold @ Rocky Helmet
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+EVs: 76 HP / 252 Atk / 180 Spe
+Adamant Nature
+- Feint
+- Super Fang
+- Follow Me
+- Protect
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 4 Atk / 156 Def / 100 SpD / 12 Spe
+Impish Nature
+- Heavy Slam
+- Wide Guard
+- Protect
+- Body Press
+
+Roaring Moon @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 76 HP / 140 Atk / 36 SpD / 252 Spe
+Jolly Nature
+- Taunt
+- Tailwind
+- Protect
+- Knock Off
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 20 HP / 252 Atk / 28 Def / 52 SpD / 156 Spe
+Hardy Nature
+- Surging Strikes
+- U-turn
+- Close Combat
+- Aqua Jet

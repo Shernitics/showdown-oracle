@@ -1,0 +1,65 @@
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Dark
+EVs: 228 HP / 76 Def / 204 SpD
+Bold Nature
+- Foul Play
+- Trick Room
+- Psychic
+- Psychic Noise
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Protect
+- Glacial Lance
+- Leech Seed
+- Seed Bomb
+
+Rhydon @ Eviolite
+Ability: Lightning Rod
+Level: 50
+Tera Type: Fairy
+EVs: 228 HP / 156 Atk / 124 SpD
+Adamant Nature
+- Protect
+- High Horsepower
+- Helping Hand
+- Rock Slide
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 196 HP / 20 Def / 156 SpA / 52 SpD / 84 Spe
+Modest Nature
+- Dazzling Gleam
+- Draco Meteor
+- Electro Drift
+- Protect
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Water
+EVs: 92 HP / 188 Atk / 36 Def / 124 SpD / 68 Spe
+Adamant Nature
+- Drain Punch
+- Low Kick
+- Brick Break
+- Fake Out
+
+Chi-Yu @ Life Orb
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Fire
+EVs: 60 HP / 252 SpA / 196 Spe
+Modest Nature
+- Dark Pulse
+- Overheat
+- Heat Wave
+- Snarl

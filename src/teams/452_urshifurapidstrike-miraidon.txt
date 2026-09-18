@@ -1,0 +1,65 @@
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 166 Def / 92 SpD
+Bold Nature
+- Helping Hand
+- Psychic
+- Trick Room
+- Ally Switch
+
+Urshifu-Rapid-Strike @ Covert Cloak
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 44 HP / 156 Atk / 4 Def / 92 SpD / 212 Spe
+Jolly Nature
+- Close Combat
+- Aqua Jet
+- Surging Strikes
+- Detect
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 36 HP / 100 Atk / 4 Def / 116 SpD / 252 Spe
+Jolly Nature
+- Taunt
+- Ice Shard
+- Crunch
+- Icy Wind
+
+Dragonite @ Loaded Dice
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 188 HP / 220 Atk / 100 Spe
+Adamant Nature
+- Extreme Speed
+- Tailwind
+- Low Kick
+- Scale Shot
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Electro Drift
+- Volt Switch
+- Dazzling Gleam
+- Draco Meteor
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Dragon
+EVs: 236 HP / 188 Def / 84 SpD
+Sassy Nature
+- Rage Powder
+- Protect
+- Spore
+- Clear Smog

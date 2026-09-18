@@ -1,0 +1,65 @@
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Poison
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Icicle Crash
+- Icy Wind
+- Sucker Punch
+- Ice Spinner
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 108 HP / 52 Atk / 148 Def / 4 SpD / 196 Spe
+Jolly Nature
+- Ivy Cudgel
+- Power Whip
+- Follow Me
+- Knock Off
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+- Wide Guard
+- Protect
+- Iron Head
+- Body Press
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Ground
+EVs: 236 HP / 252 Atk / 20 SpD
+Adamant Nature
+- Dragon Tail
+- Scale Shot
+- Aqua Jet
+- Tailwind
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 196 HP / 52 Def / 252 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Thunderclap
+- Electroweb
+- Thunderbolt
+- Dragon Pulse
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 196 HP / 116 Atk / 12 Def / 172 SpD / 12 Spe
+Adamant Nature
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out

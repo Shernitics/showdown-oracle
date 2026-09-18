@@ -1,0 +1,65 @@
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 76 HP / 236 Atk / 68 Def / 128 SpD
+Sassy Nature
+- Trick Room
+- Glacial Lance
+- Crunch
+- Protect
+
+Kyogre @ Leftovers
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 116 HP / 12 Def / 252 SpA / 4 SpD / 124 Spe
+Modest Nature
+- Tera Blast
+- Ice Beam
+- Water Spout
+- Protect
+
+Tornadus @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Dragon
+EVs: 148 HP / 252 SpA / 108 Spe
+Modest Nature
+- Protect
+- Taunt
+- Bleakwind Storm
+- Tailwind
+
+Pelipper @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 206 SpA / 52 Spe
+Modest Nature
+- Tailwind
+- Weather Ball
+- Hurricane
+- Protect
+
+Smeargle @ Eject Pack
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Follow Me
+- Spore
+- Fake Out
+- Wide Guard
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 164 Def / 36 SpA / 52 SpD / 4 Spe
+Modest Nature
+- Flamethrower
+- Overheat
+- Protect
+- Rage Powder

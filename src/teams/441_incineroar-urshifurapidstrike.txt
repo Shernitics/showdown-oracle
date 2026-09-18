@@ -1,0 +1,65 @@
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Poison
+EVs: 220 HP / 4 Def / 116 SpA / 116 SpD / 52 Spe
+Modest Nature
+- Sandsear Storm
+- Crunch
+- Sludge Bomb
+- Earth Power
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 108 HP / 196 SpA / 204 Spe
+Modest Nature
+- Volt Switch
+- Electro Drift
+- Draco Meteor
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Taunt
+- Moonblast
+- Encore
+- Tailwind
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 236 HP / 4 Atk / 84 Def / 156 SpD / 28 Spe
+Careful Nature
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Will-O-Wisp
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 124 HP / 196 Atk / 4 Def / 84 SpD / 100 Spe
+Adamant Nature
+- Close Combat
+- Detect
+- Aqua Jet
+- U-turn
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 228 HP / 236 Def / 44 SpD
+Bold Nature
+- Trick Room
+- Psychic
+- Helping Hand
+- Psychic Fangs

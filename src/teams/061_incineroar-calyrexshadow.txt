@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Expanding Force
+- Psychic
+- Nasty Plot
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 116 Def / 44 SpA / 92 SpD / 12 Spe
+Modest Nature
+- Sunny Day
+- Tailwind
+- Bleakwind Storm
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 44 Atk / 156 Def / 4 SpA / 52 SpD
+Brave Nature
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Roar
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Grass
+EVs: 100 HP / 4 Atk / 252 Def / 44 SpD / 108 Spe
+Impish Nature
+- Wide Guard
+- Body Press
+- Iron Head
+- Protect
+
+Chien-Pao @ Assault Vest
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Poison
+EVs: 36 HP / 100 Atk / 4 Def / 116 SpD / 252 Spe
+Jolly Nature
+- Icy Wind
+- Ice Shard
+- Sacred Sword
+- Protect
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Protect
+- Volt Switch
+- Thunderbolt
+- Draco Meteor

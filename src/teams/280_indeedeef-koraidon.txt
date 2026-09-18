@@ -1,0 +1,65 @@
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+EVs: 252 HP / 252 Def
+Bold Nature
+- Trick Room
+- Protect
+- Psyshock
+- Alluring Voice
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 172 HP / 196 Atk / 4 Def / 12 SpD / 124 Spe
+Adamant Nature
+- Flare Blitz
+- U-turn
+- Close Combat
+- Flame Charge
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 188 HP / 196 Atk / 20 Def / 36 SpD / 68 Spe
+Adamant Nature
+- Headlong Rush
+- Protect
+- Facade
+- Earthquake
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Heat Wave
+- Flamethrower
+- Snarl
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 252 SpA / 12 Spe
+Modest Nature
+- Meteor Beam
+- Moonblast
+- Trick Room
+- Wide Guard
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Power Gem
+- Icy Wind
+- Moonblast

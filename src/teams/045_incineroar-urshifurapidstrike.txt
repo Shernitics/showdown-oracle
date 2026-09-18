@@ -1,0 +1,65 @@
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 140 HP / 252 Atk / 44 Def / 4 SpA / 68 SpD
+Brave Nature
+- Earthquake
+- Headlong Rush
+- Protect
+- Substitute
+
+Illumise @ Eject Button
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 252 Def / 4 SpA / 252 SpD
+Calm Nature
+- Trick
+- Encore
+- Bug Buzz
+- Endeavor
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 244 Def / 20 SpD
+Bold Nature
+- Sludge Bomb
+- Pollen Puff
+- Spore
+- Protect
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 108 HP / 156 Atk / 4 Def / 76 SpD / 164 Spe
+Adamant Nature
+- Aqua Jet
+- Detect
+- Close Combat
+- Ice Spinner
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 36 Atk / 124 Def / 76 SpD / 28 Spe
+Adamant Nature
+- Knock Off
+- Taunt
+- Parting Shot
+- Flare Blitz
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 132 HP / 236 SpA / 140 Spe
+Modest Nature
+- Water Spout
+- Ice Beam
+- Protect
+- Origin Pulse

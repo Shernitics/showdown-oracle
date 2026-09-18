@@ -1,0 +1,65 @@
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 244 HP / 252 SpA / 12 SpD
+Modest Nature
+- Dragon Pulse
+- Thunderclap
+- Protect
+- Thunderbolt
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Stellar
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Shadow Ball
+- Moonblast
+- Icy Wind
+- Taunt
+
+Chien-Pao @ Choice Band
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 148 Atk / 4 Def / 28 SpD / 76 Spe
+Jolly Nature
+- Ruination
+- Icicle Crash
+- Throat Chop
+- Sucker Punch
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Normal
+EVs: 76 HP / 60 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Encore
+- Tera Blast
+- Psychic
+- Astral Barrage
+
+Entei @ Safety Goggles
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 100 HP / 252 Atk / 156 Spe
+Adamant Nature
+- Snarl
+- Stomping Tantrum
+- Heat Wave
+- Flare Blitz
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 172 HP / 196 Atk / 4 Def / 12 SpD / 124 Spe
+Adamant Nature
+- U-turn
+- Protect
+- Close Combat
+- Flame Charge

@@ -1,0 +1,65 @@
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 28 Def / 236 SpD
+Careful Nature
+- Knock Off
+- Will-O-Wisp
+- U-turn
+- Fake Out
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 20 HP / 236 Atk / 252 Spe
+Adamant Nature
+- Detect
+- Taunt
+- Coaching
+- Close Combat
+
+Tornadus @ Rocky Helmet
+Ability: Prankster
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Icy Wind
+- Bleakwind Storm
+- Rain Dance
+- Tailwind
+
+Terapagos @ Electric Seed
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 124 HP / 76 Def / 252 SpA / 52 Spe
+Modest Nature
+- Earth Power
+- Calm Mind
+- Tera Starstorm
+- Protect
+
+Flutter Mane @ Choice Specs
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 228 HP / 132 Def / 4 SpA / 4 SpD / 140 Spe
+Timid Nature
+- Protect
+- Icy Wind
+- Shadow Ball
+- Taunt
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Follow Me
+- Spiky Shield
+- Ivy Cudgel
+- Encore

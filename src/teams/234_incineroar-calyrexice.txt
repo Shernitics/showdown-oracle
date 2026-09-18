@@ -1,0 +1,65 @@
+Raging Bolt @ Life Orb
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
+Modest Nature
+- Thunderclap
+- Protect
+- Electroweb
+- Calm Mind
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Trick Room
+- Glacial Lance
+- Protect
+- High Horsepower
+
+Landorus @ Choice Scarf
+Ability: Sheer Force
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Def / 116 SpA / 132 SpD / 4 Spe
+Modest Nature
+- Earth Power
+- Sludge Bomb
+- Taunt
+- Protect
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 196 Atk / 4 Def / 68 SpD / 52 Spe
+Adamant Nature
+- Protect
+- Low Kick
+- Flare Blitz
+- Collision Course
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 188 Def / 72 SpD / 4 Spe
+Impish Nature
+- Flare Blitz
+- Parting Shot
+- Knock Off
+- Fake Out
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Shadow Ball
+- Icy Wind
+- Taunt

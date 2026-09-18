@@ -1,0 +1,65 @@
+Farigiraf @ Mental Herb
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 20 Def / 4 SpA / 232 SpD
+Sassy Nature
+- Trick Room
+- Foul Play
+- Helping Hand
+- Roar
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 164 HP / 68 Def / 116 SpA / 4 SpD / 156 Spe
+Modest Nature
+- Volt Switch
+- Tera Blast
+- Protect
+- Draco Meteor
+
+Iron Treads @ Life Orb
+Ability: Quark Drive
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Steel Roller
+- Protect
+- High Horsepower
+- Knock Off
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 252 Atk / 12 Spe
+Adamant Nature
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Will-O-Wisp
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Coaching
+- Encore
+- Taunt
+- Moonblast
+
+Weezing-Galar @ Sitrus Berry
+Ability: Neutralizing Gas
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 4 SpA / 236 SpD / 12 Spe
+Calm Nature
+- Protect
+- Taunt
+- Toxic Spikes
+- Dazzling Gleam

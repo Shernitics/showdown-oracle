@@ -1,0 +1,65 @@
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Ice
+EVs: 252 HP / 36 Atk / 4 Def / 204 SpD / 12 Spe
+Adamant Nature
+- Glacial Lance
+- Protect
+- Imprison
+- Leech Seed
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 200 HP / 52 Def / 172 SpA / 40 SpD / 44 Spe
+Modest Nature
+- Water Spout
+- Origin Pulse
+- Protect
+- Thunder
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Taunt
+- Thunderbolt
+- Shadow Ball
+- Protect
+
+Smeargle @ Eject Pack
+Ability: Moody
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 252 Def / 252 Spe
+Jolly Nature
+- Spore
+- Decorate
+- Fake Out
+- Follow Me
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Def
+Sassy Nature
+- Trick Room
+- Psychic
+- Alluring Voice
+- Helping Hand
+
+Urshifu @ Iron Ball
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+- Wicked Blow
+- Sucker Punch
+- Iron Head
+- Close Combat

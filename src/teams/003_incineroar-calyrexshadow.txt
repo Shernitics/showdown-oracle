@@ -1,0 +1,65 @@
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Protect
+- Close Combat
+- Collision Course
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Trick Room
+- Follow Me
+- Helping Hand
+- Psychic
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 116 HP / 140 Def / 252 Spe
+Naive Nature
+- Feint
+- Spore
+- Wide Guard
+- Follow Me
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Normal
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Psychic
+- Astral Barrage
+- Nasty Plot
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 4 Atk / 76 Def / 172 SpD / 4 Spe
+Impish Nature
+- Fake Out
+- U-turn
+- Grassy Glide
+- Wood Hammer
+
+Incineroar @ Covert Cloak
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 36 Atk / 124 Def / 78 SpD / 28 Spe
+Adamant Nature
+- Parting Shot
+- Knock Off
+- Fake Out
+- Flare Blitz

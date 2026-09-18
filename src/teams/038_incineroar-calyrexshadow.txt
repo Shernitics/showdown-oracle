@@ -1,0 +1,65 @@
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Nasty Plot
+- Encore
+- Psychic
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Flame Charge
+- Low Kick
+- Outrage
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 100 HP / 60 Def / 124 SpA / 4 SpD / 220 Spe
+Timid Nature
+- Protect
+- Shadow Ball
+- Taunt
+- Icy Wind
+
+Gothitelle @ Mental Herb
+Ability: Shadow Tag
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 100 Def / 156 SpD
+Calm Nature
+- Protect
+- Fake Out
+- Psychic
+- Heal Pulse
+
+Brute Bonnet @ Sitrus Berry
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 164 Def / 84 SpD / 4 Spe
+Impish Nature
+- Spore
+- Sucker Punch
+- Taunt
+- Rage Powder
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 132 Atk / 188 Def / 180 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- Taunt
+- Protect
+- U-turn

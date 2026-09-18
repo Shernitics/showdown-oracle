@@ -1,0 +1,65 @@
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 84 HP / 92 Def / 252 SpA / 12 SpD / 68 Spe
+Modest Nature
+- Trick Room
+- Moongeist Beam
+- Meteor Beam
+- Wide Guard
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Heat Wave
+- Dark Pulse
+- Snarl
+- Overheat
+
+Dragonite @ Life Orb
+Ability: Multiscale
+Level: 50
+Tera Type: Normal
+EVs: 148 HP / 252 Atk / 108 Spe
+Adamant Nature
+- Extreme Speed
+- Aqua Jet
+- Low Kick
+- Outrage
+
+Chien-Pao @ Assault Vest
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Icy Wind
+- Protect
+- Sucker Punch
+- Throat Chop
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 196 HP / 4 Atk / 204 Def / 12 SpD / 92 Spe
+Impish Nature
+- Body Press
+- Iron Head
+- Heavy Slam
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Fake Tears
+- Encore
+- Light Screen

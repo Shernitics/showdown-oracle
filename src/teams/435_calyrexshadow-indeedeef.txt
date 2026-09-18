@@ -1,0 +1,65 @@
+Lilligant-Hisui @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- After You
+- Close Combat
+- Helping Hand
+- Solar Blade
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 164 HP / 92 SpD / 252 Spe
+Timid Nature
+- Tailwind
+- Taunt
+- Fake Tears
+- Light Screen
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ground
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Dark Pulse
+- Overheat
+- Snarl
+- Heat Wave
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Collision Course
+- Flare Blitz
+- Flame Charge
+
+Calyrex-Shadow @ Choice Specs
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Expanding Force
+- Encore
+- Protect
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 204 Def / 52 SpD
+Calm Nature
+- Follow Me
+- Psychic
+- Helping Hand
+- Trick Room

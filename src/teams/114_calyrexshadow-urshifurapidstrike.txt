@@ -1,0 +1,65 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Atk / 124 Def / 116 SpD / 12 Spe
+Careful Nature
+- Light Screen
+- Misty Terrain
+- Reflect
+- Spirit Break
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Taunt
+- Ivy Cudgel
+- Follow Me
+- Spiky Shield
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Fighting
+EVs: 196 HP / 244 Def / 68 Spe
+Impish Nature
+- Body Press
+- Protect
+- Iron Head
+- Wide Guard
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Encore
+- Protect
+- Will-O-Wisp
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 188 Def / 4 SpA / 60 SpD / 4 Spe
+Bold Nature
+- Protect
+- Sunny Day
+- Taunt
+- Bleakwind Storm
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Surging Strikes
+- Aqua Jet
+- Close Combat
+- Detect

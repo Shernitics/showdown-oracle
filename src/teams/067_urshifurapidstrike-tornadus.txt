@@ -1,0 +1,65 @@
+Tornadus @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 212 HP / 244 Def / 4 SpA / 20 SpD / 28 Spe
+Calm Nature
+- Tera Blast
+- Rain Dance
+- Tailwind
+- Sunny Day
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 132 Def / 140 SpD
+Bold Nature
+- Spore
+- Pollen Puff
+- Clear Smog
+- Rage Powder
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Spiky Shield
+- Follow Me
+- Grassy Glide
+
+Urshifu-Rapid-Strike @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 84 HP / 212 Atk / 4 Def / 4 SpD / 204 Spe
+Adamant Nature
+- Aqua Jet
+- Close Combat
+- Surging Strikes
+- Detect
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 116 HP / 4 Def / 252 SpA / 4 SpD / 132 Spe
+Modest Nature
+- Thunderclap
+- Protect
+- Thunderbolt
+- Draco Meteor
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Normal
+EVs: 76 HP / 252 Atk / 4 Def / 4 SpD / 172 Spe
+Jolly Nature
+- Iron Head
+- Tera Blast
+- Protect
+- Play Rough

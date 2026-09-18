@@ -1,0 +1,65 @@
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 4 Atk / 156 Def / 100 SpD / 4 Spe
+Careful Nature
+- Scary Face
+- Spirit Break
+- Taunt
+- Thunder Wave
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Water
+EVs: 116 Def / 244 SpA / 148 SpD
+Modest Nature
+- Earth Power
+- Protect
+- Sludge Bomb
+- Grass Knot
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 132 Def / 124 SpD
+Relaxed Nature
+- U-turn
+- Fake Out
+- Knock Off
+- Will-O-Wisp
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- U-turn
+- Aqua Jet
+- Surging Strikes
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 140 HP / 68 Atk / 228 Def / 4 SpD / 68 Spe
+Impish Nature
+- Wide Guard
+- Body Press
+- Iron Head
+- Heavy Slam
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 164 Def / 92 SpD
+Calm Nature
+- Foul Play
+- Trick Room
+- Psychic
+- Psychic Noise

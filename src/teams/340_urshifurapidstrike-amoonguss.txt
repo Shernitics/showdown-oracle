@@ -1,0 +1,65 @@
+Dragonite @ Choice Band
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+EVs: 68 HP / 252 Atk / 4 Def / 108 SpD / 76 Spe
+Adamant Nature
+- Tailwind
+- Low Kick
+- Stomping Tantrum
+- Outrage
+
+Chien-Pao @ Covert Cloak
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Protect
+- Crunch
+- Ice Shard
+- Ice Spinner
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Stellar
+EVs: 188 HP / 252 Atk / 4 Def / 60 SpD / 4 Spe
+Adamant Nature
+- Surging Strikes
+- Close Combat
+- Detect
+- U-turn
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 92 Atk / 4 Def / 4 SpD / 156 Spe
+Jolly Nature
+- Play Rough
+- Protect
+- Iron Head
+- Sacred Sword
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fire
+EVs: 100 HP / 164 Def / 140 SpA / 100 SpD / 4 Spe
+Bold Nature
+- Trick Room
+- Moongeist Beam
+- Wide Guard
+- Moonblast

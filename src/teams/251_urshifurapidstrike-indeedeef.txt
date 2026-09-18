@@ -1,0 +1,65 @@
+Smeargle @ Focus Sash
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+EVs: 116 HP / 140 Def / 252 Spe
+Naive Nature
+- Spore
+- Fake Out
+- Follow Me
+- Decorate
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Helping Hand
+- Psychic
+- Follow Me
+- Trick Room
+
+Tornadus @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Protect
+- Tailwind
+- Sunny Day
+- Rain Dance
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Facade
+- Protect
+- Headlong Rush
+- Earthquake
+
+Kyogre @ Iron Ball
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 76 Def / 164 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Thunder
+- Ice Beam
+- Origin Pulse
+- Water Spout
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Ghost
+EVs: 76 HP / 220 Atk / 4 Def / 20 SpD / 188 Spe
+Adamant Nature
+- Taunt
+- Surging Strikes
+- Close Combat
+- U-turn

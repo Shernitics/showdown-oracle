@@ -1,0 +1,65 @@
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 164 Def / 76 SpD / 12 Spe
+Careful Nature
+- Knock Off
+- Fake Out
+- Helping Hand
+- Will-O-Wisp
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Astral Barrage
+- Trick Room
+- Protect
+- Encore
+
+Kingambit @ Electric Seed
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brick Break
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 252 Spe
+Timid Nature
+- Encore
+- Light Screen
+- Tailwind
+- Moonblast
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Electro Drift
+- Dazzling Gleam
+- Draco Meteor
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Low Kick
+- Wild Charge
+- Fake Out
+- Drain Punch

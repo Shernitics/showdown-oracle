@@ -1,0 +1,65 @@
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 216 HP / 8 Def / 60 SpA / 224 SpD
+Calm Nature
+- Sunny Day
+- Protect
+- Bleakwind Storm
+- Tailwind
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Spiky Shield
+- Ivy Cudgel
+- Power Whip
+- Wood Hammer
+
+Urshifu-Rapid-Strike @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 180 Atk / 76 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Taunt
+- Detect
+- Aqua Jet
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 164 HP / 84 Def / 116 SpA / 4 SpD / 140 Spe
+Timid Nature
+- Psychic
+- Encore
+- Tera Blast
+- Protect
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 108 HP / 4 Atk / 156 Def / 84 SpD / 156 Spe
+Impish Nature
+- Protect
+- Body Press
+- Wide Guard
+- Heavy Slam
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 20 HP / 84 Def / 100 SpA / 164 SpD / 140 Spe
+Modest Nature
+- Thunderbolt
+- Thunderclap
+- Draco Meteor
+- Dragon Pulse

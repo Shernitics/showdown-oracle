@@ -1,0 +1,65 @@
+Tornadus @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+EVs: 212 HP / 244 Def / 4 SpA / 20 SpD / 28 Spe
+Calm Nature
+- Dark Pulse
+- Bleakwind Storm
+- Sunny Day
+- Tailwind
+
+Kyogre @ Choice Specs
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 156 Def / 76 SpA / 12 SpD / 12 Spe
+Modest Nature
+- Water Spout
+- Ice Beam
+- Thunder
+- Protect
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+Level: 50
+Tera Type: Ground
+EVs: 60 HP / 156 Atk / 116 Def / 12 SpD / 164 Spe
+Jolly Nature
+- Protect
+- Iron Head
+- Tera Blast
+- Trailblaze
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Surging Strikes
+- Aqua Jet
+- Detect
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Poison
+EVs: 244 HP / 4 Def / 116 SpA / 124 SpD / 20 Spe
+Modest Nature
+- Sludge Bomb
+- Protect
+- Earth Power
+- Taunt
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 36 Atk / 76 Def / 124 SpD / 20 Spe
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out

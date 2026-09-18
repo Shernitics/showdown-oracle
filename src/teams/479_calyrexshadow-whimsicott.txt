@@ -1,0 +1,65 @@
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 128 Def / 128 SpD
+Calm Nature
+- Fake Tears
+- Tailwind
+- Moonblast
+- Encore
+
+Calyrex-Shadow @ Power Anklet
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 188 HP / 172 SpA / 148 Spe
+Timid Nature
+- Tera Blast
+- Nasty Plot
+- Encore
+- Astral Barrage
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 84 HP / 144 Def / 252 SpA / 28 SpD
+Modest Nature
+- Overheat
+- Dark Pulse
+- Snarl
+- Heat Wave
+
+Lilligant-Hisui @ Choice Band
+Ability: Chlorophyll
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+- Entrainment
+- Coaching
+- Solar Blade
+- Ice Spinner
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Grass
+EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
+Modest Nature
+- Thunderclap
+- Dragon Pulse
+- Protect
+- Draco Meteor
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Low Kick
+- Collision Course
+- Flare Blitz

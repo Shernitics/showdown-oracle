@@ -1,0 +1,65 @@
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Grass
+EVs: 236 HP / 164 SpD / 108 Spe
+Timid Nature
+- Moonblast
+- Endeavor
+- Encore
+- Fake Tears
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 172 HP / 84 Atk / 252 SpD
+Adamant Nature
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide
+
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 92 HP / 252 Atk / 164 SpD
+Brave Nature
+- U-turn
+- Sucker Punch
+- Wicked Blow
+- Poison Jab
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Facade
+- Protect
+- Headlong Rush
+- Earthquake
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 236 HP / 4 Atk / 188 Def / 44 SpD / 36 Spe
+Impish Nature
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Knock Off
+
+Lunala @ Safety Goggles
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 148 HP / 20 Def / 252 SpA / 20 SpD / 68 Spe
+Modest Nature
+- Moongeist Beam
+- Trick Room
+- Expanding Force
+- Wide Guard

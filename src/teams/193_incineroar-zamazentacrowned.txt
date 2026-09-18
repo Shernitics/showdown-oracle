@@ -1,0 +1,65 @@
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Taunt
+- Shadow Ball
+- Protect
+- Icy Wind
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Grass
+EVs: 204 HP / 4 Atk / 172 Def / 60 SpD / 68 Spe
+Impish Nature
+- Protect
+- Wide Guard
+- Iron Head
+- Body Press
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- U-turn
+- Fake Out
+- Parting Shot
+- Knock Off
+
+Lunala @ Leftovers
+Ability: Shadow Shield
+Level: 50
+Tera Type: Water
+EVs: 220 HP / 12 Def / 236 SpA / 12 SpD / 28 Spe
+Modest Nature
+- Meteor Beam
+- Trick Room
+- Moongeist Beam
+- Wide Guard
+
+Chien-Pao @ Covert Cloak
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Water
+EVs: 220 HP / 36 SpD / 252 Spe
+Jolly Nature
+- Ice Spinner
+- Sucker Punch
+- Icy Wind
+- Ruination
+
+Raging Bolt @ Magnet
+Ability: Protosynthesis
+Level: 50
+Tera Type: Fairy
+EVs: 196 HP / 12 Def / 252 SpA / 12 SpD / 36 Spe
+Modest Nature
+- Thunderbolt
+- Dragon Pulse
+- Draco Meteor
+- Protect

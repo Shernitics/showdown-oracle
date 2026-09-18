@@ -1,0 +1,65 @@
+Ho-Oh @ Safety Goggles
+Ability: Regenerator
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 76 Atk / 28 Def / 4 SpD / 148 Spe
+Adamant Nature
+- Brave Bird
+- Sacred Fire
+- Protect
+- Tailwind
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Spiky Shield
+- Follow Me
+- Wide Guard
+- Decorate
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 4 Def / 244 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sludge Bomb
+- Earth Power
+- Protect
+- Crunch
+
+Koraidon @ Clear Amulet
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 196 Atk / 4 Def / 68 SpD / 52 Spe
+Adamant Nature
+- Flame Charge
+- Flare Blitz
+- Collision Course
+- Dragon Claw
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Fire
+EVs: 236 HP / 196 Def / 76 SpD
+Impish Nature
+- Will-O-Wisp
+- Fake Out
+- Flare Blitz
+- U-turn
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 204 HP / 84 Atk / 140 SpD / 76 Spe
+Careful Nature
+- Knock Off
+- Grassy Glide
+- Fake Out
+- U-turn

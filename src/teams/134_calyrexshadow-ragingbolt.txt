@@ -1,0 +1,65 @@
+Groudon @ Clear Amulet
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 236 HP / 252 Atk / 4 Def / 4 SpD / 12 Spe
+Adamant Nature
+- Heat Crash
+- Precipice Blades
+- Swords Dance
+- Fire Punch
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 180 HP / 68 Def / 100 SpA / 4 SpD / 156 Spe
+Modest Nature
+- Thunderclap
+- Protect
+- Draco Meteor
+- Thunderbolt
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Pollen Puff
+- Nasty Plot
+- Psychic
+- Shadow Ball
+
+Flutter Mane @ Focus Sash
+Ability: Protosynthesis
+Level: 50
+Tera Type: Dark
+EVs: 124 HP / 140 Def / 140 SpA / 12 SpD / 92 Spe
+Timid Nature
+- Shadow Ball
+- Protect
+- Imprison
+- Icy Wind
+
+Ogerpon-Wellspring @ Wellspring Mask
+Ability: Water Absorb
+Level: 50
+Tera Type: Water
+EVs: 228 HP / 156 Atk / 36 Def / 60 SpD / 28 Spe
+Adamant Nature
+- Ivy Cudgel
+- Horn Leech
+- Follow Me
+- Taunt
+
+Ninetales-Alola @ Blunder Policy
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Encore
+- Helping Hand
+- Aurora Veil
+- Moonblast

@@ -1,0 +1,65 @@
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Detect
+- Close Combat
+- Aqua Jet
+- U-turn
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- U-turn
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Protect
+- Astral Barrage
+- Shadow Ball
+
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Bleakwind Storm
+- Taunt
+- Protect
+- Rain Dance
+
+Chien-Pao @ Life Orb
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Stellar
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Ruination
+- Ice Shard
+- Crunch
+- Sucker Punch
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 132 HP / 180 Def / 196 SpA
+Quiet Nature
+- Draco Meteor
+- Electro Drift
+- Volt Switch
+- Dazzling Gleam

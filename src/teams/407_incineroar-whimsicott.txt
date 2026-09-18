@@ -1,0 +1,65 @@
+Reshiram @ Life Orb
+Ability: Turboblaze
+Level: 50
+Tera Type: Fire
+EVs: 124 HP / 12 Def / 252 SpA / 12 SpD / 108 Spe
+Modest Nature
+- Draco Meteor
+- Earth Power
+- Fusion Flare
+- Heat Wave
+
+Ogerpon-Wellspring @ Wellspring Mask
+Ability: Water Absorb
+Level: 50
+Tera Type: Water
+EVs: 60 HP / 252 Atk / 4 Def / 12 SpD / 180 Spe
+Jolly Nature
+- Follow Me
+- U-turn
+- Horn Leech
+- Spiky Shield
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 252 HP / 4 Atk / 164 Def / 76 SpD / 12 Spe
+Careful Nature
+- Knock Off
+- Parting Shot
+- Fake Out
+- Will-O-Wisp
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 60 SpA / 196 SpD
+Calm Nature
+- Taunt
+- Dazzling Gleam
+- Encore
+- Moonblast
+
+Groudon @ Clear Amulet
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 132 Atk / 92 Def / 28 SpD / 68 Spe
+Adamant Nature
+- Protect
+- High Horsepower
+- Precipice Blades
+- Heat Crash
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 196 HP / 4 Def / 252 SpA / 36 SpD / 20 Spe
+Modest Nature
+- Protect
+- Thunderbolt
+- Thunderclap
+- Draco Meteor

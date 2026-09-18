@@ -1,0 +1,65 @@
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 44 Atk / 244 SpD / 4 Spe
+Adamant Nature
+- Flare Blitz
+- Fake Out
+- U-turn
+- Knock Off
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+- Trick Room
+- Dazzling Gleam
+- Wide Guard
+- Moongeist Beam
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+Level: 50
+Tera Type: Fire
+EVs: 132 HP / 252 Atk / 4 Def / 4 SpD / 116 Spe
+Adamant Nature
+- Protect
+- Iron Head
+- Flame Charge
+- Flare Blitz
+
+Brute Bonnet @ Covert Cloak
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Def / 252 SpD
+Bold Nature
+- Spore
+- Sucker Punch
+- Seed Bomb
+- Rage Powder
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Snarl
+- Overheat
+- Heat Wave
+- Dark Pulse
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 116 HP / 252 Def / 140 Spe
+Timid Nature
+- Moonblast
+- Shadow Ball
+- Protect
+- Icy Wind

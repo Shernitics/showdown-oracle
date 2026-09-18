@@ -1,0 +1,65 @@
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 164 SpD / 92 Spe
+Timid Nature
+- Taunt
+- Moonblast
+- Encore
+- Endeavor
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 228 HP / 188 Def / 92 SpD
+Relaxed Nature
+- Taunt
+- Fake Out
+- Flare Blitz
+- Will-O-Wisp
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 252 SpA / 12 Spe
+Modest Nature
+- Expanding Force
+- Meteor Beam
+- Moongeist Beam
+- Dazzling Gleam
+
+Urshifu @ Choice Band
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Close Combat
+- Wicked Blow
+- Sucker Punch
+- U-turn
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Helping Hand
+- Alluring Voice
+- Protect
+- Trick Room
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Earthquake
+- Protect
+- Facade
+- Headlong Rush

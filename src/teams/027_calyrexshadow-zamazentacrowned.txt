@@ -1,0 +1,65 @@
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 124 Def / 132 SpD
+Sassy Nature
+- Rage Powder
+- Spore
+- Pollen Puff
+- Protect
+
+Raging Bolt @ Assault Vest
+Ability: Protosynthesis
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 68 Def / 180 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Thunderbolt
+- Thunderclap
+- Protect
+- Draco Meteor
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Body Press
+- Imprison
+- Heavy Slam
+- Iron Head
+
+Calyrex-Shadow @ Focus Sash
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fighting
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Taunt
+- Astral Barrage
+- Nasty Plot
+- Psychic
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+EVs: 236 HP / 252 Atk / 20 SpD
+Adamant Nature
+- Aqua Jet
+- Extreme Speed
+- Low Kick
+- Rock Slide
+
+Chien-Pao @ Covert Cloak
+Ability: Sword of Ruin
+Level: 50
+Tera Type: Dark
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Sucker Punch
+- Ice Shard
+- Icicle Crash
+- Ruination

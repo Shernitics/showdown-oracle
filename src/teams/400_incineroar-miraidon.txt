@@ -1,0 +1,65 @@
+Entei @ Life Orb
+Ability: Inner Focus
+Level: 50
+Tera Type: Grass
+EVs: 68 HP / 116 Atk / 20 Def / 148 SpD / 156 Spe
+Adamant Nature
+- Extreme Speed
+- Protect
+- Sacred Fire
+- Stomping Tantrum
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Volt Switch
+- Electro Drift
+- Snarl
+- Dazzling Gleam
+
+Ogerpon-Wellspring @ Wellspring Mask
+Ability: Water Absorb
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 252 Spe
+Jolly Nature
+- Horn Leech
+- Taunt
+- Spiky Shield
+- Wood Hammer
+
+Incineroar @ Rocky Helmet
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 252 Def / 12 Spe
+Impish Nature
+- Will-O-Wisp
+- Taunt
+- Fake Out
+- Knock Off
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Facade
+- Earthquake
+- Headlong Rush
+- Protect
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Normal
+EVs: 228 HP / 172 Def / 108 SpD
+Calm Nature
+- Trick Room
+- Foul Play
+- Psychic
+- Roar

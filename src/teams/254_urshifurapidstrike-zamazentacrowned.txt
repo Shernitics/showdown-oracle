@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 188 HP / 156 Def / 164 Spe
+Impish Nature
+- Protect
+- Body Press
+- Heavy Slam
+- Iron Head
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+EVs: 248 HP / 8 SpA / 252 SpD
+Calm Nature
+- Rage Powder
+- Pollen Puff
+- Protect
+- Spore
+
+Lunala @ Power Herb
+Ability: Shadow Shield
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 164 Def / 68 SpA / 20 SpD / 4 Spe
+Modest Nature
+- Wide Guard
+- Meteor Beam
+- Moonblast
+- Trick Room
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 156 HP / 252 Atk / 4 Def / 4 SpD / 92 Spe
+Adamant Nature
+- Surging Strikes
+- Protect
+- Close Combat
+- Detect
+
+Tornadus @ Sky Plate
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 100 HP / 140 Def / 76 SpA / 140 SpD / 52 Spe
+Bold Nature
+- Rain Dance
+- Bleakwind Storm
+- Tailwind
+- Taunt
+
+Indeedee-F @ Safety Goggles
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Heal Pulse
+- Follow Me
+- Psychic
+- Trick Room

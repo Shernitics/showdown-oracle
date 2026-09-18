@@ -1,0 +1,65 @@
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Aqua Jet
+- Close Combat
+- Surging Strikes
+- Coaching
+
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Water
+EVs: 204 HP / 156 Def / 20 SpD / 124 Spe
+Impish Nature
+- Iron Head
+- Wide Guard
+- Iron Defense
+- Protect
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 70 HP / 4 Def / 220 SpA / 4 SpD / 212 Spe
+Timid Nature
+- Will-O-Wisp
+- Tailwind
+- Fiery Dance
+- Overheat
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 228 HP / 4 Atk / 156 Def / 116 SpD / 4 Spe
+Careful Nature
+- Light Screen
+- Reflect
+- Parting Shot
+- Spirit Break
+
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Steel
+EVs: 180 HP / 20 Def / 244 SpA / 4 SpD / 60 Spe
+Modest Nature
+- Earth Power
+- Sandsear Storm
+- Calm Mind
+- Protect
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 236 HP / 4 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+- Electro Drift
+- Discharge
+- Dazzling Gleam
+- Volt Switch

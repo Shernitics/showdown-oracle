@@ -1,0 +1,65 @@
+Medicham @ Life Orb
+Ability: Pure Power
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 252 Atk / 252 Spe
+Hardy Nature
+- Close Combat
+- Fake Out
+- Trick Room
+- Protect
+
+Regigigas @ Clear Amulet
+Ability: Slow Start
+Level: 50
+Tera Type: Stellar
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Knock Off
+- Rock Slide
+- Facade
+- Crush Grip
+
+Flutter Mane @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Normal
+EVs: 236 HP / 132 Def / 140 Spe
+Timid Nature
+- Icy Wind
+- Taunt
+- Shadow Ball
+- Moonblast
+
+Weezing-Galar @ Sitrus Berry
+Ability: Neutralizing Gas
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Def / 4 SpA / 220 SpD / 30 Spe
+Bold Nature
+- Protect
+- Will-O-Wisp
+- Taunt
+- Sludge Bomb
+
+Slaking @ Weakness Policy
+Ability: Truant
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Knock Off
+- Protect
+- Sucker Punch
+- High Horsepower
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 200 Atk / 148 SpD / 156 Spe
+Adamant Nature
+- Body Press
+- Wave Crash
+- Protect
+- Earthquake

@@ -1,0 +1,65 @@
+Zamazenta-Crowned @ Rusted Shield
+Ability: Dauntless Shield
+Level: 50
+Tera Type: Dragon
+EVs: 100 HP / 4 Atk / 236 Def / 4 SpD / 164 Spe
+Impish Nature
+- Iron Head
+- Body Press
+- Iron Defense
+- Wide Guard
+
+Calyrex-Shadow @ Life Orb
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Fairy
+EVs: 6 HP / 252 SpA / 252 Spe
+Timid Nature
+- Pollen Puff
+- Astral Barrage
+- Draining Kiss
+- Protect
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+- Spore
+- Fake Out
+- Decorate
+- Follow Me
+
+Landorus @ Choice Scarf
+Ability: Sheer Force
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 4 Def / 116 SpA / 132 SpD / 4 Spe
+Modest Nature
+- Sludge Bomb
+- Earth Power
+- Sandsear Storm
+- Protect
+
+Raging Bolt @ Booster Energy
+Ability: Protosynthesis
+Level: 50
+Tera Type: Electric
+EVs: 20 HP / 84 Def / 100 SpA / 164 SpD / 140 Spe
+Modest Nature
+- Thunderclap
+- Draco Meteor
+- Dragon Pulse
+- Thunderbolt
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 156 Atk / 52 Def / 44 SpD / 4 Spe
+Adamant Nature
+- Roar
+- Fake Out
+- Parting Shot
+- Will-O-Wisp

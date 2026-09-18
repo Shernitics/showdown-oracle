@@ -1,0 +1,65 @@
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Ghost
+EVs: 108 HP / 252 SpA / 148 Spe
+Timid Nature
+- Earth Power
+- Sludge Bomb
+- Taunt
+- Protect
+
+Ogerpon-Cornerstone @ Cornerstone Mask
+Ability: Sturdy
+Level: 50
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Wood Hammer
+- Spiky Shield
+- Encore
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 236 HP / 4 Atk / 100 Def / 108 SpD / 60 Spe
+Careful Nature
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Will-O-Wisp
+
+Whimsicott @ Ring Target
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Tailwind
+- Moonblast
+- Helping Hand
+- Encore
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 140 HP / 180 Atk / 4 Def / 60 SpD / 124 Spe
+Adamant Nature
+- Ice Spinner
+- Detect
+- Close Combat
+- Coaching
+
+Calyrex-Shadow @ Covert Cloak
+Ability: As One (Spectrier)
+Level: 50
+Tera Type: Normal
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Trick
+- Psychic
+- Protect
+- Shadow Ball

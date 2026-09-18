@@ -1,0 +1,65 @@
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 4 Atk / 4 Def / 4 SpD / 252 Spe
+Jolly Nature
+- Parting Shot
+- Will-O-Wisp
+- Flare Blitz
+- Fake Out
+
+Urshifu @ Focus Sash
+Ability: Unseen Fist
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Detect
+- Sucker Punch
+- Wicked Blow
+- Close Combat
+
+Whimsicott @ Mental Herb
+Ability: Prankster
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 28 Def / 4 SpA / 196 SpD / 28 Spe
+Calm Nature
+- Encore
+- Tailwind
+- Moonblast
+- Taunt
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 100 HP / 248 Atk / 100 Def / 60 SpD
+Brave Nature
+- Protect
+- Headlong Rush
+- Facade
+- Earthquake
+
+Miraidon @ Life Orb
+Ability: Hadron Engine
+Level: 50
+Tera Type: Electric
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Protect
+- Electro Drift
+- Draco Meteor
+
+Farigiraf @ Electric Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 100 Def / 156 SpD
+Bold Nature
+- Helping Hand
+- Foul Play
+- Psychic
+- Psychic Noise

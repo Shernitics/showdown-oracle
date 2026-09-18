@@ -1,0 +1,65 @@
+Sinistcha @ Grassy Seed
+Ability: Hospitality
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 220 Def / 4 SpA / 28 SpD / 4 Spe
+Bold Nature
+- Calm Mind
+- Matcha Gotcha
+- Life Dew
+- Strength Sap
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 4 Def / 236 SpA / 4 SpD / 212 Spe
+Modest Nature
+- Ice Beam
+- Origin Pulse
+- Thunder
+- Water Spout
+
+Calyrex-Ice @ Clear Amulet
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 116 Atk / 4 Def / 84 SpD / 52 Spe
+Adamant Nature
+- Glacial Lance
+- Trick Room
+- Swords Dance
+- High Horsepower
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 66 Def / 188 SpD
+Careful Nature
+- Parting Shot
+- Flare Blitz
+- Fake Out
+- Knock Off
+
+Volcarona @ Electric Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 124 Def / 4 SpA / 52 SpD / 76 Spe
+Bold Nature
+- Heat Wave
+- Fiery Dance
+- Flamethrower
+- Quiver Dance
+
+Urshifu-Rapid-Strike @ Life Orb
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Close Combat
+- Surging Strikes
+- Aqua Jet
+- U-turn

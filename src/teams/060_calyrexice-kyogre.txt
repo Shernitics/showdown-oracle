@@ -1,0 +1,65 @@
+Landorus @ Life Orb
+Ability: Sheer Force
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Sandsear Storm
+- Protect
+- Earth Power
+- Substitute
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Grass
+EVs: 228 HP / 252 Atk / 28 Spe
+Adamant Nature
+- Protect
+- High Horsepower
+- Trick Room
+- Glacial Lance
+
+Pelipper @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+EVs: 252 HP / 206 SpA / 52 Spe
+Modest Nature
+- Weather Ball
+- Protect
+- Wide Guard
+- Hurricane
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Water Spout
+- Hydro Pump
+- Origin Pulse
+- Thunder
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 6 Def / 252 Spe
+Jolly Nature
+- Follow Me
+- Acid Spray
+- Decorate
+- Wide Guard
+
+Volcarona @ Safety Goggles
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 204 SpD / 52 Spe
+Bold Nature
+- Rage Powder
+- Quiver Dance
+- Struggle Bug
+- Protect

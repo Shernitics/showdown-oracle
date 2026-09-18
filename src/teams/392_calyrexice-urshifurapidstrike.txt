@@ -1,0 +1,65 @@
+Iron Treads @ Clear Amulet
+Ability: Quark Drive
+Level: 50
+Tera Type: Stellar
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Knock Off
+- Steel Roller
+- Volt Switch
+
+Terapagos @ Choice Specs
+Ability: Tera Shift
+Level: 50
+Tera Type: Stellar
+EVs: 12 HP / 156 Def / 252 SpA / 36 SpD / 52 Spe
+Modest Nature
+- Tera Starstorm
+- Dazzling Gleam
+- Calm Mind
+- Earth Power
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 4 Def / 252 SpA
+Quiet Nature
+- Trick Room
+- Strength Sap
+- Matcha Gotcha
+- Rage Powder
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 28 Def / 244 SpD
+Calm Nature
+- Trick Room
+- Helping Hand
+- Light Screen
+- Imprison
+
+Urshifu-Rapid-Strike @ Choice Scarf
+Ability: Unseen Fist
+Level: 50
+Tera Type: Water
+EVs: 20 HP / 252 Atk / 36 Def / 4 SpD / 196 Spe
+Adamant Nature
+- Aqua Jet
+- Close Combat
+- Detect
+- Surging Strikes
+
+Calyrex-Ice @ Choice Band
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Normal
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Trick Room
+- Protect
+- Glacial Lance
+- Crunch

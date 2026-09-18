@@ -1,0 +1,65 @@
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 6 Def / 252 Spe
+Jolly Nature
+- Decorate
+- Wide Guard
+- Spore
+- Acid Spray
+
+Kyogre @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Grass
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Origin Pulse
+- Ice Beam
+- Thunder
+- Hydro Pump
+
+Riolu @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Coaching
+- Upper Hand
+- Rain Dance
+- Helping Hand
+
+Calyrex-Ice @ Leftovers
+Ability: As One (Glastrier)
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+- Leech Seed
+- Protect
+- Trick Room
+- Glacial Lance
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 236 HP / 188 Def / 84 SpD
+Sassy Nature
+- Protect
+- Sludge Bomb
+- Rage Powder
+- Pollen Puff
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 244 HP / 20 Atk / 36 Def / 188 SpD / 20 Spe
+Adamant Nature
+- Fake Out
+- U-turn
+- High Horsepower
+- Wood Hammer
