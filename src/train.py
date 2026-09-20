@@ -1,28 +1,30 @@
 from pathlib import Path
 
 from sb3_contrib import MaskablePPO
-from poke_env.player import RandomPlayer
+from poke_env.player import RandomPlayer, MaxBasePowerPlayer, SimpleHeuristicsPlayer
 from poke_env.environment import SingleAgentWrapper
+
 
 from env import VGCEnv
 from wrapper import DoubleAgentWrapper
 from extractor import VGCExtractor
-
+from teambuilder import VGCTeams
 
 FORMAT = "gen9vgc2025regi"
-TEAM = (Path(__file__).parent / "teams" / "test_team.txt").read_text()
+TEAM_DIR = Path(__file__).parent / "teams"
 MODEL_DIR = Path(__file__).parent / "model"
 TOTAL_TIMESTEPS = 2048
 
+players = [RandomPlayer, MaxBasePowerPlayer, SimpleHeuristicsPlayer]
 
 def make_env():
     env = VGCEnv(
         battle_format=FORMAT,
-        team=TEAM,
+        team=VGCTeams(TEAM_DIR),
         strict=False,
         choose_on_teampreview=True,
     )
-    opponent = RandomPlayer(battle_format=FORMAT, team=TEAM)
+    opponent = RandomPlayer(battle_format=FORMAT)
     return DoubleAgentWrapper(SingleAgentWrapper(env, opponent))
 
 def main():

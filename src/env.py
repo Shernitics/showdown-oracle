@@ -1,13 +1,13 @@
-from poke_env.environment import DoublesEnv
 import numpy as np
 from gymnasium import spaces
+from poke_env.environment import DoublesEnv
 
-from encode.state import encode_state, TEAM_SIZE, MOVE_SLOTS
-from encode.pokemon import POKEMON_FEATURES_CONT
-from encode.moves import MOVE_FEATURES_CONT
-from encode.battle import ENVIRONMENT_FEATURES_CONT
-from encode.vocab import SPECIES_NUM, ITEM_NUM, ABILITY_NUM, MOVE_NUM
 from config import VICTORY_VALUE, FAINTED_VALUE, HP_VALUE, STATUS_VALUE
+from encode.battle import ENVIRONMENT_FEATURES_CONT
+from encode.moves import MOVE_FEATURES_CONT
+from encode.pokemon import POKEMON_FEATURES_CONT
+from encode.state import encode_state, TEAM_SIZE, MOVE_SLOTS
+from encode.vocab import SPECIES_NUM, ITEM_NUM, ABILITY_NUM, MOVE_NUM
 
 SLOTS = TEAM_SIZE * 2
 BROUGHT_SIZE = 4
@@ -29,6 +29,12 @@ class VGCEnv(DoublesEnv):
             }
         )
         self.observation_spaces = {a: observation for a in self.possible_agents}
+
+    @staticmethod
+    def action_to_order(action, battle, fake=False, strict=True):
+        return DoublesEnv.action_to_order(
+            action, battle, fake=fake or battle.teampreview, strict=strict
+        )
 
     def embed_battle(self, battle):
         state = encode_state(battle)
