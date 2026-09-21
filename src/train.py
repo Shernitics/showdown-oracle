@@ -19,7 +19,7 @@ TEAM_DIR = Path(__file__).parent / "teams"
 MODEL_DIR = Path(__file__).parent / "model"
 LOG_DIR = Path(__file__).parent / "logs"
 STEPS_PER_ENV = 512
-TOTAL_TIMESTEPS = 16896
+TOTAL_TIMESTEPS = 84480
 
 PLAYERS = {
     RandomPlayer: "random",
