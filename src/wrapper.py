@@ -22,6 +22,8 @@ class DoubleAgentWrapper(gym.Wrapper):
         self._mask = None
         self.n_steps = 0
         self.n_repairs = 0
+        self.repairs = [0, 0, 0, 0]         # 0 - pass, 1 - switch, 2 - move, 3 - tera
+        self.last_action = None
 
     @staticmethod
     def gimmick_tier(action):
@@ -56,6 +58,7 @@ class DoubleAgentWrapper(gym.Wrapper):
 
         if g0 == g1 == 3:
             self.n_repairs += 1
+            self.repairs[3] += 1
             options = ([a0, a1 - TERA_OFFSET], [a0 - TERA_OFFSET, a1])
             return np.array(random.choice(options), dtype=np.int64)
 
@@ -71,6 +74,7 @@ class DoubleAgentWrapper(gym.Wrapper):
 
             if options:
                 self.n_repairs += 1
+                self.repairs[g0] += 1
                 return np.array(random.choice(options), dtype=np.int64)
 
         return actions
@@ -85,7 +89,8 @@ class DoubleAgentWrapper(gym.Wrapper):
 
     def step(self, action):
         self.n_steps += 1
-        observation, reward, terminated, truncated, info = self.env.step(self._repair(action))
+        self.last_action = self._repair(action)
+        observation, reward, terminated, truncated, info = self.env.step(self.last_action)
         return self._split(observation), reward, terminated, truncated, info
 
     @property

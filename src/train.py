@@ -7,6 +7,7 @@ from poke_env.player import RandomPlayer, MaxBasePowerPlayer, SimpleHeuristicsPl
 from poke_env.environment import SingleAgentWrapper
 from stable_baselines3.common.vec_env import SubprocVecEnv
 from stable_baselines3.common.monitor import Monitor
+from metrics import BattleStats, BattleLogger
 
 from env import VGCEnv
 from wrapper import DoubleAgentWrapper
@@ -16,6 +17,7 @@ from teambuilder import VGCTeams
 FORMAT = "gen9vgc2025regi"
 TEAM_DIR = Path(__file__).parent / "teams"
 MODEL_DIR = Path(__file__).parent / "model"
+LOG_DIR = Path(__file__).parent / "logs"
 STEPS_PER_ENV = 512
 TOTAL_TIMESTEPS = 16896
 
@@ -39,7 +41,9 @@ def make_env(opponent_cls, seed):
         account_configuration=AccountConfiguration(f"opp-{PLAYERS[opponent_cls]}", None),
     )
 
-    return Monitor(DoubleAgentWrapper(SingleAgentWrapper(env, opponent)))
+    wrapped = DoubleAgentWrapper(SingleAgentWrapper(env, opponent))
+
+    return Monitor(BattleStats(wrapped, env, PLAYERS[opponent_cls]))
 
 def main():
 
@@ -47,18 +51,27 @@ def main():
         [partial(make_env, cls, seed) for seed, cls in enumerate(PLAYERS)]
     )
 
-    model = MaskablePPO(
-        "MultiInputPolicy",
-        vec_env,
-        n_steps=STEPS_PER_ENV,
-        policy_kwargs={"features_extractor_class": VGCExtractor},
-        verbose=1,
-    )
+    if (MODEL_DIR / "vgc.zip").exists():
+        model = MaskablePPO.load(MODEL_DIR / "vgc", env=vec_env)
+        print(f"[loaded]    {MODEL_DIR / 'vgc.zip'} at {model.num_timesteps} steps")
+    else:
+        model = MaskablePPO(
+            "MultiInputPolicy",
+            vec_env,
+            n_steps=STEPS_PER_ENV,
+            policy_kwargs={"features_extractor_class": VGCExtractor},
+            verbose=1,
+        )
 
     print("extractor:", type(model.policy.features_extractor).__name__)
 
     try:
-        model.learn(total_timesteps=TOTAL_TIMESTEPS)
+        LOG_DIR.mkdir(exist_ok=True)
+        model.learn(
+            total_timesteps=TOTAL_TIMESTEPS,
+            callback=BattleLogger(LOG_DIR / "battles.csv"),
+            reset_num_timesteps=False,        # keep counting across runs
+        )
         MODEL_DIR.mkdir(exist_ok=True)
         model.save(MODEL_DIR / "vgc")
         repairs = sum(vec_env.get_attr("n_repairs"))
