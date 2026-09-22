@@ -9,10 +9,10 @@ from poke_env.battle import Move
 from encode.vocab import *
 from encode.helpers import normalize
 
-MOVE_FEATURES_CONT = 92
+MOVE_FEATURES_CONT = 94
 MOVE_FEATURES_CAT = 1
 
-def encode_move(move: Move):
+def encode_move(move: Move, defenders=(None, None)):
 
     if move is None:
         return {
@@ -63,6 +63,8 @@ def encode_move(move: Move):
     recoil = move.recoil
     heal = move.heal
 
+    effectiveness = [normalize(d.damage_multiplier(move), 4.0) if d is not None and not d.fainted and move.base_power > 0 else 0.0 for d in defenders]
+
     # behavior
     force_switch = float(move.force_switch)
     self_switch = float(bool(move.self_switch))
@@ -86,7 +88,7 @@ def encode_move(move: Move):
             *status,
 
             # damage profile
-            expected_hits, crit_ratio, drain, recoil, heal,
+            expected_hits, crit_ratio, drain, recoil, heal, *effectiveness,
 
             # behaviour
             force_switch, self_switch, breaks_protect, is_protect_move, ignore_ability, thaws_target,
