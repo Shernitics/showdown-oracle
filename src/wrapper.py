@@ -5,8 +5,6 @@ Two major roles:
 - Splits observation and action mask, the observation is returned normally whereas the mask is held here.
 - Repairs when a pair of moves, which are individually legal but jointly illegal such as terastallizing together, switching to the same Pokémon or both pass.
 """
-import random
-
 import gymnasium as gym
 import numpy as np
 from poke_env.environment import DoublesEnv
@@ -49,33 +47,31 @@ class DoubleAgentWrapper(gym.Wrapper):
             raise ValueError("Action out of range")
 
     def _repair(self, actions):
-        """
-        Checks if a jointed pair of actions is rejected, if so, randomize the new action pairs.
-        """
 
         a0, a1 = actions
         g0, g1 = self.gimmick_tier(a0), self.gimmick_tier(a1)
 
-        if g0 == g1 == 3:
-            self.n_repairs += 1
-            self.repairs[3] += 1
-            options = ([a0, a1 - TERA_OFFSET], [a0 - TERA_OFFSET, a1])
-            return np.array(random.choice(options), dtype=np.int64)
+        if g0 == g1 == 3:                       # one tera per battle, so the right slot keeps it
+            demoted = a0 - TERA_OFFSET          # same move and target, minus the gimmick
+            if self._mask[demoted]:
+                self.n_repairs += 1
+                self.repairs[3] += 1
+                return np.array([demoted, a1], dtype=np.int64)
 
-        if a0 == a1 and g0 in (0, 1):
+        if a0 == a1 and g0 in (0, 1):           # both slots want the same switch, or both pass
             left, right = np.flatnonzero(self._mask[:self.half]),  np.flatnonzero(self._mask[self.half:])
             left, right = left[left != a0], right[right != a1]
 
-            options = []
-            if left.size:
-                options.append([int(np.random.choice(left)), a1])
-            if right.size:
-                options.append([a0, int(np.random.choice(right))])
+            if left.size:                       # lowest legal alternative, never a random one
+                repaired = [int(left[0]), a1]
+            elif right.size:
+                repaired = [a0, int(right[0])]
+            else:
+                return actions                  # nothing to swap to; poke-env handles it
 
-            if options:
-                self.n_repairs += 1
-                self.repairs[g0] += 1
-                return np.array(random.choice(options), dtype=np.int64)
+            self.n_repairs += 1
+            self.repairs[g0] += 1
+            return np.array(repaired, dtype=np.int64)
 
         return actions
 

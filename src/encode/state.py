@@ -43,11 +43,10 @@ def encode_state(battle: DoubleBattle):
     # Pokemon (player, opp) (asc)
     pokemon_enc = [encode_pokemon(p, positions.get(id(p)) if p else None) for p in slots]
     moves_enc = []
-    for i, p in enumerate(slots):
-        defenders = battle.opponent_active_pokemon if i < TEAM_SIZE else battle.active_pokemon
+    for p in slots:
         m = list(p.moves.values())[:MOVE_SLOTS] if p else []
         m += [None] * (MOVE_SLOTS - len(m))
-        moves_enc.append([encode_move(x, defenders) for x in m])
+        moves_enc.append([encode_move(x) for x in m])
     battle_enc = encode_battle(battle)
 
     return {

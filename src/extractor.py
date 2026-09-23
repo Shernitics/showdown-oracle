@@ -26,7 +26,7 @@ class VGCExtractor(BaseFeaturesExtractor):
         # 590 = 110 + (3 * 16) {species, items, abilities} + (4 * 108)
         pokemon_width = POKEMON_FEATURES_CONT + 3 * EMBEDDING_DIM + MOVE_SLOTS * move_width
 
-        # 1617 = (12 * 128) + 81
+        # 1618 = (12 * 128) + 82
         features_dim = SLOTS * POKEMON_HIDDEN + ENVIRONMENT_FEATURES_CONT
 
         super(VGCExtractor, self).__init__(observation_space, features_dim)

@@ -1,14 +1,14 @@
+import os
 from pathlib import Path
 from functools import partial
 
 from poke_env import AccountConfiguration
-from poke_env.battle import DoubleBattle
-from poke_env.battle.move import SPECIAL_MOVES
 from sb3_contrib import MaskablePPO
 from poke_env.player import RandomPlayer, MaxBasePowerPlayer, SimpleHeuristicsPlayer
 from poke_env.environment import SingleAgentWrapper
 from stable_baselines3.common.vec_env import SubprocVecEnv
 from stable_baselines3.common.monitor import Monitor
+from stable_baselines3.common.callbacks import BaseCallback, CallbackList
 from metrics import BattleStats, BattleLogger
 
 from env import VGCEnv
@@ -22,6 +22,33 @@ MODEL_DIR = Path(__file__).parent / "model"
 LOG_DIR = Path(__file__).parent / "logs"
 STEPS_PER_ENV = 512
 TOTAL_TIMESTEPS = 84480
+SAVE_EVERY = 10240          # timesteps between checkpoints, a multiple of the rollout
+
+
+class PeriodicSave(BaseCallback):
+
+    def __init__(self, path, every):
+        super().__init__()
+        self.path = Path(path)
+        self.every = every
+        self.last = 0
+
+    def _on_step(self):
+
+        if self.num_timesteps - self.last < self.every:
+            return True
+
+        self.last = self.num_timesteps
+        self.path.parent.mkdir(exist_ok=True)
+
+        target = self.path.with_suffix(".zip")
+        tmp = target.with_name(target.stem + ".tmp.zip")
+
+        self.model.save(tmp)
+        os.replace(tmp, target)
+
+        print(f"[checkpoint] {self.num_timesteps} steps", flush=True)
+        return True
 
 PLAYERS = {
     RandomPlayer: "random",
@@ -29,26 +56,8 @@ PLAYERS = {
     SimpleHeuristicsPlayer: "heuristics",
 }
 
-_showdown_targets = DoubleBattle.get_possible_showdown_targets
-
-
-def _possible_targets(self, move, pokemon, dynamax=False):
-
-    targets = _showdown_targets(self, move, pokemon, dynamax)
-
-    if targets != [self.EMPTY_TARGET_POSITION] or move.id in SPECIAL_MOVES:
-        return targets
-
-    pos = self.active_pokemon.index(pokemon)
-    if not (self.trapped[pos] and [m.id for m in self.available_moves[pos]] == [move.id]):
-        return targets
-
-    return [slot for slot, foe in enumerate(self.opponent_active_pokemon, self.OPPONENT_1_POSITION) if foe is not None and not foe.fainted] or targets
-
 
 def make_env(opponent_cls, seed):
-
-    DoubleBattle.get_possible_showdown_targets = _possible_targets   # each worker is its own process
 
     env = VGCEnv(
         battle_format=FORMAT,
@@ -90,7 +99,10 @@ def main():
         LOG_DIR.mkdir(exist_ok=True)
         model.learn(
             total_timesteps=TOTAL_TIMESTEPS,
-            callback=BattleLogger(LOG_DIR / "battles.csv"),
+            callback=CallbackList([
+                BattleLogger(LOG_DIR / "battles.csv", expected=PLAYERS.values()),
+                PeriodicSave(MODEL_DIR / "vgc", SAVE_EVERY),
+            ]),
             reset_num_timesteps=False,        # keep counting across runs
         )
         MODEL_DIR.mkdir(exist_ok=True)
