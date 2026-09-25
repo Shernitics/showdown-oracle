@@ -284,6 +284,7 @@ class BattleLogger(BaseCallback):
         self.seen_opponents = set(expected)
         self.since_check = 0
         self.since_size_check = 0
+        self.write_failures = 0
         self.warned = set()
 
     def _on_step(self):
@@ -408,8 +409,16 @@ class BattleLogger(BaseCallback):
 
     def _write(self, row):
 
-        with self.path.open("a", newline="", encoding="utf-8") as f:
-            csv.DictWriter(f, fieldnames=FIELDS).writerow(row)
+        # a lost row is survivable, a dead run is not
+        try:
+            with self.path.open("a", newline="", encoding="utf-8") as f:
+                csv.DictWriter(f, fieldnames=FIELDS).writerow(row)
+        except OSError as exc:
+            self.write_failures += 1
+            if self.write_failures in (1, 10, 100) or self.write_failures % 1000 == 0:
+                print(f"[warning]   log write failed ({type(exc).__name__}), "
+                      f"{self.write_failures} so far", flush=True)
+            return
 
         self.since_size_check += 1
         if self.since_size_check >= ROTATE_CHECK_EVERY:

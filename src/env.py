@@ -1,6 +1,7 @@
 import numpy as np
 from gymnasium import spaces
 from poke_env.environment import DoublesEnv
+from poke_env.player import DefaultBattleOrder
 
 from config import VICTORY_VALUE, FAINTED_VALUE, HP_VALUE, STATUS_VALUE
 from encode.battle import ENVIRONMENT_FEATURES_CONT
@@ -32,6 +33,12 @@ class VGCEnv(DoublesEnv):
 
     @staticmethod
     def action_to_order(action, battle, fake=False, strict=True):
+
+        # poke-env rejects pass, pass, but when both slots can only pass it is
+        # the one legal choice and the turn never advances without it
+        if not battle.teampreview and action[0] == 0 and action[1] == 0:
+            return DefaultBattleOrder()
+
         return DoublesEnv.action_to_order(
             action, battle, fake=fake or battle.teampreview, strict=strict
         )

@@ -3,6 +3,8 @@ from pathlib import Path
 from functools import partial
 
 from poke_env import AccountConfiguration
+from poke_env.battle import DoubleBattle, Target
+from poke_env.battle.move import SPECIAL_MOVES
 from sb3_contrib import MaskablePPO
 from poke_env.player import RandomPlayer, MaxBasePowerPlayer, SimpleHeuristicsPlayer
 from poke_env.environment import SingleAgentWrapper
@@ -44,8 +46,15 @@ class PeriodicSave(BaseCallback):
         target = self.path.with_suffix(".zip")
         tmp = target.with_name(target.stem + ".tmp.zip")
 
-        self.model.save(tmp)
-        os.replace(tmp, target)
+        # a skipped save is survivable, a crash loop on a full disk is not
+        try:
+            self.model.save(tmp)
+            os.replace(tmp, target)
+        except OSError as exc:
+            print(f"[warning]   checkpoint failed ({type(exc).__name__}), keeping the last one",
+                  flush=True)
+            tmp.unlink(missing_ok=True)
+            return True
 
         print(f"[checkpoint] {self.num_timesteps} steps", flush=True)
         return True
@@ -56,8 +65,32 @@ PLAYERS = {
     SimpleHeuristicsPlayer: "heuristics",
 }
 
+_showdown_targets = DoubleBattle.get_possible_showdown_targets
+
+
+def _possible_targets(self, move, pokemon, dynamax=False):
+    """
+    A trapped pokemon whose only move is randomNormal, outrage and the like, gets
+    an empty target list, so no legal action exists and the battle stops advancing.
+    """
+
+    targets = _showdown_targets(self, move, pokemon, dynamax)
+
+    if (targets != [self.EMPTY_TARGET_POSITION]
+            or move.target != Target.RANDOM_NORMAL      # SELF moves also want no target
+            or move.id in SPECIAL_MOVES):               # struggle is randomNormal but fine
+        return targets
+
+    pos = self.active_pokemon.index(pokemon)
+    if not (self.trapped[pos] and [m.id for m in self.available_moves[pos]] == [move.id]):
+        return targets
+
+    return [slot for slot, foe in enumerate(self.opponent_active_pokemon, self.OPPONENT_1_POSITION) if foe is not None and not foe.fainted] or targets
+
 
 def make_env(opponent_cls, seed):
+
+    DoubleBattle.get_possible_showdown_targets = _possible_targets   # each worker is its own process
 
     env = VGCEnv(
         battle_format=FORMAT,
